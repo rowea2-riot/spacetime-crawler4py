@@ -6,7 +6,7 @@ import builtins
 
 def generate_new_log_file():
     logpath = "Outputs/log"
-    logpath += time.strftime("%Y%m%d-%H%M%S") + ".txt"
+    logpath += str(time()) + ".txt"
     return logpath
 logfile = generate_new_log_file()
 
