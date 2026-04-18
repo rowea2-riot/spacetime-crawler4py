@@ -17,6 +17,23 @@ def extract_next_links(url, resp):
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
 
     #in tokenizer, before adding a token to the list, check if in stop word list, if so, throw out
+
+    #pseudocode:
+    #procedure CrawlerThread(Frontier)
+    #   while not frontier.done() do
+    #      website = frontier.nextSite()
+    #      url = website.nextUrl()
+    #      if website.permitsCRawl(url) then
+    #          text = retrieveURL(url)
+    #          storeDocument(url, text)
+    #          for each url in parse(text) do
+    #              frontier.addURL(url)
+    #          end for
+    #      end if
+    #   end while
+    #end procedure
+
+
     return list()
 
 def is_valid(url):
