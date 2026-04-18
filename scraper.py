@@ -1,9 +1,10 @@
 import re
 from datetime import datetime
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urldefrag
 import builtins
 from stop_words import get_stop_words
+
 
 def generate_new_log_file():
     logpath = "Outputs/log"
@@ -14,6 +15,21 @@ logfile = generate_new_log_file()
 def scraper(url, resp):
     links = extract_next_links(url, resp)
     return [link for link in links if is_valid(link)]
+
+def parse_unique_url(url):
+    #remove fragment
+    new_url, fragment = urldefrag(url)
+    subdomain = urlparse(new_url).netloc
+
+    if subdomain not in url_dict:
+        url_dict[subdomain] = set()
+    url_dict[subdomain].add(new_url)
+
+def log_subdomains():
+    subdomains = sorted(url_dict.keys())
+    for subdomain in subdomains:
+        unique_pages_len = len(url_dict[subdomain])
+        log(f"{subdomain}, {unique_pages_len}")
 
 def extract_next_links(url, resp):
     # Implementation required.
@@ -52,6 +68,7 @@ def extract_next_links(url, resp):
         #1. Make sure to return only URLs that are within the domains and paths mentioned above! (see is_valid function in scraper.py -- you need to change it)
         if is_valid(scraped_url):
             links.append(scraped_url)
+            parse_unique_url(scraped_url)
         else:
             skippedLinks.append(scraped_url)
 
@@ -119,6 +136,7 @@ def tokenize_content(content: str):
 blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
+url_dict = {}
 
 #For figuring out how often words show up
 def computeWordFrequencies(token_lst):
