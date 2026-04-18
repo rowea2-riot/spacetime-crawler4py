@@ -1,0 +1,27 @@
+
+
+SEARCHING THE FOLLOWING URL:
+ https://acoi.ics.uci.edu/seminars/leakage-and-protection-of-dataset-properties, Status: 200, Error: None
+
+Found enqueued the following links:
+ ['https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'http://ics.uci.edu/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'http://ics.uci.edu/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'http://ics.uci.edu/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'http://ics.uci.edu/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/seminars/']
+
+Found and skipped the following links:
+ ['#', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '//www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/contact/', '#', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '//www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/contact/', '#', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '//www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/contact/', '#', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '//www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/contact/', '/', '//uci.edu/privacy/index.php', '//uci.edu/copyright/', '#', '#', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://acoi.ics.uci.edu/seminars/when-matching-meets-batching-optimal-multi-stage-algorithms-and-applications, Status: 200, Error: None
+
+Found enqueued the following links:
+ ['https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'http://ics.uci.edu/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'http://ics.uci.edu/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'http://ics.uci.edu/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'http://ics.uci.edu/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/seminars/']
+
+Found and skipped the following links:
+ ['#', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '//www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/contact/', '#', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '//www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/contact/', '#', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '//www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/contact/', '#', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '//www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/contact/', 'https://urldefense.com/v3/__https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689448__;!!CzAuKJ42GuquVTTmVmPViYEvSg!LCPQSOk5rDbra6LDo0UtisXEG8vbfnEAvZU5KBxNjMhEJbMKCLFCnvz_nnKjLLGhotMHQc3ippMJzzjiePU$', 'https://urldefense.com/v3/__https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924687__;!!CzAuKJ42GuquVTTmVmPViYEvSg!LCPQSOk5rDbra6LDo0UtisXEG8vbfnEAvZU5KBxNjMhEJbMKCLFCnvz_nnKjLLGhotMHQc3ippMJzLvJ16I$', '/', '//uci.edu/privacy/index.php', '//uci.edu/copyright/', '#', '#', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+Failed to retrieve https://ics.uci.edu/happening/news/?filter%5Bunits%5D=69&filter%5Bresearch_areas_ics%5D=1994. Status code: 608. Error: Denied by domain robot rules.
