@@ -28,14 +28,20 @@ def extract_next_links(url, resp):
             return []
     
     raw_response = resp.raw_response # resp.raw_response: this is where the page actually is. More specifically, the raw_response has two parts:
+    
+    if(raw_response is None):
+        log(f"Failed to retrieve {url}. Status code: {status}. Error: {error}")
+        return []
+    
     content = raw_response.content # resp.raw_response.content: the content of the page!
     actual_url = resp.url # resp.url: the actual url of the page, resp.raw_response.url: the url, again
     
     #3. You can use whatever libraries make your life easier to parse things. Optional dependencies you might want to look at: BeautifulSoup, lxml (nudge, nudge, wink, wink!)
     soup = BeautifulSoup(content, 'html.parser')
 
-    log(f"URL: {url}, ACTUAL URL: {actual_url}, Status: {status}, Error: {error}")
-    log(f"Content length: {len(soup.contents)} bytes")
+    log('\n')
+    log('\n')
+    log(f"SEARCHING THE FOLLOWING URL\n: {actual_url}, Status: {status}, Error: {error}")
 
     tokenize_content(soup.get_text())
 
@@ -53,8 +59,12 @@ def extract_next_links(url, resp):
         #TODO: 4. Optionally, in the scraper function, you can also save the URL and the web page on your local disk.
         #TODO: 5. See Crawler Details (https://canvas.eee.uci.edu/courses/82958/assignments/1822602)
     
+    if len(links) > 0:
+        log(f"Found enqueued the following links:\n {links}\n")
     if len(skippedLinks) > 0:
-        log(f"Found and skipped the following links: {skippedLinks}")
+        log(f"Found and skipped the following links:\n {skippedLinks}\n")
+    log('\n')
+    log('\n')
 
     #in tokenizer, before adding a token to the list, check if in stop word list, if so, throw out
     return links # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
