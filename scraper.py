@@ -65,9 +65,29 @@ def tokenize_content(content: str):
     #3. What are the 50 most common words in the entire set of pages crawled under these domains ? (Ignore English stop words, which can be found, for example, here Links to an external site.) Submit the list of common words ordered by frequency.
     #4. How many subdomains did you find in the uci.edu domain? Submit the list of subdomains ordered alphabetically and the number of unique pages detected in each subdomain. The content of this list should be lines containing subdomain, number, for example:
         #vision.ics.uci.edu, 10 (not the actual number here)
+    try:
+        token_lst = []
+        with open(TextFilePath, 'r', encoding='utf-8') as f:
+            new_word = ''
+            for line in f:
+                for char in line:
+                    if char.isalnum() and char.isascii():
+                        if char.isalpha(): # if char is a letter, convert to lowercase
+                            char = char.lower()
+                        new_word += char
+                    else: #if char is not alphanumeric, then we have reached the end of a word
+                        if new_word != '':
+                            token_lst.append(new_word)
+                        new_word = ''
+            if new_word != '': # for last word if line ends in alphanumeric character
+                token_lst.append(new_word)
+        return token_lst
+    except FileNotFoundError:
+        builtins.print("File not found.")
+    except Exception as e:
+        builtins.print(f"An error happened:{e}")
 
-    pass
-
+        
 blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 
