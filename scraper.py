@@ -71,7 +71,7 @@ def tokenize_content(content: str):
             new_word = ''
             for line in f:
                 for char in line:
-                    if char.isalnum() and char.isascii():
+                    if char.isalnum() or char == "'" or char == '-':
                         if char.isalpha(): # if char is a letter, convert to lowercase
                             char = char.lower()
                         new_word += char
@@ -90,6 +90,7 @@ def tokenize_content(content: str):
         
 blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
+#wordFrequency = {}
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
