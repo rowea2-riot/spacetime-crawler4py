@@ -39,7 +39,7 @@ def extract_next_links(url, resp):
     #3. You can use whatever libraries make your life easier to parse things. Optional dependencies you might want to look at: BeautifulSoup, lxml (nudge, nudge, wink, wink!)
     soup = BeautifulSoup(content, 'html.parser')
 
-    log('\n')
+    log('')
     log(f"SEARCHING THE FOLLOWING URL:\n {actual_url}, Status: {status}, Error: {error}\n")
 
     tokenize_content(soup.get_text())
@@ -59,12 +59,12 @@ def extract_next_links(url, resp):
         #TODO: 5. See Crawler Details (https://canvas.eee.uci.edu/courses/82958/assignments/1822602)
     
     if len(links) > 0:
-        log(f"Found enqueued the following links:\n {links}\n")
+        log(f"Found and enqueued the following links:\n {links}\n")
     else:
         log("No valid links found on this page.\n")
     if len(skippedLinks) > 0:
         log(f"Found and skipped the following links:\n {skippedLinks}\n")
-    log('\n')
+    log('')
 
     #in tokenizer, before adding a token to the list, check if in stop word list, if so, throw out
     return links # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
