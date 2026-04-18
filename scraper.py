@@ -1,12 +1,12 @@
 import re
-from time import time
+from datetime import datetime
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 import builtins
 
 def generate_new_log_file():
     logpath = "Outputs/log"
-    logpath += str(time()) + ".txt"
+    logpath += datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + ".txt"
     return logpath
 logfile = generate_new_log_file()
 
@@ -60,7 +60,7 @@ def extract_next_links(url, resp):
     return links # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
 
 def log(string):
-    with open(logfile, "w") as file:
+    with open(logfile, "a") as file:
         file.write(f"{string}\n")
 
 def tokenize_content(content: str):
