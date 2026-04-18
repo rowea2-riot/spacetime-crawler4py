@@ -40,8 +40,7 @@ def extract_next_links(url, resp):
     soup = BeautifulSoup(content, 'html.parser')
 
     log('\n')
-    log('\n')
-    log(f"SEARCHING THE FOLLOWING URL\n: {actual_url}, Status: {status}, Error: {error}")
+    log(f"SEARCHING THE FOLLOWING URL:\n {actual_url}, Status: {status}, Error: {error}\n")
 
     tokenize_content(soup.get_text())
 
@@ -61,9 +60,10 @@ def extract_next_links(url, resp):
     
     if len(links) > 0:
         log(f"Found enqueued the following links:\n {links}\n")
+    else:
+        log("No valid links found on this page.\n")
     if len(skippedLinks) > 0:
         log(f"Found and skipped the following links:\n {skippedLinks}\n")
-    log('\n')
     log('\n')
 
     #in tokenizer, before adding a token to the list, check if in stop word list, if so, throw out
