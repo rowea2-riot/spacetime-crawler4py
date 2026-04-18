@@ -92,6 +92,18 @@ blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"}
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 #wordFrequency = {}
 
+def computeWordFrequencies(token_lst):
+    try:
+        token_dict = {}
+        for word in token_lst:
+            if word in token_dict:
+                token_dict[word] += 1
+            else:
+                token_dict[word] = 1
+        return token_dict
+    except Exception as e:
+        builtins.print(f"An error happened:{e}")
+
 def is_valid(url):
     # Decide whether to crawl this url or not. 
     # If you decide to crawl it, return True; otherwise return False.
