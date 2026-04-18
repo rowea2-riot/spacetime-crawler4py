@@ -1,6 +1,14 @@
 import re
+from time import time
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
+import builtins
+
+def generate_new_log_file():
+    logpath = "Outputs/log"
+    logpath += time.strftime("%Y%m%d-%H%M%S") + ".txt"
+    return logpath
+logfile = generate_new_log_file()
 
 def scraper(url, resp):
     links = extract_next_links(url, resp)
@@ -32,29 +40,28 @@ def extract_next_links(url, resp):
     tokenize_content(soup.get_text())
 
     links = list()
+    skippedLinks = list()
     for link in soup.find_all('a', href=True):
         scraped_url = link['href']
         #1. Make sure to return only URLs that are within the domains and paths mentioned above! (see is_valid function in scraper.py -- you need to change it)
         if is_valid(scraped_url):
             links.append(scraped_url)
         else:
-            log(f"Invalid URL found and skipped: {scraped_url}")
+            skippedLinks.append(scraped_url)
 
         #TODO: 2. Make sure to defragment the URLs, i.e. remove the fragment part.
         #TODO: 4. Optionally, in the scraper function, you can also save the URL and the web page on your local disk.
         #TODO: 5. See Crawler Details (https://canvas.eee.uci.edu/courses/82958/assignments/1822602)
     
+    if len(skippedLinks) > 0:
+        log(f"Found and skipped the following links: {skippedLinks}")
+
     #in tokenizer, before adding a token to the list, check if in stop word list, if so, throw out
     return links # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
 
 def log(string):
-    #TODO: replace with actual logging into file or something of the sort
-    #append mode so it doesn't wipe the log
-    with open("Outputs/log.txt", "a") as file:
+    with open(logfile, "w") as file:
         file.write(f"{string}\n")
-
-    #for now, we will just print
-    #print(string)
 
 def tokenize_content(content: str):
     # TODO: Implementation for tokenizing the content
@@ -67,23 +74,21 @@ def tokenize_content(content: str):
         #vision.ics.uci.edu, 10 (not the actual number here)
     try:
         token_lst = []
-        with open(TextFilePath, 'r', encoding='utf-8') as f:
-            new_word = ''
-            for line in f:
-                for char in line:
-                    if char.isalnum() or char == "'" or char == '-':
-                        if char.isalpha(): # if char is a letter, convert to lowercase
-                            char = char.lower()
-                        new_word += char
-                    else: #if char is not alphanumeric, then we have reached the end of a word
-                        if new_word != '':
-                            token_lst.append(new_word)
-                        new_word = ''
-            if new_word != '': # for last word if line ends in alphanumeric character
-                token_lst.append(new_word)
+        new_word = ''
+        for char in content:
+            if char.isalnum() or char == "'" or char == '-':
+                if char.isalpha(): # if char is a letter, convert to lowercase
+                    char = char.lower()
+                new_word += char
+            else: #if char is not alphanumeric, then we have reached the end of a word
+                if new_word != '':
+                    token_lst.append(new_word)
+                new_word = ''
+        if new_word != '': # for last word if line ends in alphanumeric character
+            token_lst.append(new_word)
 
-        #~~~check for stop words
-        
+        #TODO: check for stop words
+        token_lst = [word for word in token_lst if word not in blacklist]
         #Add tokens to dict
         computeWordFrequencies(token_lst)
 
