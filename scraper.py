@@ -1,4 +1,5 @@
 import re
+from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
 def scraper(url, resp):
@@ -8,33 +9,45 @@ def scraper(url, resp):
 def extract_next_links(url, resp):
     # Implementation required.
     # url: the URL that was used to get the page
-    # resp.url: the actual url of the page
-    # resp.status: the status code returned by the server. 200 is OK, you got the page. Other numbers mean that there was some kind of problem.
-    # resp.error: when status is not 200, you can check the error here, if needed.
-    # resp.raw_response: this is where the page actually is. More specifically, the raw_response has two parts:
-    #         resp.raw_response.url: the url, again
-    #         resp.raw_response.content: the content of the page!
-    # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
 
+    status = resp.status # resp.status: the status code returned by the server. 200 is OK, you got the page. Other numbers mean that there was some kind of problem.
+    if(status != 200):
+        error = resp.error # resp.error: when status is not 200, you can check the error here, if needed.
+        if(status == 601 or status == 602):
+            log(f"Skipping error with status code: {status}. Error: {error}. ")
+        else:
+            log(f"Failed to retrieve {url}. Status code: {status}. Error: {error}")
+            return []
+    
+    raw_response = resp.raw_response # resp.raw_response: this is where the page actually is. More specifically, the raw_response has two parts:
+    content = raw_response.content # resp.raw_response.content: the content of the page!
+    actual_url = resp.url # resp.url: the actual url of the page, resp.raw_response.url: the url, again
+    
+    #3. You can use whatever libraries make your life easier to parse things. Optional dependencies you might want to look at: BeautifulSoup, lxml (nudge, nudge, wink, wink!)
+    soup = BeautifulSoup(content, 'html.parser')
+
+    log(f"URL: {url}, ACTUAL URL: {actual_url}, Status: {status}, Error: {error}")
+    log(f"Content length: {len(soup.contents)} bytes")
+
+    links = list()
+    for link in soup.find_all('a', href=True):
+        scraped_url = link['href']
+        #1. Make sure to return only URLs that are within the domains and paths mentioned above! (see is_valid function in scraper.py -- you need to change it)
+        if is_valid(scraped_url):
+            links.append(scraped_url)
+        else:
+            log(f"Invalid URL found and skipped: {scraped_url}")
+
+        #TODO: 2. Make sure to defragment the URLs, i.e. remove the fragment part.
+        #TODO: 4. Optionally, in the scraper function, you can also save the URL and the web page on your local disk.
+        #TODO: 5. See Crawler Details (https://canvas.eee.uci.edu/courses/82958/assignments/1822602)
+    
     #in tokenizer, before adding a token to the list, check if in stop word list, if so, throw out
+    return links # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
 
-    #pseudocode:
-    #procedure CrawlerThread(Frontier)
-    #   while not frontier.done() do
-    #      website = frontier.nextSite()
-    #      url = website.nextUrl()
-    #      if website.permitsCRawl(url) then
-    #          text = retrieveURL(url)
-    #          storeDocument(url, text)
-    #          for each url in parse(text) do
-    #              frontier.addURL(url)
-    #          end for
-    #      end if
-    #   end while
-    #end procedure
-
-
-    return list()
+def log(string):
+     #TODO: replace with actual logging into file or something of the sort
+    print(string)
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
@@ -59,3 +72,18 @@ def is_valid(url):
     except TypeError:
         print ("TypeError for ", parsed)
         raise
+
+# Can't manage to get this test working... it needs access to the config and other stuff which I don't know how to get independently of the program itself
+# def test_scraper():
+#     test_url = "http://www.ics.uci.edu/"
+#     if not test_url:
+#         print("Frontier is empty. Stopping Crawler.")
+#     resp = download(test_url, self.config, self.logger)
+#     print(
+#         f"Downloaded {test_url}, status <{resp.status}>, "
+#         f"using cache {self.config.cache_server}.")
+#     scraped_urls = scraper.scraper(test_url, resp)
+#     print(scraped_urls)
+# 
+# if __name__ == "__main__":
+#     test_scraper()
