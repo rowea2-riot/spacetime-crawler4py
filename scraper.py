@@ -81,7 +81,12 @@ def tokenize_content(content: str):
                         new_word = ''
             if new_word != '': # for last word if line ends in alphanumeric character
                 token_lst.append(new_word)
-        return token_lst
+
+        #~~~check for stop words
+        
+        #Add tokens to dict
+        computeWordFrequencies(token_lst)
+
     except FileNotFoundError:
         builtins.print("File not found.")
     except Exception as e:
@@ -90,11 +95,11 @@ def tokenize_content(content: str):
         
 blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
-#wordFrequency = {}
+token_dict = {}
 
+#For figuring out how often words show up
 def computeWordFrequencies(token_lst):
     try:
-        token_dict = {}
         for word in token_lst:
             if word in token_dict:
                 token_dict[word] += 1
@@ -103,6 +108,19 @@ def computeWordFrequencies(token_lst):
         return token_dict
     except Exception as e:
         builtins.print(f"An error happened:{e}")
+
+#Find top 50 most common words
+def topWordFreq():
+    token_dict = dict(sorted(token_dict.items(), key=lambda item: item[1], reverse=True))
+    limiter = 0
+
+    for token, frequency in token_dict.items():
+        #~~put them in a file somehwere (f"{token} => {frequency}")
+
+        limiter += 1
+
+        if limiter >= 50:
+            break
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
