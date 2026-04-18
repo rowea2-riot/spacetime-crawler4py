@@ -29,6 +29,8 @@ def extract_next_links(url, resp):
     log(f"URL: {url}, ACTUAL URL: {actual_url}, Status: {status}, Error: {error}")
     log(f"Content length: {len(soup.contents)} bytes")
 
+    tokenize_content(soup.get_text())
+
     links = list()
     for link in soup.find_all('a', href=True):
         scraped_url = link['href']
@@ -48,6 +50,10 @@ def extract_next_links(url, resp):
 def log(string):
      #TODO: replace with actual logging into file or something of the sort
     print(string)
+
+def tokenize_content(content: str):
+    # TODO: Implementation for tokenizing the content
+    pass
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
