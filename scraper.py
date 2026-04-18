@@ -48,18 +48,29 @@ def extract_next_links(url, resp):
     return links # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
 
 def log(string):
-     #TODO: replace with actual logging into file or something of the sort
+    #TODO: replace with actual logging into file or something of the sort
+
+    #for now, we will just print
     print(string)
 
 def tokenize_content(content: str):
     # TODO: Implementation for tokenizing the content
+
+    # TODO: These questions from the assignment writeup probably should be implemented here, since we have access to the content of the page here. You can also implement them in the crawler if you want, but it might be easier to do it here since we have the content of the page here.
+    #1. How many unique pages did you find? Uniqueness for the purposes of this assignment is ONLY established by the URL, but discarding the fragment part. So, for example, http://www.ics.uci.edu#aaa and http://www.ics.uci.edu#bbb are the same URL. Even if you implement additional methods for textual similarity detection, please keep considering the above definition of unique pages for the purposes of counting the unique pages in this assignment.
+    #2. What is the longest page in terms of the number of words? (HTML markup doesn’t count as words)
+    #3. What are the 50 most common words in the entire set of pages crawled under these domains ? (Ignore English stop words, which can be found, for example, here Links to an external site.) Submit the list of common words ordered by frequency.
+    #4. How many subdomains did you find in the uci.edu domain? Submit the list of subdomains ordered alphabetically and the number of unique pages detected in each subdomain. The content of this list should be lines containing subdomain, number, for example:
+        #vision.ics.uci.edu, 10 (not the actual number here)
+
     pass
+
+blacklist = {"calendar"} #terms in url that flag that you should not crawl them
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
     # If you decide to crawl it, return True; otherwise return False.
     # There are already some conditions that return False.
-    blacklist = {"calendar"} #terms in url that flag that you should not crawl them
 
     try:
         parsed = urlparse(url)
