@@ -11,8 +11,8 @@ def extract_next_links(url, resp):
     # url: the URL that was used to get the page
 
     status = resp.status # resp.status: the status code returned by the server. 200 is OK, you got the page. Other numbers mean that there was some kind of problem.
+    error = resp.error # resp.error: when status is not 200, you can check the error here, if needed.
     if(status != 200):
-        error = resp.error # resp.error: when status is not 200, you can check the error here, if needed.
         if(status == 601 or status == 602):
             log(f"Skipping error with status code: {status}. Error: {error}. ")
         else:
