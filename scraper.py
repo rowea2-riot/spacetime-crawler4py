@@ -49,9 +49,12 @@ def extract_next_links(url, resp):
 
 def log(string):
     #TODO: replace with actual logging into file or something of the sort
+    #append mode so it doesn't wipe the log
+    with open("Outputs/log.txt", "a") as file:
+        file.write(f"{string}\n")
 
     #for now, we will just print
-    print(string)
+    #print(string)
 
 def tokenize_content(content: str):
     # TODO: Implementation for tokenizing the content
@@ -65,7 +68,8 @@ def tokenize_content(content: str):
 
     pass
 
-blacklist = {"calendar"} #terms in url that flag that you should not crawl them
+blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"} #terms in url that flag that you should not crawl them
+validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
@@ -73,6 +77,13 @@ def is_valid(url):
     # There are already some conditions that return False.
 
     try:
+        if any(nono in url for nono in blacklist):
+            return False
+
+        #Check if the current URL has any of the valid domains in it
+        if not any(validD in url for validD in validDomains):
+            return False
+
         parsed = urlparse(url)
         if parsed.scheme not in set(["http", "https"]):
             return False
