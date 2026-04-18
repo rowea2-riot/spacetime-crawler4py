@@ -3,6 +3,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 import builtins
+from stop_words import get_stop_words
 
 def generate_new_log_file():
     logpath = "Outputs/log"
@@ -83,6 +84,13 @@ def tokenize_content(content: str):
     #4. How many subdomains did you find in the uci.edu domain? Submit the list of subdomains ordered alphabetically and the number of unique pages detected in each subdomain. The content of this list should be lines containing subdomain, number, for example:
         #vision.ics.uci.edu, 10 (not the actual number here)
     try:
+        #got stop word code snippet from https://pypi.org/project/stop-words/
+        # Get English stop words using language code
+        stop_words = get_stop_words('en')
+        # Or use the full language name
+        stop_words = get_stop_words('english')
+
+
         token_lst = []
         new_word = ''
         for char in content:
@@ -91,10 +99,10 @@ def tokenize_content(content: str):
                     char = char.lower()
                 new_word += char
             else: #if char is not alphanumeric, then we have reached the end of a word
-                if new_word != '':
+                if new_word != '' and (new_word not in stop_words):
                     token_lst.append(new_word)
                 new_word = ''
-        if new_word != '': # for last word if line ends in alphanumeric character
+        if new_word != '' and (new_word not in stop_words): # for last word if line ends in alphanumeric character
             token_lst.append(new_word)
 
         #TODO: check for stop words
