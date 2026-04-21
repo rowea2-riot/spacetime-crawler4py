@@ -1,10 +1,9 @@
 import re
 from datetime import datetime
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse, urldefrag
+from urllib.parse import urlparse
 import builtins
 from stop_words import get_stop_words
-
 
 def generate_new_log_file():
     logpath = "Outputs/log"
@@ -15,7 +14,7 @@ logfile = generate_new_log_file()
 def scraper(url, resp):
     links = extract_next_links(url, resp)
     return [link for link in links if is_valid(link)]
-
+	
 def parse_unique_url(url):
     #remove fragment
     new_url, fragment = urldefrag(url)
@@ -60,6 +59,8 @@ def extract_next_links(url, resp):
     log(f"SEARCHING THE FOLLOWING URL:\n {actual_url}, Status: {status}, Error: {error}\n")
 
     tokenize_content(soup.get_text())
+    #Anish/Orange - Change I added to log the top 50 words for every url
+    topWordFreq(actual_url)
 
     links = list()
     skippedLinks = list()
@@ -68,7 +69,7 @@ def extract_next_links(url, resp):
         #1. Make sure to return only URLs that are within the domains and paths mentioned above! (see is_valid function in scraper.py -- you need to change it)
         if is_valid(scraped_url):
             links.append(scraped_url)
-            parse_unique_url(scraped_url)
+			parse_unique_url(scraped_url)
         else:
             skippedLinks.append(scraped_url)
 
@@ -136,7 +137,6 @@ def tokenize_content(content: str):
 blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
-url_dict = {}
 
 #For figuring out how often words show up
 def computeWordFrequencies(token_lst):
@@ -150,18 +150,57 @@ def computeWordFrequencies(token_lst):
     except Exception as e:
         builtins.print(f"An error happened:{e}")
 
-#Find top 50 most common words
+    
+    
+
+#Find top 50 most )common words
+'''
 def topWordFreq():
     token_dict = dict(sorted(token_dict.items(), key=lambda item: item[1], reverse=True))
     limiter = 0
-
+    log(f"These are the 50 top word frequencies for: ")
     for token, frequency in token_dict.items():
         #~~put them in a file somehwere (f"{token} => {frequency}")
+        log(f"{token} => {frequency}")
 
         limiter += 1
 
         if limiter >= 50:
             break
+'''
+#returns a sorted list of the top 50 most common words
+def get_top_50_words():
+    return sorted(token_dict.items(), key=lambda item: item[1], reverse=True)[:50]
+
+
+#saves the top 50 words to a file in outputs as well as in the log and puts a timestamp
+def save_top_50_to_file(filename=None):
+    if filename is None:
+        filename = f"Outputs/top50_words{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.txt"
+    top_50 = get_top_50_words()
+    with open(filename, "w", encoding = "utf-8") as f:
+        f.write("Top 50 words found so far:\n")
+        for token, frequency in top_50:
+            line = f"{token} => {frequency}"
+            log(line)
+            f.write(line+"\n")
+
+#logs that Ctrl+C was pressed and saves the top 50 words to a file
+def handle_interrupt():
+    log("\nPressed Ctrl+C. Returning the top 50 words detected so far\n")
+    save_top_50_to_file()
+
+#logs the top 50 most common words to the log file
+def topWordFreq(current_url=None):
+    top_50 = get_top_50_words()
+    if current_url is not None:
+        log(f"These are the top 50 words after scraping: {current_url}")
+    else:
+        log("Top 50 words so far")
+
+    for token, frequency in top_50:
+        log(f"{token} => {frequency}")
+    log("")
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
@@ -192,6 +231,7 @@ def is_valid(url):
     except TypeError:
         print ("TypeError for ", parsed)
         raise
+
 
 # Can't manage to get this test working... it needs access to the config and other stuff which I don't know how to get independently of the program itself
 # def test_scraper():

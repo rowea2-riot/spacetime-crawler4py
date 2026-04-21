@@ -4,6 +4,7 @@ from argparse import ArgumentParser
 from utils.server_registration import get_cache_server
 from utils.config import Config
 from crawler import Crawler
+from scraper import scraper
 
 def main(config_file, restart):
     cparser = ConfigParser()
@@ -11,7 +12,11 @@ def main(config_file, restart):
     config = Config(cparser)
     config.cache_server = get_cache_server(config, restart)
     crawler = Crawler(config, restart)
-    crawler.start()
+    try:
+        crawler.start()
+    except KeyboardInterrupt:
+        print("\nPressed Ctrl+C. Returning the top 50 words detected so far\n")
+        scraper.handle_interrupt()
 
 
 if __name__ == "__main__":
