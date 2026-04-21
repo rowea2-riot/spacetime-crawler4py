@@ -69,7 +69,8 @@ def extract_next_links(url, resp):
         #1. Make sure to return only URLs that are within the domains and paths mentioned above! (see is_valid function in scraper.py -- you need to change it)
         if is_valid(scraped_url):
             links.append(scraped_url)
-			parse_unique_url(scraped_url)
+            parse_unique_url(scraped_url)
+
         else:
             skippedLinks.append(scraped_url)
 
@@ -134,7 +135,7 @@ def tokenize_content(content: str):
         builtins.print(f"An error happened:{e}")
 
         
-blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"} #terms in url that flag that you should not crawl them
+blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~", "jgarcia", "people", "event", "tutoring", "wiki", "hpi"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 
