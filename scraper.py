@@ -234,18 +234,13 @@ def is_valid(url):
         print ("TypeError for ", parsed)
         raise
 
+def test_blacklist():
+    assert is_valid("http://www.ics.uci.edu/calendar") == False
+    assert is_valid("http://www.ics.uci.edu/portal") == False   
+    assert is_valid("http://www.ics.uci.edu/events") == False   
+    assert is_valid("http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1970-08-09") == False   
+    assert is_valid("https://grape.ics.uci.edu/wiki/public/wiki/cs122a-2016-spring") == False  
+    print("Blacklist tests passed") 
 
-# Can't manage to get this test working... it needs access to the config and other stuff which I don't know how to get independently of the program itself
-# def test_scraper():
-#     test_url = "http://www.ics.uci.edu/"
-#     if not test_url:
-#         print("Frontier is empty. Stopping Crawler.")
-#     resp = download(test_url, self.config, self.logger)
-#     print(
-#         f"Downloaded {test_url}, status <{resp.status}>, "
-#         f"using cache {self.config.cache_server}.")
-#     scraped_urls = scraper.scraper(test_url, resp)
-#     print(scraped_urls)
-# 
-# if __name__ == "__main__":
-#     test_scraper()
+if __name__ == "__main__":
+    test_blacklist()
