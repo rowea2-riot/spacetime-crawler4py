@@ -237,6 +237,8 @@ def test_blacklist():
     assert is_valid("http://www.ics.uci.edu/portal") == False   
     assert is_valid("http://www.ics.uci.edu/events") == False   
     assert is_valid("http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1970-08-09") == False   
+    assert is_valid("https://grape.ics.uci.edu/wiki/public/wiki/cs122a-2016-spring") == False  
+    print("Blacklist tests passed") 
 
 if __name__ == "__main__":
     test_blacklist()
