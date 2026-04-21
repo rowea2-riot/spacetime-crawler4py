@@ -6,7 +6,7 @@ import builtins
 from stop_words import get_stop_words
 
 url_dict = {}
-blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~"} #terms in url that flag that you should not crawl them
+blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "~", "jgarcia", "people", "event", 'tutoring', "wiki", "hpi", "aiml"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 
