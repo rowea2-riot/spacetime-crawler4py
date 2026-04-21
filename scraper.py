@@ -192,16 +192,19 @@ def handle_interrupt():
     log("\nPressed Ctrl+C. Returning the top 50 words detected so far\n")
     save_top_50_to_file()
 
-#logs the top 50 most common words to the log file
+#logs the top 10 most common words to the log file
 def topWordFreq(current_url=None):
     top_50 = get_top_50_words()
     if current_url is not None:
-        log(f"These are the top 50 words after scraping: {current_url}")
+        log(f"These are the top 10 words after scraping: {current_url}")
     else:
-        log("Top 50 words so far")
-
+        log("Top 10 words so far")
+    n = 0
     for token, frequency in top_50:
         log(f"{token} => {frequency}")
+        n += 1
+        if(n >= 10):
+            break
     log("")
 
 def is_valid(url):
