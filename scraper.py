@@ -106,7 +106,7 @@ def tokenize_content(url: str, content: str):
     global mostWords
     global mostWordsUrl
     global stop_words
-    
+
     # TODO: These questions from the assignment writeup probably should be implemented here, since we have access to the content of the page here. You can also implement them in the crawler if you want, but it might be easier to do it here since we have the content of the page here.
     #1. How many unique pages did you find? Uniqueness for the purposes of this assignment is ONLY established by the URL, but discarding the fragment part. So, for example, http://www.ics.uci.edu#aaa and http://www.ics.uci.edu#bbb are the same URL. Even if you implement additional methods for textual similarity detection, please keep considering the above definition of unique pages for the purposes of counting the unique pages in this assignment.
     #2. What is the longest page in terms of the number of words? (HTML markup doesn’t count as words)
@@ -122,8 +122,8 @@ def tokenize_content(url: str, content: str):
         token_lst = []
         total_words_found: int = 0
         left: int = 0
-        right: int = 0
-        for char in content:
+        for right in range(len(content)):
+            char = content[right]
             char_is_tokenable: bool = char.isalnum() or char == "'" or char == '-'
             if not char_is_tokenable: # if char is alphanumeric or ' or -, add to current word
                 if right > left:
@@ -132,7 +132,6 @@ def tokenize_content(url: str, content: str):
                         total_words_found += 1
                         token_lst.append(word)
                 left = right + 1
-            right += 1
 
         if right > left: # for last word
             word = content[left:right].lower()
@@ -209,7 +208,7 @@ def handle_interrupt():
 
 #logs the top 10 most common words to the log file
 def topWordFreq(current_url=None):
-    log("Longest url so far: " + mostWordsUrl + " with " + str(mostWords) + " words")
+    log("Most Words: " + str(mostWords) + " (" + str(mostWordsUrl) + ")")
     top_50 = get_top_50_words()
     if current_url is not None:
         log(f"These are the top 10 words after scraping: {current_url}")
