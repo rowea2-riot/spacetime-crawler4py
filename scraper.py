@@ -9,6 +9,9 @@ url_dict = {}
 blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", "people", "events", "wiki", "login"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
+mostWords = -1
+mostWordsUrl = ""
+stop_words = get_stop_words('en')
 
 def generate_new_log_file():
     logpath = "Outputs/log"
@@ -97,11 +100,12 @@ def log(string):
     with open(logfile, "a") as file:
         file.write(f"{string}\n")
 
-stop_words = get_stop_words('en')
-mostWords, mostWordsUrl = -1, ""
-
 def tokenize_content(url: str, content: str):
     # TODO: Implementation for tokenizing the content
+
+    global mostWords
+    global mostWordsUrl
+    global stop_words
 
     # TODO: These questions from the assignment writeup probably should be implemented here, since we have access to the content of the page here. You can also implement them in the crawler if you want, but it might be easier to do it here since we have the content of the page here.
     #1. How many unique pages did you find? Uniqueness for the purposes of this assignment is ONLY established by the URL, but discarding the fragment part. So, for example, http://www.ics.uci.edu#aaa and http://www.ics.uci.edu#bbb are the same URL. Even if you implement additional methods for textual similarity detection, please keep considering the above definition of unique pages for the purposes of counting the unique pages in this assignment.
@@ -113,15 +117,15 @@ def tokenize_content(url: str, content: str):
         #got stop word code snippet from https://pypi.org/project/stop-words/
         # Get English stop words using language code
         # Or use the full language name
-
-
+        # print("tokenizing content...")
+        
         token_lst = []
         total_words_found: int = 0
         left: int = 0
         for right in range(len(content)):
             char = content[right]
-            word_counts_for_tokenizing: bool = char.isalnum() or char == "'" or char == '-'
-            if not word_counts_for_tokenizing: # if char is alphanumeric or ' or -, add to current word
+            char_is_tokenable: bool = char.isalnum() or char == "'" or char == '-'
+            if not char_is_tokenable: # if char is alphanumeric or ' or -, add to current word
                 if right > left:
                     word = content[left:right].lower()
                     if word not in stop_words:
@@ -136,9 +140,9 @@ def tokenize_content(url: str, content: str):
                 token_lst.append(word)
 
         if total_words_found > mostWords:
-            mostWords, mostWordsUrl = total_words_found, url
-
-        token_lst = [word for word in token_lst if word not in stop_words]
+            mostWords = total_words_found
+            mostWordsUrl = url
+        # print("done tokenizing content...")
 
         #Add tokens to dict
         computeWordFrequencies(token_lst)
@@ -204,7 +208,7 @@ def handle_interrupt():
 
 #logs the top 10 most common words to the log file
 def topWordFreq(current_url=None):
-    log("Longest url so far: " + mostWordsUrl + " with " + str(mostWords) + " words")
+    log("Most Words: " + str(mostWords) + " (" + str(mostWordsUrl) + ")")
     top_50 = get_top_50_words()
     if current_url is not None:
         log(f"These are the top 10 words after scraping: {current_url}")
