@@ -9,7 +9,6 @@ url_dict = {}
 blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", "people", "events", "wiki", "login"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
-stop_words = get_stop_words('en')
 mostWords = -1
 mostWordsUrl = ""
 
@@ -113,15 +112,15 @@ def tokenize_content(url: str, content: str):
         #got stop word code snippet from https://pypi.org/project/stop-words/
         # Get English stop words using language code
         # Or use the full language name
-
-
+        print("tokenizing content...")
+        stop_words = get_stop_words('en')
         token_lst = []
         total_words_found: int = 0
         left: int = 0
         right: int = 0
         for char in content:
-            word_counts_for_tokenizing: bool = char.isalnum() or char == "'" or char == '-'
-            if not word_counts_for_tokenizing: # if char is alphanumeric or ' or -, add to current word
+            char_is_tokenable: bool = char.isalnum() or char == "'" or char == '-'
+            if not char_is_tokenable: # if char is alphanumeric or ' or -, add to current word
                 if right > left:
                     word = content[left:right].lower()
                     if word not in stop_words:
@@ -139,6 +138,7 @@ def tokenize_content(url: str, content: str):
         if total_words_found > mostWords:
             mostWords = total_words_found
             mostWordsUrl = url
+        print("done tokenizing content...")
 
         #Add tokens to dict
         computeWordFrequencies(token_lst)
