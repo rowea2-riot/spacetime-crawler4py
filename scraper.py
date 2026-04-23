@@ -11,6 +11,7 @@ validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.ed
 token_dict = {}
 mostWords = -1
 mostWordsUrl = ""
+stop_words = get_stop_words('en')
 
 def generate_new_log_file():
     logpath = "Outputs/log"
@@ -102,6 +103,10 @@ def log(string):
 def tokenize_content(url: str, content: str):
     # TODO: Implementation for tokenizing the content
 
+    global mostWords
+    global mostWordsUrl
+    global stop_words
+    
     # TODO: These questions from the assignment writeup probably should be implemented here, since we have access to the content of the page here. You can also implement them in the crawler if you want, but it might be easier to do it here since we have the content of the page here.
     #1. How many unique pages did you find? Uniqueness for the purposes of this assignment is ONLY established by the URL, but discarding the fragment part. So, for example, http://www.ics.uci.edu#aaa and http://www.ics.uci.edu#bbb are the same URL. Even if you implement additional methods for textual similarity detection, please keep considering the above definition of unique pages for the purposes of counting the unique pages in this assignment.
     #2. What is the longest page in terms of the number of words? (HTML markup doesn’t count as words)
@@ -113,7 +118,7 @@ def tokenize_content(url: str, content: str):
         # Get English stop words using language code
         # Or use the full language name
         # print("tokenizing content...")
-        stop_words = get_stop_words('en')
+        
         token_lst = []
         total_words_found: int = 0
         left: int = 0
@@ -135,8 +140,6 @@ def tokenize_content(url: str, content: str):
                 total_words_found += 1
                 token_lst.append(word)
 
-        global mostWords
-        global mostWordsUrl
         if total_words_found > mostWords:
             mostWords = total_words_found
             mostWordsUrl = url
