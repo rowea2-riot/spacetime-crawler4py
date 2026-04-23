@@ -212,6 +212,7 @@ def save_top_50_to_file(filename=None):
             log(line)
             f.write(line+"\n")
     log_subdomains(filename=filename)
+    log2(filename, "Most Words: " + str(mostWords) + " (" + str(mostWordsUrl) + ")")
 
 #logs that Ctrl+C was pressed and saves the top 50 words to a file
 def handle_interrupt():
