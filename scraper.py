@@ -1,3 +1,4 @@
+from logging import log
 import re
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -31,18 +32,22 @@ def scraper(url, resp):
 	
 def parse_unique_url(url):
     #remove fragment
+    #2. Make sure to defragment the URLs, i.e. remove the fragment part.
     new_url, fragment = urldefrag(url)
     subdomain = urlparse(new_url).netloc
 
     if subdomain not in url_dict:
         url_dict[subdomain] = set()
     url_dict[subdomain].add(new_url)
-
-def log_subdomains():
+    
+def log_subdomains(filename):
+    log2(filename, "Subdomains and unique page counts:")
+    log2(filename, "-----------------------------")
+    log2(filename, "Total Unique Pages: " + str(len(url_dict.keys())))
     subdomains = sorted(url_dict.keys())
     for subdomain in subdomains:
         unique_pages_len = len(url_dict[subdomain])
-        log(f"{subdomain}, {unique_pages_len}")
+        log2(filename, f"{subdomain}, {unique_pages_len}")
 
 def extract_next_links(url, resp):
     # Implementation required.
@@ -80,16 +85,14 @@ def extract_next_links(url, resp):
     skippedLinks = list()
     for link in soup.find_all('a', href=True):
         scraped_url = link['href']
+        check_url, fragment = urldefrag(url)
         #1. Make sure to return only URLs that are within the domains and paths mentioned above! (see is_valid function in scraper.py -- you need to change it)
-        if is_valid(scraped_url):
+        if is_valid(scraped_url) and is_valid(check_url):
             links.append(scraped_url)
             parse_unique_url(scraped_url)
         else:
             skippedLinks.append(scraped_url)
 
-        #TODO: 2. Make sure to defragment the URLs, i.e. remove the fragment part.
-        #TODO: 4. Optionally, in the scraper function, you can also save the URL and the web page on your local disk.
-        #TODO: 5. See Crawler Details (https://canvas.eee.uci.edu/courses/82958/assignments/1822602)
     
     if len(links) > 0:
         log(f"Found and enqueued the following links:\n {links}\n")
@@ -106,6 +109,10 @@ def log(string):
     with open(logfile, "a") as file:
         file.write(f"{string}\n")
 
+def log2(filename, string):
+    with open(filename, "a") as file:
+        file.write(f"{string}\n")
+
 def tokenize_content(url: str, content: str):
     # TODO: Implementation for tokenizing the content
 
@@ -115,17 +122,12 @@ def tokenize_content(url: str, content: str):
 
     # TODO: These questions from the assignment writeup probably should be implemented here, since we have access to the content of the page here. You can also implement them in the crawler if you want, but it might be easier to do it here since we have the content of the page here.
     #1. How many unique pages did you find? Uniqueness for the purposes of this assignment is ONLY established by the URL, but discarding the fragment part. So, for example, http://www.ics.uci.edu#aaa and http://www.ics.uci.edu#bbb are the same URL. Even if you implement additional methods for textual similarity detection, please keep considering the above definition of unique pages for the purposes of counting the unique pages in this assignment.
-    #2. What is the longest page in terms of the number of words? (HTML markup doesn’t count as words)
-    #3. What are the 50 most common words in the entire set of pages crawled under these domains ? (Ignore English stop words, which can be found, for example, here Links to an external site.) Submit the list of common words ordered by frequency.
     #4. How many subdomains did you find in the uci.edu domain? Submit the list of subdomains ordered alphabetically and the number of unique pages detected in each subdomain. The content of this list should be lines containing subdomain, number, for example:
         #vision.ics.uci.edu, 10 (not the actual number here)
     try:
         #got stop word code snippet from https://pypi.org/project/stop-words/
         # Get English stop words using language code
         # Or use the full language name
-        # print("tokenizing content...")
-        if len(content) <=0:
-            return
         
         token_lst = []
         total_words_found: int = 0
@@ -149,11 +151,12 @@ def tokenize_content(url: str, content: str):
                 token_lst.append(word)
 
         if total_words_found > mostWords:
+            #2. What is the longest page in terms of the number of words? (HTML markup doesn’t count as words)
             mostWords = total_words_found
             mostWordsUrl = url
-        # print("done tokenizing content...")
 
         #Add tokens to dict
+        #3. What are the 50 most common words in the entire set of pages crawled under these domains ? (Ignore English stop words, which can be found, for example, here Links to an external site.) Submit the list of common words ordered by frequency.
         computeWordFrequencies(token_lst)
 
     except FileNotFoundError:
@@ -209,6 +212,8 @@ def save_top_50_to_file(filename=None):
             line = f"{token} => {frequency}"
             log(line)
             f.write(line+"\n")
+    log_subdomains(filename=filename)
+    log2(filename, "Most Words: " + str(mostWords) + " (" + str(mostWordsUrl) + ")")
 
 #logs that Ctrl+C was pressed and saves the top 50 words to a file
 def handle_interrupt():
