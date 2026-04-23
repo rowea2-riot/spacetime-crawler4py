@@ -1,0 +1,74 @@
+Top 50 words found so far:
+research => 71
+learning => 68
+ics => 55
+ai => 49
+science => 45
+machine => 42
+news => 40
+computer => 35
+irvine => 35
+us => 35
+systems => 32
+uci => 29
+data => 29
+dechter => 28
+student => 26
+view => 25
+intelligent => 24
+ml => 24
+award => 23
+center => 22
+university => 21
+2020 => 21
+undergraduate => 21
+graduate => 21
+cml => 20
+faculty => 20
+model => 20
+paper => 20
+community => 20
+alumni => 19
+models => 19
+school => 18
+information => 18
+seminar => 18
+will => 18
+bren => 17
+uc => 17
+algorithms => 17
+rina => 17
+can => 16
+new => 16
+students => 16
+institute => 15
+programs => 15
+events => 14
+health => 14
+receives => 14
+honors => 14
+awards => 14
+reasoning => 14
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 19
+archive.ics.uci.edu, 1
+cml.ics.uci.edu, 22
+create.ics.uci.edu, 1
+cs.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+hpi.ics.uci.edu, 1
+ics.uci.edu, 86
+industryshowcase.ics.uci.edu, 1
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+twitter.com, 1
+www.cs.uci.edu, 4
+www.facebook.com, 1
+www.ics.uci.edu, 16
+www.informatics.uci.edu, 2
+www.linkedin.com, 1
+www.stat.uci.edu, 1
+Most Words: 1424 (https://cml.ics.uci.edu/2020/01/winter-2020)

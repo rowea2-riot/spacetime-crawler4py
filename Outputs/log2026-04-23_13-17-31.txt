@@ -1,0 +1,1015 @@
+
+SEARCHING THE FOLLOWING URL:
+ https://www.stat.uci.edu, Status: 200, Error: None
+
+Most Words: 597 (https://www.stat.uci.edu)
+These are the top 10 words after scraping: https://www.stat.uci.edu
+statistics => 16
+research => 10
+news => 9
+series => 9
+seminar => 8
+donald => 8
+bren => 8
+department => 7
+undergraduate => 7
+2025 => 7
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://stat.ics.uci.edu/what-is-statistics/', 'https://ics.uci.edu/people/?filter%5Bunits%5D=19', 'https://stat.ics.uci.edu/tutoring-resources/', 'https://stat.ics.uci.edu/research-areas/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://stat.ics.uci.edu/undergraduate-programs/', 'https://stat.ics.uci.edu/undergraduate-programs#majors-minors', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/undergraduate-academic-advising/', 'https://stat.ics.uci.edu/graduate-statistics-programs/', 'https://stat.ics.uci.edu/graduate-statistics-programs#researchprograms', 'https://stat.ics.uci.edu/graduate-statistics-programs#professionalprograms', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://ics.uci.edu/academics/campus-resources/', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D%5B1%5D=19', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988&filter%5Bunits%5D%5B1%5D=19', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989&filter%5Bunits%5D=19', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994&filter%5Bunits%5D=19', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990&filter%5Bunits%5D=19', 'https://stat.ics.uci.edu/statistics-seminar-series/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_81%5B0%5D=Statistics', 'https://stat.ics.uci.edu/distinguished-lecture-series/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_46%5B0%5D=Statistics', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/2025/02/18/advancing-innovative-solutions-in-pediatric-health/', 'https://ics.uci.edu/2026/02/05/inaugural-ai-in-science-symposium-features-global-thought-leaders/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/12/08/medtech-innovation-hackathon-2025-creates-collaboration-and-innovation/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/10/27/seventh-annual-ics-industry-showcase-forges-career-connections/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/10/03/uc-irvine-data-science-students-partner-with-choc-research-and-rady-childrens-health-to-develop-personalized-pediatric-dehydration-management-solutions/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/08/01/fifth-annual-uc-irvine-ics-project-expo-continues-to-grow-bigger-and-better/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/04/29/senior-spotlight-anthony-cusimano-parses-a-path-through-data/', 'https://ics.uci.edu/category/academics/statistics/', 'https://ics.uci.edu/happening/news/', 'https://stat.ics.uci.edu/slider/b-s-in-data-science/', 'https://stat.ics.uci.edu/graduate-statistics-programs/', 'https://ics.uci.edu/academic-recruitment/', 'https://ics.uci.edu/event/introducing-an-informal-approach-to-predictive-modelling-within-a-large-introductory-statistics-course-connecting-research-with-practice/', 'https://ics.uci.edu/event/stable-discovery-of-treatment-effect-modifiers/', 'https://ics.uci.edu/event/using-principal-components-from-general-hilbert-space-valued-covariates-for-regression/', 'https://ics.uci.edu/event/dual-validity-of-robust-standard-errors-under-complex-dependence/', 'https://ics.uci.edu/event/optimal-phibe-a-framework-for-reinforcement-learning-in-the-physical-world/', 'https://ics.uci.edu/event/nonparametric-density-estimation-in-high-dimensions-via-tensor-trains/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://stat.ics.uci.edu/contact-us/', 'https://statconsulting.uci.edu/', 'https://stat.ics.uci.edu/contact-us/', '//stat.uci.edu/seminar-series/', '//stat.uci.edu/seminar-series/', '//stat.uci.edu/seminar-series/', '//stat.uci.edu/seminar-series/', '//stat.uci.edu/seminar-series/', '//stat.uci.edu/seminar-series/', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu/', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/accessibility-statement, Status: 200, Error: None
+
+Most Words: 597 (https://www.stat.uci.edu)
+These are the top 10 words after scraping: https://ics.uci.edu/accessibility-statement
+ics => 29
+statistics => 19
+research => 19
+accessibility => 17
+us => 15
+undergraduate => 14
+graduate => 13
+student => 12
+news => 12
+irvine => 12
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/accessibility-statement/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', '/research-areas/', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', '/alumni/corporate-engagement/', 'https://ics.uci.edu/contact-us/', 'https://userway.org/', 'mailto:ucibrenics@uci.edu', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', '/people/', 'https://em.uci.edu/', '/accessibility-statement/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/alumni/ics-advisory-board, Status: 200, Error: None
+
+Most Words: 619 (https://ics.uci.edu/alumni/ics-advisory-board)
+These are the top 10 words after scraping: https://ics.uci.edu/alumni/ics-advisory-board
+ics => 45
+research => 29
+statistics => 22
+undergraduate => 21
+us => 21
+student => 20
+graduate => 20
+accessibility => 19
+irvine => 17
+science => 16
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/alumni/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', '/research-areas/', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', '/alumni/corporate-engagement/', 'https://ics.uci.edu/contact-us/', 'mailto:ccanning@uci.edu', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', '/people/', 'https://em.uci.edu/', '/accessibility-statement/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/alumni/industry-advisory-board, Status: 200, Error: None
+
+Most Words: 619 (https://ics.uci.edu/alumni/ics-advisory-board)
+These are the top 10 words after scraping: https://ics.uci.edu/alumni/industry-advisory-board
+ics => 59
+research => 39
+us => 29
+student => 28
+undergraduate => 28
+graduate => 27
+statistics => 25
+irvine => 22
+science => 21
+learning => 21
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/alumni/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', '/research-areas/', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', '/alumni/corporate-engagement/', 'https://ics.uci.edu/contact-us/', 'mailto:jason.king@uci.edu', 'mailto:jason.king@uci.edu', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', '/people/', 'https://em.uci.edu/', '/accessibility-statement/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures/#newsletters. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/alumni/homecoming2026, Status: 200, Error: None
+
+Most Words: 619 (https://ics.uci.edu/alumni/ics-advisory-board)
+These are the top 10 words after scraping: https://ics.uci.edu/alumni/homecoming2026
+ics => 59
+research => 39
+us => 29
+student => 28
+undergraduate => 28
+graduate => 27
+statistics => 25
+irvine => 22
+science => 21
+learning => 21
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni, Status: 200, Error: None
+
+Most Words: 619 (https://ics.uci.edu/alumni/ics-advisory-board)
+These are the top 10 words after scraping: https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni
+ics => 59
+research => 39
+us => 29
+student => 28
+undergraduate => 28
+graduate => 27
+statistics => 25
+irvine => 22
+science => 21
+learning => 21
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/alumni, Status: 200, Error: None
+
+Most Words: 619 (https://ics.uci.edu/alumni/ics-advisory-board)
+These are the top 10 words after scraping: https://ics.uci.edu/alumni
+ics => 59
+research => 39
+us => 29
+student => 28
+undergraduate => 28
+graduate => 27
+statistics => 25
+irvine => 22
+science => 21
+learning => 21
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures#newsletters. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures#annualreports. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/aiml, Status: 200, Error: None
+
+Most Words: 3455 (https://cml.ics.uci.edu/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/aiml
+research => 89
+learning => 73
+models => 62
+ics => 59
+science => 59
+university => 56
+computer => 50
+will => 45
+machine => 36
+student => 34
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/aiml/page/2/', 'https://cml.ics.uci.edu/2025/01/winter-2025/', 'https://cml.ics.uci.edu/category/aiml/', 'https://cml.ics.uci.edu/aiml/page/2/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'https://dongxiaw.github.io/online-cv/', 'https://www.tkskwork.org/', 'https://scholar.google.com/citations?user=xOo2I1kAAAAJ&hl=en', 'https://sites.uci.edu/kolbynottingham/', 'https://valentinapy.github.io/', 'https://yanaiela.github.io/', 'https://www.guandaoyang.com/', 'https://www.cs.princeton.edu/~smalladi/', 'https://gaotianyu.xyz/about/', 'https://anandbhattad.github.io/', 'https://wenting-zhao.github.io/', 'https://zongyi-li.github.io/', 'https://sarahwie.github.io/', 'https://people.eecs.berkeley.edu/~xdwang/', 'https://scholar.google.com/citations?hl=en&user=rFbxDSAAAAAJ', 'https://scholar.google.com/citations?user=OLvHxPYAAAAJ&hl=en', 'https://d-corsi.github.io/', 'https://mds.inf.ethz.ch/team/detail/julia-vogt/', 'https://researchers.rc-trust.ai/neider/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/category/aiml, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/category/aiml
+learning => 317
+research => 297
+models => 265
+university => 220
+will => 213
+science => 197
+computer => 185
+data => 165
+ai => 159
+machine => 157
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2025/01/winter-2025/', 'https://cml.ics.uci.edu/2025/01/winter-2025/', 'https://cml.ics.uci.edu/2024/10/fall-2024/', 'https://ics.uci.edu/~amirr1/', 'https://cml.ics.uci.edu/2024/10/fall-2024/', 'https://cml.ics.uci.edu/2024/01/winter-and-spring-2024/', 'https://cml.ics.uci.edu/2024/01/winter-and-spring-2024/', 'https://cml.ics.uci.edu/2023/10/fall-2023/', 'https://www.ics.uci.edu/~deyingk/', 'https://cml.ics.uci.edu/2023/10/fall-2023/', 'https://cml.ics.uci.edu/2023/03/spring-2023/', 'https://www.ics.uci.edu/~sabdujyo/', 'https://cml.ics.uci.edu/2023/03/spring-2023/', 'https://cml.ics.uci.edu/2023/01/winter-2023/', 'https://cml.ics.uci.edu/2023/01/winter-2023/', 'https://cml.ics.uci.edu/2022/10/fall-2022/', 'https://cml.ics.uci.edu/2022/10/fall-2022/', 'https://cml.ics.uci.edu/2022/04/spring-2022/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/2022/04/spring-2022/', 'https://cml.ics.uci.edu/2022/01/winter-2022/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/2022/01/winter-2022/', 'https://cml.ics.uci.edu/2021/04/spring-2021/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://create.ics.uci.edu/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://www.ics.uci.edu/~jingz31/', 'https://cml.ics.uci.edu/2021/04/spring-2021/', 'https://cml.ics.uci.edu/category/aiml/page/2/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'https://dongxiaw.github.io/online-cv/', 'https://www.tkskwork.org/', 'https://scholar.google.com/citations?user=xOo2I1kAAAAJ&hl=en', 'https://sites.uci.edu/kolbynottingham/', 'https://valentinapy.github.io/', 'https://yanaiela.github.io/', 'https://www.guandaoyang.com/', 'https://www.cs.princeton.edu/~smalladi/', 'https://gaotianyu.xyz/about/', 'https://anandbhattad.github.io/', 'https://wenting-zhao.github.io/', 'https://zongyi-li.github.io/', 'https://sarahwie.github.io/', 'https://people.eecs.berkeley.edu/~xdwang/', 'https://scholar.google.com/citations?hl=en&user=rFbxDSAAAAAJ', 'https://scholar.google.com/citations?user=OLvHxPYAAAAJ&hl=en', 'https://d-corsi.github.io/', 'https://mds.inf.ethz.ch/team/detail/julia-vogt/', 'https://researchers.rc-trust.ai/neider/', 'https://harshtrivedi.me/', 'https://kpandey008.github.io/', 'https://sites.google.com/view/tianchen-qian/', 'https://jana-research.org/jana.html', 'http://octopath.org/', 'https://danielseita.github.io/', 'https://yasamanrazeghi.com/', 'https://asyounis.github.io/', 'https://web.engr.oregonstate.edu/~lif/', 'https://gavinkerrigan.github.io/', 'https://shivanshu-gupta.github.io/', 'https://staff.fnwi.uva.nl/m.welling/', 'https://www.linkedin.com/in/bratin-saha-05824b3/', 'https://blvns.github.io/', 'https://paolacascante.com/', 'https://www.cs.utexas.edu/~xiye/', 'https://spkreddy.org/', 'https://weichen582.github.io/', 'https://www.andrew.cmu.edu/user/kunz1/', 'https://unnat.github.io/', 'https://karenullrich.info/', 'https://gonenhila.github.io/', 'https://homes.cs.washington.edu/~pawest/', 'https://www.eventbrite.com/e/southern-california-ai-and-biomedicine-symposium-2023-tickets-685054485407', 'https://ml.informatik.uni-kl.de/people/marius-kloft.php', 'https://sarahwie.github.io/', 'https://www.nogsky.com/', 'https://www.linkedin.com/in/mariel-werner/', 'https://sites.google.com/view/yianma/home', 'https://www.yuhuazhu.org/', 'https://homes.cs.washington.edu/~yejin/', 'https://georgiou.eng.uci.edu/', 'https://neurips.cc/', 'http://dpkingma.com/', 'https://danishpruthi.com/', 'https://anthonywchen.github.io/', 'https://hengruicai.github.io/', 'https://www.igb.uci.edu/~pfbaldi/', 'https://web.cs.ucla.edu/~guyvdb/', 'https://scholar.google.com/citations?user=zFMN24cAAAAJ&hl=en', 'https://fortuin.github.io/', 'https://research.snap.com/team/team-member.html#maarten-bos', 'https://sites.uci.edu/kolbynottingham/', 'https://scholar.google.com/citations?user=AIj0BPoAAAAJ&hl=en', 'https://groups.cs.umass.edu/shlomo/', 'https://furong-huang.com/', 'https://www.majumderb.com/', 'http://www.majumderb.com/', 'https://steyvers.socsci.uci.edu/', 'https://scholar.google.com/citations?user=n7P_6uQAAAAJ&hl=en', 'https://sites.google.com/uci.edu/yanning-shen/home', 'https://muhaochen.github.io/', 'https://luka-group.github.io/', 'http://www.gatsby.ucl.ac.uk/~porbanz/', 'https://neurips.cc/', 'https://www.eurecom.fr/~filippon/index.html', 'https://tranbahien.github.io/', 'https://youtu.be/oZAuh686ipw', 'http://www.tivaro.nl/', 'https://youtu.be/LQu-kwpfFg4', 'https://robinjia.github.io/', 'https://youtu.be/ALqqlgbzAB0', 'https://www.linkedin.com/in/bobak-pezeshki-9a545b156/', 'https://youtu.be/Yl_aCTieVqc', 'https://royf.org/', 'https://youtu.be/ImvsK5CFp0w', 'https://www.ransalu.com/', 'https://youtu.be/3yR8BqBElXw', 'https://dylanslacks.website/', 'https://youtu.be/71RJvjPhk3U', 'http://maja-rita-rudolph.com/', 'https://youtu.be/9fRw74WhRdE', 'https://ruiqigao.github.io/', 'https://youtu.be/eAozs_JKp4o', 'https://sunipa.github.io/', 'https://youtu.be/V93uXTBnpFw', 'https://sites.google.com/site/sundararajanmukund/', 'https://arxiv.org/abs/1703.01365', 'https://arxiv.org/abs/1805.12233', 'https://arxiv.org/abs/1902.05622', 'https://arxiv.org/abs/1908.08474', 'https://arxiv.org/abs/2004.03383', 'https://arxiv.org/abs/1805.05492', 'https://arxiv.org/abs/2002.08484', 'https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus', 'https://en.wikipedia.org/wiki/Stochastic_gradient_descent', 'https://acronyms.thefreedictionary.com/Research+scientist', 'https://sites.google.com/site/sundararajanmukund/', 'https://en.wikipedia.org/wiki/Machine_learning', 'https://sanmi.cs.illinois.edu/', 'https://youtu.be/Ehqsp8vRLis', 'https://www.katecrawford.net/about.html', 'https://yiboyang.com/about/', 'https://youtu.be/1lXKUhBTHWc', 'https://webdocs.cs.ualberta.ca/~santanad/', 'https://youtu.be/76NFMs9pHEE', 'https://dmelis.github.io/', ' https://youtu.be/52bQ_XUY2DQ', 'https://faculty.sites.uci.edu/cnclab/people/', ' https://youtu.be/i9Cenn0stxE', 'https://youtu.be/HPPq5Xvlr9c', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/category/aiml/page/2, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/category/aiml/page/2
+learning => 459
+research => 376
+models => 347
+will => 335
+university => 290
+data => 252
+computer => 240
+science => 235
+machine => 216
+ai => 188
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2021/01/winter-2021/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/2021/01/winter-2021/', 'https://cml.ics.uci.edu/2020/10/fall-2020/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://www.ics.uci.edu/~scottcb/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/2020/10/fall-2020/', 'https://cml.ics.uci.edu/2020/01/winter-2020/', 'https://www.cs.uci.edu/ph-d-student-phanwadee-sinthong-and-professor-carey-win-best-student-paper-award/', 'https://cml.ics.uci.edu/2020/01/winter-2020/', 'https://cml.ics.uci.edu/2019/09/fall-2019/', 'https://cml.ics.uci.edu/2019/09/fall-2019/', 'https://cml.ics.uci.edu/2019/04/spring-2019/', 'https://www.ics.uci.edu/~daeyuns/layered-epipolar-cnn/', 'https://cml.ics.uci.edu/2019/04/spring-2019/', 'https://cml.ics.uci.edu/2018/09/fall-2018/', 'https://cml.ics.uci.edu/2018/09/fall-2018/', 'https://cml.ics.uci.edu/2018/04/spring-2018/', 'http://www.ics.uci.edu/~skong2/', 'https://cml.ics.uci.edu/2018/04/spring-2018/', 'https://cml.ics.uci.edu/2018/01/winter-2018/', 'https://www.ics.uci.edu/~enalisni/', 'https://cml.ics.uci.edu/2018/01/winter-2018/', 'https://cml.ics.uci.edu/2017/10/fall-2017/', 'http://www.ics.uci.edu/~qlou/', 'https://cml.ics.uci.edu/2017/10/fall-2017/', 'https://cml.ics.uci.edu/2017/04/spring-2017/', 'http://www.ics.uci.edu/~jsupanci/', 'https://cml.ics.uci.edu/2017/04/spring-2017/', 'https://cml.ics.uci.edu/category/aiml/page/3/', 'https://cml.ics.uci.edu/category/aiml/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://florianwenzel.com/', 'https://youtu.be/9n8_5tjt_Lw', 'https://yezhouyang.engineering.asu.edu/', 'https://youtu.be/IcSUBZraB3s', 'https://joelouismarino.github.io/', 'https://youtu.be/iVz6uwD7i6A', 'https://scholar.google.com/citations?user=kigtlXEAAAAJ&hl=en', 'https://youtu.be/p7X-L1T9ULk', 'https://rloganiv.github.io/', 'https://youtu.be/Mim1pmEn1UU', 'https://cse.sc.edu/~foresta/', 'https://youtu.be/shwYW9yEAIQ', 'http://deepcube.igb.uci.edu/', 'http://www.stephanmandt.com/', 'https://youtu.be/Z8juQKrCkmk', 'https://hpi.de/en/research/research-groups/digital-health-machine-learning.html', 'https://youtu.be/zElgAKf4AhE', 'https://youtu.be/CpGfCA92rMw', '\nhttps://iopscience.iop.org/article/10.1088/2632-2153/abb6d2', 'https://scholar.google.com/citations?user=40QzNXMAAAAJ&hl=en', 'https://youtu.be/Uncc5y7g8Is', 'https://web.eecs.umich.edu/~karem/', 'https://youtu.be/5A5dTRo50EQ', 'https://panageas.github.io/', 'https://youtu.be/4cepfWDiL3A', 'https://deqings.github.io/', 'https://youtu.be/N3y_K1ewkL0', 'https://neurips.cc/', 'https://chancellor.uci.edu/engagement/campus-communications/2020/200310-covid-19-academic-operational-activity.php', 'https://mingzhang-yin.github.io/', 'https://jaan.io/', 'https://allenai.org/team/orene/', 'https://panageas.github.io/', 'http://qning2.web.engr.illinois.edu/', 'http://niadowell.com/', 'https://www.ssriva.com', 'http://www.cs.cmu.edu/~bdhingra/', 'https://robamler.github.io', 'http://zhouyu.cs.ucdavis.edu/', 'https://gengji.net', 'https://jthalloran.bitbucket.io/', 'https://www.cs.hmc.edu/~xanda/#/', 'https://twitter.com/XandaSchofield', 'https://faculty.sites.uci.edu/doroudis/', 'https://enalisnick.github.io/', 'http://research.dshin.org/', 'http://sites.uci.edu/pritchard', '', 'https://allenai.org/team/mattg/', 'www2.hawaii.edu/~psadow', 'https://staff.fnwi.uva.nl/m.welling/', 'https://allenai.org/team/mattg/', 'http://www.stephanmandt.com/', 'http://pages.cs.wisc.edu/~swright/', 'http://www.cs.cmu.edu/~cpsomas/', 'http://www.fredpark.com/', 'https://ai.google/research/people/PhilipNelson', 'http://g.co/research/gas', 'http://socsci.uci.edu/~rfutrell/', 'https://www.math.uci.edu/~rvershyn/index.html', 'http://cs.brown.edu/people/ren/', 'https://svivek.com/', 'https://www.microsoft.com/en-us/research/people/rcaruana/', 'http://www.igb.uci.edu/~pfbaldi/', 'http://jiyfeng.github.io/', 'https://www.jaypujara.org/', 'http://www.cs.ucr.edu/~epapalex/', 'http://vision.ucla.edu/~alex/', 'https://baileykong.com/', 'https://www.linkedin.com/in/geng-ji/', 'http://www.stat.washington.edu/vminin/', 'http://http://yutianchen.com/', 'https://izbicki.me/research.html', 'https://ml.jpl.nasa.gov/people/thompson.shtml', 'http://faculty.sites.uci.edu/weinings/', 'https://www.linkedin.com/in/p-anandan-72124b120/', 'http://nakashole.com/', '', 'http://yonatanbisk.com/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/category/aiml/page/3, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/category/aiml/page/3
+learning => 637
+models => 455
+will => 430
+research => 428
+data => 363
+university => 332
+computer => 310
+machine => 290
+science => 273
+can => 256
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2017/01/winter-2017/', 'http://www.ics.uci.edu/~qlou/', 'http://www.ics.uci.edu/~enalisni/', 'https://cml.ics.uci.edu/2017/01/winter-2017/', 'https://cml.ics.uci.edu/2016/10/fall-2016/', 'http://www.ics.uci.edu/~wping/', 'https://cml.ics.uci.edu/2016/10/fall-2016/', 'https://cml.ics.uci.edu/2016/04/spring-2016/', 'http://newport.eecs.uci.edu/~amowli/', 'https://cml.ics.uci.edu/2016/04/spring-2016/', 'https://cml.ics.uci.edu/2016/01/winter-2016/', 'https://www.ics.uci.edu/~smyth/', 'http://newport.eecs.uci.edu/anandkumar/MajidJanzamin/', 'http://www.ics.uci.edu/~willmlam/', 'https://cml.ics.uci.edu/2016/01/winter-2016/', 'https://cml.ics.uci.edu/2015/09/fall-2015/', 'http://www.ics.uci.edu/~ihler/', 'http://www.ics.uci.edu/~gghiasi/', 'https://cml.ics.uci.edu/2015/09/fall-2015/', 'https://cml.ics.uci.edu/2015/03/spring-2015/', 'http://www.ics.uci.edu/~mjcarey/', 'https://cml.ics.uci.edu/2015/03/spring-2015/', 'https://cml.ics.uci.edu/2015/01/winter-2015/', 'http://www.ics.uci.edu/~pjsadows/', 'https://cml.ics.uci.edu/2015/01/winter-2015/', 'https://cml.ics.uci.edu/2014/09/fall-2014/', 'http://www.ics.uci.edu/~jsupanci/', 'http://www.ics.uci.edu/~akhavans/mySite/Welcome.html', 'http://newport.eecs.uci.edu/anandkumar/MajidJanzamin/', 'https://cml.ics.uci.edu/2014/09/fall-2014/', 'https://cml.ics.uci.edu/2014/03/spring-2014/', 'http://www.ics.uci.edu/~qliu1/', 'http://www.ics.uci.edu/~iypark/', 'http://www.ics.uci.edu/~xzhu/', 'https://cml.ics.uci.edu/2014/03/spring-2014/', 'https://cml.ics.uci.edu/2014/01/winter-2014/', 'http://www.ics.uci.edu/~rcammaro/', 'http://www.ics.uci.edu/~agelfand/', 'http://www.ics.uci.edu/~mlevorat/', 'http://www.ics.uci.edu/~jfoulds/', 'https://cml.ics.uci.edu/2014/01/winter-2014/', 'https://cml.ics.uci.edu/category/aiml/page/4/', 'https://cml.ics.uci.edu/category/aiml/page/2/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', '', 'http://www.cs.cmu.edu/~rsalakhu/', 'http://www.igb.uci.edu/~pfbaldi/', 'http://itensor.org/miles/', 'https://levyomer.wordpress.com/', 'http://burrsettles.com/', '', '', 'https://cs.stanford.edu/~ermon/', 'http://www.socsci.uci.edu/~harding1/', '', 'http://www-users.cs.umn.edu/~banerjee/', 'http://www.cs.dartmouth.edu/~qliu/', 'https://www.andrew.cmu.edu/user/gatt/', 'http://users.cms.caltech.edu/~venkatc/', 'http://zacklipton.com/', 'http://engineering.uci.edu/users/jasper-vrugt', 'https://engineering.purdue.edu/~qobi/', 'https://scholar.google.com/citations?user=R3ru5X8AAAAJ', 'http://www.its.caltech.edu/~dvij/', 'http://cseweb.ucsd.edu/~jfoulds/', 'https://sites.google.com/site/furongfionahuang/', '', 'http://cseweb.ucsd.edu/~jmcauley/', 'http://www-scf.usc.edu/~hsedghi/', 'http://www.eew.caltech.edu/people/', 'http://stanford.edu/~zhiyingw/', 'http://www.mit.edu/~sfeizi/', 'http://web.stanford.edu/dept/app-physics/cgi-bin/person/surya-gangulijanuary-2012/', 'http://www.cs.upc.edu/~larrosa/', 'http://dkotzias.com/', 'http://www.igb.uci.edu/~pfbaldi/', 'http://ee.usc.edu/nseip/', 'http://crisco.seas.harvard.edu/', 'http://www.cs.bgu.ac.il/~roiwei/', 'http://acsweb.ucsd.edu/~asuresh/', 'http://cnl.salk.edu/People/Person/?Person=1302', 'http://teamcore.usc.edu/people/sorianom/', 'http://users.cms.caltech.edu/~qberthet/', 'http://www.cs.princeton.edu/~bhaskara/', 'http://www.cs.cornell.edu/~caruana/', 'http://www.jblumenstock.com/', 'https://staff.fnwi.uva.nl/s.a.whiteson/Shimon_Whiteson/Home.html', 'http://www.cylance.com/', 'http://www.anatomy.uci.edu/zeng.html', 'http://www.cs.princeton.edu/~pawashti/', 'http://www-bcf.usc.edu/~liu32/', 'http://www.ai.sri.com/~braz/', 'http://physics.as.nyu.edu/object/kylecranmer.html', 'http://www.yisongyue.com/', 'http://blogs.bu.edu/mhrohban/', 'http://www.isi.edu/~galstyan', 'http://cnls.lanl.gov/~chertkov', 'http://www.stat.cmu.edu/~jsharpna/', 'http://www.tijldebie.net/', '', 'http://homepages.cwi.nl/~pdg/', 'http://www-bcf.usc.edu/~feisha/', 'http://www.ml.inf.ethz.ch/people/professors/jbuhmann', 'http://www.igb.uci.edu/', 'http://www.dmi.usherb.ca/~larocheh/index_en.html', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/category/aiml/page/4, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/category/aiml/page/4
+learning => 701
+models => 497
+will => 476
+research => 463
+data => 424
+computer => 368
+university => 365
+machine => 325
+science => 298
+can => 288
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2013/09/fall-2013/', 'http://www.ics.uci.edu/~babaks/', 'http://www.ics.uci.edu/~jfoulds/', 'http://www.ics.uci.edu/~ychen/', 'http://www.ics.uci.edu/~slan/', 'http://www.ics.uci.edu/~rcammaro/', 'https://cml.ics.uci.edu/2013/09/fall-2013/', 'https://cml.ics.uci.edu/2013/03/spring-2013/', 'https://cml.ics.uci.edu/2013/03/spring-2013/', 'https://cml.ics.uci.edu/2013/03/spring-2013-2/', 'http://www.ics.uci.edu/~qliu1', 'http://www.ics.uci.edu/~akoratti/', 'http://www.ics.uci.edu/~iypark/', 'https://cml.ics.uci.edu/2013/03/spring-2013-2/', 'https://cml.ics.uci.edu/2013/01/winter-2013/', 'https://cml.ics.uci.edu/2013/01/winter-2013/', 'https://cml.ics.uci.edu/2012/09/fall-2012/', 'http://www.ics.uci.edu/~djp3', 'http://www.ics.uci.edu/~lboyles/', 'http://www.ics.uci.edu/~babaks/Site/Codes.html', 'https://cml.ics.uci.edu/2012/09/fall-2012/', 'https://cml.ics.uci.edu/category/aiml/page/3/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://homepages.inf.ed.ac.uk/vferrari/', 'http://mgazar.net/academic/', 'http://sites.google.com/site/bmilch/', '', 'http://faculty.sites.uci.edu/turnerjg/', 'http://www.usabart.nl', 'http://noble.gs.washington.edu/~wnoble/', 'http://www.igb.uci.edu/~pfbaldi', 'http://staff.science.uva.nl/~whiteson', 'http://www.seas.upenn.edu/~katef/', 'http://cseweb.ucsd.edu/~kamalika/', 'http://http://www-robotics.usc.edu/~maja/', 'http://www.cacr.caltech.edu/main/?page_id=507', 'http://web.it.kth.se/~nimad/', '', 'http://www.cs.ucr.edu/~cshelton', '', '', '', 'http://www.isi.edu/integration/people/lerman/index.html', 'http://www.mohsenhejrati.me', 'http://www.stat.purdue.edu/~skirshne', 'http://www.igb.uci.edu/~pfbaldi', 'http://amanda.uci.edu/~daniel/index.html', 'http://people.csail.mit.edu/fisher/', 'http://www.cs.umd.edu/~getoor', '', 'http://arxiv.org/abs/1211.3759', 'http://users.cecs.anu.edu.au/~ssanner/ ', 'http://www.francescobonchi.com', 'http://www.stat.ucla.edu/~gpapan/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+Failed to retrieve http://www.ics.uci.edu/~babaks/Site/Codes.html. Status code: 404. Error: None
+Failed to retrieve http://www.ics.uci.edu/~lboyles. Status code: 500. Error: None
+
+SEARCHING THE FOLLOWING URL:
+ http://www.ics.uci.edu/~djp3, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: http://www.ics.uci.edu/~djp3
+learning => 701
+models => 497
+will => 476
+research => 463
+data => 424
+computer => 368
+university => 365
+machine => 325
+science => 298
+can => 288
+
+Found and enqueued the following links:
+ ['http://luci.ics.uci.edu/LUCIinterace.html#bioFaculty&djp3']
+
+
+Failed to retrieve http://luci.ics.uci.edu/LUCIinterace.html#bioFaculty&djp3. Status code: 404. Error: None
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2012/09/fall-2012, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2012/09/fall-2012
+learning => 733
+models => 508
+will => 492
+research => 476
+data => 444
+computer => 387
+university => 381
+machine => 345
+science => 302
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2012/09/fall-2012/', 'https://cml.ics.uci.edu/category/aiml/', 'http://www.ics.uci.edu/~djp3', 'http://www.ics.uci.edu/~lboyles/', 'http://www.ics.uci.edu/~babaks/Site/Codes.html', 'https://cml.ics.uci.edu/2012/08/2012_uaidomination/', 'https://cml.ics.uci.edu/2013/01/winter-2013/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://www.mohsenhejrati.me', 'http://www.stat.purdue.edu/~skirshne', 'http://www.igb.uci.edu/~pfbaldi', 'http://amanda.uci.edu/~daniel/index.html', 'http://people.csail.mit.edu/fisher/', 'http://www.cs.umd.edu/~getoor', '', 'http://arxiv.org/abs/1211.3759', 'http://users.cecs.anu.edu.au/~ssanner/ ', 'http://www.francescobonchi.com', 'http://www.stat.ucla.edu/~gpapan/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2012/08/2012_uaidomination, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2012/08/2012_uaidomination
+learning => 737
+models => 508
+will => 492
+research => 477
+data => 444
+computer => 389
+university => 382
+machine => 349
+science => 304
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2012/08/2012_uaidomination/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2012/07/2012_fellowships/', 'https://cml.ics.uci.edu/2012/09/fall-2012/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2012/07/2012_fellowships, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2012/07/2012_fellowships
+learning => 741
+models => 508
+will => 492
+research => 481
+data => 444
+computer => 393
+university => 383
+machine => 353
+science => 310
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2012/07/2012_fellowships/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2012/07/2012_icmlbestpaper/', 'https://cml.ics.uci.edu/2012/08/2012_uaidomination/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2012/07/2012_icmlbestpaper, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2012/07/2012_icmlbestpaper
+learning => 747
+models => 508
+will => 492
+research => 482
+data => 444
+computer => 398
+university => 384
+machine => 359
+science => 315
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2012/07/2012_icmlbestpaper/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2011/09/2011_scmlworkshop/', 'https://cml.ics.uci.edu/2012/07/2012_fellowships/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2011/09/2011_scmlworkshop, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2011/09/2011_scmlworkshop
+learning => 754
+models => 508
+will => 492
+research => 482
+data => 444
+computer => 401
+university => 385
+machine => 366
+science => 318
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2011/09/2011_scmlworkshop/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2011/09/2011_fellowships/', 'https://cml.ics.uci.edu/2012/07/2012_icmlbestpaper/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2011/09/2011_fellowships, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2011/09/2011_fellowships
+learning => 759
+models => 508
+will => 492
+research => 483
+data => 444
+computer => 404
+university => 386
+machine => 371
+science => 322
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2011/09/2011_fellowships/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2011/09/2011_smythkdd/', 'https://cml.ics.uci.edu/2011/09/2011_scmlworkshop/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2011/09/2011_smythkdd, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2011/09/2011_smythkdd
+learning => 763
+models => 508
+will => 492
+research => 485
+data => 446
+computer => 407
+university => 388
+machine => 376
+science => 325
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2011/09/2011_smythkdd/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2011/09/2011_wellingpami/', 'https://cml.ics.uci.edu/2011/09/2011_fellowships/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2011/09/2011_wellingpami, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2011/09/2011_wellingpami
+learning => 769
+models => 508
+will => 492
+research => 485
+data => 446
+computer => 410
+university => 389
+machine => 385
+science => 327
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2011/09/2011_wellingpami/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2010/09/2010_wellingeccv/', 'https://cml.ics.uci.edu/2011/09/2011_smythkdd/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2010/09/2010_wellingeccv, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2010/09/2010_wellingeccv
+learning => 774
+models => 510
+will => 492
+research => 487
+data => 446
+computer => 416
+university => 390
+machine => 390
+science => 329
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2010/09/2010_wellingeccv/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2010/07/2010_smythaaai/', 'https://cml.ics.uci.edu/2011/09/2011_wellingpami/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2010/07/2010_smythaaai, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2010/07/2010_smythaaai
+learning => 779
+models => 510
+will => 492
+research => 487
+data => 446
+computer => 419
+machine => 395
+university => 391
+science => 331
+can => 302
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2010/07/2010_smythaaai/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2010/06/2010_baldicaianiello/', 'https://cml.ics.uci.edu/2010/09/2010_wellingeccv/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2010/06/2010_baldicaianiello, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2010/06/2010_baldicaianiello
+learning => 783
+models => 510
+will => 492
+research => 487
+data => 448
+computer => 421
+machine => 399
+university => 392
+science => 333
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2010/06/2010_baldicaianiello/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2010/05/2010_lixieintel/', 'https://cml.ics.uci.edu/2010/07/2010_smythaaai/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2010/05/2010_lixieintel, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2010/05/2010_lixieintel
+learning => 787
+models => 510
+will => 494
+research => 489
+data => 451
+computer => 422
+machine => 403
+university => 394
+science => 334
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2010/05/2010_lixieintel/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2010/05/2010_vandykims/', 'https://cml.ics.uci.edu/2010/06/2010_baldicaianiello/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2010/05/2010_vandykims, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2010/05/2010_vandykims
+learning => 791
+models => 511
+will => 494
+research => 491
+data => 452
+computer => 423
+machine => 407
+university => 395
+science => 335
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2010/05/2010_vandykims/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2010/04/2010_linsf/', 'https://cml.ics.uci.edu/2010/05/2010_lixieintel/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2010/04/2010_linsf, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2010/04/2010_linsf
+learning => 795
+models => 511
+will => 495
+research => 491
+data => 452
+computer => 425
+machine => 411
+university => 396
+science => 337
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2010/04/2010_linsf/', 'https://cml.ics.uci.edu/category/news/', 'http://fr.ics.uci.edu/haiti/ ', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2010/04/2010_newmaneager/', 'https://cml.ics.uci.edu/2010/05/2010_vandykims/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2010/04/2010_newmaneager, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2010/04/2010_newmaneager
+learning => 799
+models => 512
+will => 496
+research => 494
+data => 452
+computer => 426
+machine => 415
+university => 397
+science => 338
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2010/04/2010_newmaneager/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2009/10/2009_marr/', 'https://cml.ics.uci.edu/2010/04/2010_linsf/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2009/10/2009_marr, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2009/10/2009_marr
+learning => 803
+models => 513
+will => 496
+research => 494
+data => 452
+computer => 429
+machine => 420
+university => 398
+science => 339
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2009/10/2009_marr/', 'https://cml.ics.uci.edu/category/news/', 'http://vision.ics.uci.edu/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2009/10/2009_speakerseries0910/', 'https://cml.ics.uci.edu/2010/04/2010_newmaneager/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://www.ics.uci.edu/~dramanan/papers/nms.pdf', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2009/10/2009_speakerseries0910, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2009/10/2009_speakerseries0910
+learning => 809
+models => 513
+will => 497
+research => 494
+data => 454
+computer => 430
+machine => 426
+university => 399
+science => 340
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2009/10/2009_speakerseries0910/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2009/10/2009_li2009/', 'https://cml.ics.uci.edu/2009/10/2009_marr/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', '?page=events&subPage=dss_schedule', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2009/10/2009_li2009, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2009/10/2009_li2009
+learning => 813
+models => 513
+will => 498
+research => 495
+data => 458
+computer => 432
+machine => 430
+university => 401
+science => 343
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2009/10/2009_li2009/', 'https://cml.ics.uci.edu/category/news/', 'http://www.ics.uci.edu/community/news/press/view_press?id=94', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2009/06/2009_smythaward/', 'https://cml.ics.uci.edu/2009/10/2009_speakerseries0910/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2009/06/2009_smythaward, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2009/06/2009_smythaward
+learning => 818
+models => 513
+will => 498
+research => 495
+data => 461
+machine => 435
+computer => 434
+university => 402
+science => 345
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2009/06/2009_smythaward/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2009/04/2009_fellowships/', 'https://cml.ics.uci.edu/2009/10/2009_li2009/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://www.sigkdd.org/kdd2009/awards.html', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2009/04/2009_fellowships, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2009/04/2009_fellowships
+learning => 823
+models => 514
+will => 501
+research => 497
+data => 461
+machine => 440
+computer => 437
+university => 403
+science => 348
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2009/04/2009_fellowships/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2009/02/2009_yahoogift2/', 'https://cml.ics.uci.edu/2009/06/2009_smythaward/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://ndseg.asee.org/about_ndseg', 'http://research.microsoft.com/en-us/collaboration/awards/fellows-women.aspx', 'http://www.ibm.com/university/phdfellowship', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2009/02/2009_yahoogift2, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2009/02/2009_yahoogift2
+learning => 828
+models => 514
+will => 501
+research => 498
+data => 461
+machine => 445
+computer => 438
+university => 404
+science => 349
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2009/02/2009_yahoogift2/', 'https://cml.ics.uci.edu/category/news/', 'http://cml.ics.uci.edu/?page=events&subPage=aiml', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2008/12/2008_fowlkesgrant/', 'https://cml.ics.uci.edu/2009/04/2009_fellowships/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://research.yahoo.com/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2008/12/2008_fowlkesgrant, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2008/12/2008_fowlkesgrant
+learning => 832
+models => 514
+will => 502
+research => 499
+data => 461
+machine => 449
+computer => 441
+university => 405
+science => 351
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2008/12/2008_fowlkesgrant/', 'https://cml.ics.uci.edu/category/news/', 'http://vision.ics.uci.edu/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2008/10/2008_vision/', 'https://cml.ics.uci.edu/2009/02/2009_yahoogift2/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2008/10/2008_vision, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2008/10/2008_vision
+learning => 837
+models => 514
+will => 502
+research => 499
+data => 461
+machine => 454
+computer => 446
+university => 406
+science => 352
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2008/10/2008_vision/', 'https://cml.ics.uci.edu/category/news/', 'http://vision.ics.uci.edu/sccv/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2008/09/2008_networkgrant/', 'https://cml.ics.uci.edu/2008/12/2008_fowlkesgrant/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2008/09/2008_networkgrant, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2008/09/2008_networkgrant
+learning => 843
+models => 514
+will => 503
+research => 500
+data => 461
+machine => 460
+computer => 450
+university => 407
+science => 356
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2008/09/2008_networkgrant/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2008/09/2008_speakerseries0809/', 'https://cml.ics.uci.edu/2008/10/2008_vision/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://today.uci.edu/news/release_detail.asp?key=1833', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2008/09/2008_speakerseries0809, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2008/09/2008_speakerseries0809
+learning => 850
+models => 514
+will => 504
+research => 500
+machine => 467
+data => 462
+computer => 452
+university => 408
+science => 357
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2008/09/2008_speakerseries0809/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2007/12/2007_newfaculty/', 'https://cml.ics.uci.edu/2008/09/2008_lhc/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', '?page=events&subPage=dss_schedule', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2008/09/2008_lhc, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2008/09/2008_lhc
+learning => 857
+models => 514
+will => 504
+research => 501
+machine => 474
+data => 464
+computer => 454
+university => 409
+science => 358
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2008/09/2008_lhc/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2008/09/2008_speakerseries0809/', 'https://cml.ics.uci.edu/2008/10/2008_vision/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://www.uci.edu/lhc/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2007/12/2007_newfaculty, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2007/12/2007_newfaculty
+learning => 862
+models => 514
+will => 504
+research => 501
+machine => 478
+data => 464
+computer => 458
+university => 410
+science => 361
+can => 303
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2007/12/2007_newfaculty/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/tag/news/', 'https://cml.ics.uci.edu/2007/12/2007_honors/', 'https://cml.ics.uci.edu/2008/09/2008_newmanimls/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', '?page=people&subPage=faculty', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+Pressed Ctrl+C. Returning the top 50 words detected so far
+
+learning => 862
+models => 514
+will => 504
+research => 501
+machine => 478
+data => 464
+computer => 458
+university => 410
+science => 361
+can => 303
+systems => 274
+pm => 272
+model => 266
+ai => 252
+california => 234
+talk => 231
+irvine => 216
+language => 205
+center => 197
+40111 => 194
+deep => 194
+hall => 190
+information => 187
+bio => 186
+methods => 181
+work => 173
+professor => 168
+applications => 164
+seminar => 154
+new => 140
+algorithms => 137
+using => 135
+intelligent => 133
+also => 128
+inference => 125
+show => 124
+networks => 124
+us => 123
+phd => 121
+institute => 118
+ml => 118
+problems => 116
+present => 116
+first => 112
+analysis => 110
+cml => 110
+engineering => 108
+neural => 107
+discuss => 106
+news => 104

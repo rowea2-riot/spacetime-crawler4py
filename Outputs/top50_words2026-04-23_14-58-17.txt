@@ -1,0 +1,148 @@
+Top 50 words found so far:
+events => 96093
+day => 29480
+search => 11197
+ramesh => 11043
+research => 10560
+computer => 8932
+us => 8897
+current => 8844
+ics => 7882
+information => 7693
+social => 7606
+jain => 7502
+ghc => 7469
+2023 => 7219
+wics => 6498
+calendar => 6387
+students => 6208
+navigation => 5923
+2026 => 5728
+past => 5619
+university => 5582
+learning => 5562
+computing => 5502
+next => 5487
+10 => 5345
+data => 5248
+community => 5242
+view => 5105
+outlook => 5017
+news => 4812
+science => 4793
+will => 4500
+systems => 4499
+committee => 4147
+outreach => 4088
+blogs => 4083
+content => 3900
+companies => 3898
+courses => 3896
+books => 3883
+program => 3857
+month => 3786
+merch => 3718
+officers => 3715
+applications => 3675
+uci => 3656
+upcoming => 3653
+previous => 3621
+favorite => 3543
+theme => 3538
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 93
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 113
+archive-beta.ics.uci.edu, 1
+archive.ics.uci.edu, 3
+asterix.ics.uci.edu, 7
+asterixdb.ics.uci.edu, 2
+auge.ics.uci.edu, 2
+cbcl.ics.uci.edu, 1
+cecs.uci.edu, 1
+cert.ics.uci.edu, 1
+cgvw.ics.uci.edu, 1
+checkmate.ics.uci.edu, 1
+chenli.ics.uci.edu, 4
+cherry.ics.uci.edu, 1
+chime.ics.uci.edu, 1
+cloudberry.ics.uci.edu, 9
+cml.ics.uci.edu, 227
+code.ics.uci.edu, 16
+computableplant.ics.uci.edu, 43
+coronavirustwittermap.ics.uci.edu, 1
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 7
+cs.ics.uci.edu, 15
+cs.uci.edu, 1
+cyberclub.ics.uci.edu, 1
+dblp.ics.uci.edu, 2
+dgillen.ics.uci.edu, 33
+ds4all.ics.uci.edu, 10
+duttgroup.ics.uci.edu, 129
+dynamo.ics.uci.edu, 1
+emj-pc.ics.uci.edu, 1
+emj.ics.uci.edu, 44
+evoke.ics.uci.edu, 5
+flamingo.ics.uci.edu, 14
+fr.ics.uci.edu, 7
+futurehealth.ics.uci.edu, 3
+graphmod.ics.uci.edu, 1
+hack.ics.uci.edu, 1
+hobbes.ics.uci.edu, 2
+hpi.ics.uci.edu, 6
+http:, 1
+iasl.ics.uci.edu, 2
+icde2023.ics.uci.edu, 48
+ics.uci.edu, 839
+industryshowcase.ics.uci.edu, 24
+informatics.ics.uci.edu, 19
+informatics.uci.edu, 1
+intranet.ics.uci.edu, 1
+ipubmed.ics.uci.edu, 2
+jujube.ics.uci.edu, 2
+luci.ics.uci.edu, 6
+mailman.ics.uci.edu, 4
+mcs.ics.uci.edu, 13
+mdogucu.ics.uci.edu, 1
+mds.ics.uci.edu, 12
+metaviz.ics.uci.edu, 1
+mhcid.ics.uci.edu, 17
+mswe.ics.uci.edu, 11
+mt-live.ics.uci.edu, 1
+nalini.ics.uci.edu, 7
+newport.eecs.uci.edu, 2
+news.nacs.uci.edu, 1
+ngs.ics.uci.edu, 1795
+oai.ics.uci.edu, 7
+psearch.ics.uci.edu, 2
+riscit.ics.uci.edu, 1
+satware.ics.uci.edu, 1
+seal.ics.uci.edu, 3
+seraja.ics.uci.edu, 1
+sli.ics.uci.edu, 3
+sprout.ics.uci.edu, 2
+stairs.ics.uci.edu, 1
+stat.ics.uci.edu, 13
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 15
+tastier.ics.uci.edu, 1
+tutoring.ics.uci.edu, 4
+tutors.ics.uci.edu, 1
+twitter.com, 47
+unite.ics.uci.edu, 10
+vision.ics.uci.edu, 9
+web.archive.org, 7
+wics.ics.uci.edu, 2993
+www.cecs.uci.edu, 71
+www.cs.uci.edu, 16
+www.facebook.com, 47
+www.ics.uci.edu, 376
+www.informatics.ics.uci.edu, 2
+www.informatics.uci.edu, 21
+www.linkedin.com, 47
+www.physics.uci.edu, 1
+www.stat.uci.edu, 15
+xtune.ics.uci.edu, 6
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
