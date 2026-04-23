@@ -112,7 +112,7 @@ def tokenize_content(url: str, content: str):
         #got stop word code snippet from https://pypi.org/project/stop-words/
         # Get English stop words using language code
         # Or use the full language name
-        print("tokenizing content...")
+        # print("tokenizing content...")
         stop_words = get_stop_words('en')
         token_lst = []
         total_words_found: int = 0
@@ -135,10 +135,12 @@ def tokenize_content(url: str, content: str):
                 total_words_found += 1
                 token_lst.append(word)
 
+        global mostWords
+        global mostWordsUrl
         if total_words_found > mostWords:
             mostWords = total_words_found
             mostWordsUrl = url
-        print("done tokenizing content...")
+        # print("done tokenizing content...")
 
         #Add tokens to dict
         computeWordFrequencies(token_lst)
