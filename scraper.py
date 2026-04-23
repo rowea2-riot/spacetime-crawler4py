@@ -140,8 +140,6 @@ def tokenize_content(url: str, content: str):
             mostWords = total_words_found
             mostWordsUrl = url
 
-        token_lst = [word for word in token_lst if word not in stop_words]
-
         #Add tokens to dict
         computeWordFrequencies(token_lst)
 
