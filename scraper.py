@@ -204,7 +204,6 @@ def get_top_50_words():
 def save_top_50_to_file(filename=None):
     if filename is None:
         filename = f"Outputs/top50_words{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.txt"
-    log_subdomains(filename=filename)
     top_50 = get_top_50_words()
     with open(filename, "w", encoding = "utf-8") as f:
         f.write("Top 50 words found so far:\n")
@@ -212,6 +211,7 @@ def save_top_50_to_file(filename=None):
             line = f"{token} => {frequency}"
             log(line)
             f.write(line+"\n")
+    log_subdomains(filename=filename)
 
 #logs that Ctrl+C was pressed and saves the top 50 words to a file
 def handle_interrupt():
