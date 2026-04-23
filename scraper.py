@@ -85,8 +85,9 @@ def extract_next_links(url, resp):
     skippedLinks = list()
     for link in soup.find_all('a', href=True):
         scraped_url = link['href']
+        check_url, fragment = urldefrag(url)
         #1. Make sure to return only URLs that are within the domains and paths mentioned above! (see is_valid function in scraper.py -- you need to change it)
-        if is_valid(scraped_url):
+        if is_valid(scraped_url) and is_valid(check_url):
             links.append(scraped_url)
             parse_unique_url(scraped_url)
         else:
