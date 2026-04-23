@@ -6,7 +6,7 @@ import builtins
 from stop_words import get_stop_words
 
 url_dict = {}
-blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", "people", "events", "wiki", "login"} #terms in url that flag that you should not crawl them
+blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", "events", "wiki", "login"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 mostWords = -1
@@ -128,14 +128,15 @@ def tokenize_content(url: str, content: str):
             if not char_is_tokenable: # if char is alphanumeric or ' or -, add to current word
                 if right > left:
                     word = content[left:right].lower()
-                    if word not in stop_words:
+                    #TODO get rid of len(word) > 1 and figure out better method for acronyms
+                    if word not in stop_words and len(word) > 1:
                         total_words_found += 1
                         token_lst.append(word)
                 left = right + 1
 
         if right > left: # for last word
             word = content[left:right].lower()
-            if((word not in stop_words)):
+            if((word not in stop_words) and len(word) > 1):
                 total_words_found += 1
                 token_lst.append(word)
 
