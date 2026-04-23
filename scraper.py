@@ -9,6 +9,9 @@ url_dict = {}
 blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", "people", "events", "wiki", "login"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
+stop_words = get_stop_words('en')
+mostWords = -1
+mostWordsUrl = ""
 
 def generate_new_log_file():
     logpath = "Outputs/log"
@@ -97,9 +100,6 @@ def log(string):
     with open(logfile, "a") as file:
         file.write(f"{string}\n")
 
-stop_words = get_stop_words('en')
-mostWords, mostWordsUrl = -1, ""
-
 def tokenize_content(url: str, content: str):
     # TODO: Implementation for tokenizing the content
 
@@ -118,8 +118,8 @@ def tokenize_content(url: str, content: str):
         token_lst = []
         total_words_found: int = 0
         left: int = 0
-        for right in range(len(content)):
-            char = content[right]
+        right: int = 0
+        for char in content:
             word_counts_for_tokenizing: bool = char.isalnum() or char == "'" or char == '-'
             if not word_counts_for_tokenizing: # if char is alphanumeric or ' or -, add to current word
                 if right > left:
@@ -128,6 +128,7 @@ def tokenize_content(url: str, content: str):
                         total_words_found += 1
                         token_lst.append(word)
                 left = right + 1
+            right += 1
 
         if right > left: # for last word
             word = content[left:right].lower()
@@ -136,7 +137,8 @@ def tokenize_content(url: str, content: str):
                 token_lst.append(word)
 
         if total_words_found > mostWords:
-            mostWords, mostWordsUrl = total_words_found, url
+            mostWords = total_words_found
+            mostWordsUrl = url
 
         token_lst = [word for word in token_lst if word not in stop_words]
 
