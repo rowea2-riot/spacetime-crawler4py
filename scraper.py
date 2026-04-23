@@ -6,7 +6,7 @@ import builtins
 from stop_words import get_stop_words
 
 url_dict = {}
-blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", "people", "event", 'tutoring', "wiki"} #terms in url that flag that you should not crawl them
+blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", "people", "events", "wiki", "login"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 
@@ -63,7 +63,7 @@ def extract_next_links(url, resp):
     log('')
     log(f"SEARCHING THE FOLLOWING URL:\n {actual_url}, Status: {status}, Error: {error}\n")
 
-    tokenize_content(soup.get_text())
+    tokenize_content(actual_url, soup.get_text())
     #Anish/Orange - Change I added to log the top 50 words for every url
     topWordFreq(actual_url)
 
@@ -97,7 +97,10 @@ def log(string):
     with open(logfile, "a") as file:
         file.write(f"{string}\n")
 
-def tokenize_content(content: str):
+stop_words = get_stop_words('en')
+mostWords, mostWordsUrl = -1, ""
+
+def tokenize_content(url: str, content: str):
     # TODO: Implementation for tokenizing the content
 
     # TODO: These questions from the assignment writeup probably should be implemented here, since we have access to the content of the page here. You can also implement them in the crawler if you want, but it might be easier to do it here since we have the content of the page here.
@@ -109,27 +112,34 @@ def tokenize_content(content: str):
     try:
         #got stop word code snippet from https://pypi.org/project/stop-words/
         # Get English stop words using language code
-        stop_words = get_stop_words('en')
         # Or use the full language name
-        stop_words = get_stop_words('english')
 
 
         token_lst = []
-        new_word = ''
-        for char in content:
-            if char.isalnum() or char == "'" or char == '-':
-                if char.isalpha(): # if char is a letter, convert to lowercase
-                    char = char.lower()
-                new_word += char
-            else: #if char is not alphanumeric, then we have reached the end of a word
-                if new_word != '' and (new_word not in stop_words):
-                    token_lst.append(new_word)
-                new_word = ''
-        if new_word != '' and (new_word not in stop_words): # for last word if line ends in alphanumeric character
-            token_lst.append(new_word)
+        total_words_found: int = 0
+        left: int = 0
+        for right in range(len(content)):
+            char = content[right]
+            word_counts_for_tokenizing: bool = char.isalnum() or char == "'" or char == '-'
+            if not word_counts_for_tokenizing: # if char is alphanumeric or ' or -, add to current word
+                if right > left:
+                    word = content[left:right].lower()
+                    if word not in stop_words:
+                        total_words_found += 1
+                        token_lst.append(word)
+                left = right + 1
 
-        #TODO: check for stop words
-        token_lst = [word for word in token_lst if word not in blacklist]
+        if right > left: # for last word
+            word = content[left:right].lower()
+            if((word not in stop_words)):
+                total_words_found += 1
+                token_lst.append(word)
+
+        if total_words_found > mostWords:
+            mostWords, mostWordsUrl = total_words_found, url
+
+        token_lst = [word for word in token_lst if word not in stop_words]
+
         #Add tokens to dict
         computeWordFrequencies(token_lst)
 
@@ -194,6 +204,7 @@ def handle_interrupt():
 
 #logs the top 10 most common words to the log file
 def topWordFreq(current_url=None):
+    log("Longest url so far: " + mostWordsUrl + " with " + str(mostWords) + " words")
     top_50 = get_top_50_words()
     if current_url is not None:
         log(f"These are the top 10 words after scraping: {current_url}")
@@ -231,7 +242,7 @@ def is_valid(url):
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
             + r"|epub|dll|cnf|tgz|sha1"
             + r"|thmx|mso|arff|rtf|jar|csv"
-            + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower())
+            + r"|rm|smil|wmv|swf|wma|zip|rar|gz|ppsx)$", parsed.path.lower())
 
     except TypeError:
         print ("TypeError for ", parsed)
