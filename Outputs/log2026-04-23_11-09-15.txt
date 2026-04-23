@@ -1,0 +1,185 @@
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13, Status: 200, Error: None
+
+Most Words: 160 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13
+events => 10
+upcoming => 5
+talks => 5
+isg => 5
+search => 5
+2025 => 4
+reunion => 3
+2024 => 3
+outlook => 3
+received => 3
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'http://isg.ics.uci.edu/home', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13', 'https://isg.ics.uci.edu/events/tag/talks/2025-08/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&outlook-ical=1#038;ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2025-08-13', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2025-08-13']
+
+Found and skipped the following links:
+ ['https://isg.ics.uci.edu/contact-us/', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2025-08-13%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2025-08-13&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2025-08-13%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2025-08-13%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/']
+
+
+Failed to retrieve https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2025-08-13. Status code: 604. Error: Domain must be within spec.
+Failed to retrieve https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2025-08-13. Status code: 604. Error: Domain must be within spec.
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&outlook-ical=1#038;ical=1, Status: 200, Error: None
+
+Most Words: 160 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&outlook-ical=1#038;ical=1
+events => 10
+upcoming => 5
+talks => 5
+isg => 5
+search => 5
+2025 => 4
+reunion => 3
+2024 => 3
+outlook => 3
+received => 3
+
+No valid links found on this page.
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&ical=1, Status: 200, Error: None
+
+Most Words: 160 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&ical=1
+events => 10
+upcoming => 5
+talks => 5
+isg => 5
+search => 5
+2025 => 4
+reunion => 3
+2024 => 3
+outlook => 3
+received => 3
+
+No valid links found on this page.
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past, Status: 200, Error: None
+
+Most Words: 232 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past
+events => 18
+talks => 10
+isg => 10
+search => 10
+2025 => 9
+reunion => 6
+2024 => 6
+us => 6
+outlook => 6
+received => 6
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'http://isg.ics.uci.edu/home', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13', 'https://isg.ics.uci.edu/events/tag/talks/2025-08/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/event/anand-deshpahde-persistent-technologies-how-to-build-your-own-business/', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&outlook-ical=1#038;eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2025-08-13%26eventDisplay%3Dpast', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2025-08-13%26eventDisplay%3Dpast']
+
+Found and skipped the following links:
+ ['https://isg.ics.uci.edu/contact-us/', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2025-08-13%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2025-08-13&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2025-08-13%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2025-08-13%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/']
+
+
+Failed to retrieve https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2025-08-13%26eventDisplay%3Dpast. Status code: 604. Error: Domain must be within spec.
+Failed to retrieve https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2025-08-13%26eventDisplay%3Dpast. Status code: 604. Error: Domain must be within spec.
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&outlook-ical=1#038;ical=1, Status: 200, Error: None
+
+Most Words: 232 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&outlook-ical=1#038;ical=1
+events => 18
+talks => 10
+isg => 10
+search => 10
+2025 => 9
+reunion => 6
+2024 => 6
+us => 6
+outlook => 6
+received => 6
+
+No valid links found on this page.
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past&ical=1, Status: 200, Error: None
+
+Most Words: 457 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past&ical=1)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2025-08-13&eventDisplay=past&ical=1
+events => 19
+isg => 13
+anand => 11
+persistent => 11
+talks => 10
+search => 10
+systems => 9
+uci => 9
+2025 => 9
+zoom => 9
+
+No valid links found on this page.
+
+
+
+Pressed Ctrl+C. Returning the top 50 words detected so far
+
+events => 19
+isg => 13
+anand => 11
+persistent => 11
+talks => 10
+search => 10
+systems => 9
+uci => 9
+2025 => 9
+zoom => 9
+us => 8
+ics => 7
+award => 7
+business => 7
+will => 7
+reunion => 6
+2024 => 6
+outlook => 6
+received => 6
+deshpande => 6
+chairman => 6
+upcoming => 5
+information => 5
+group => 5
+today => 5
+august => 5
+13 => 5
+technologies => 5
+begin => 5
+end => 5
+founding => 5
+member => 5
+pune => 5
+faculty => 4
+research => 4
+db => 4
+news => 4
+info => 4
+views => 4
+navigation => 4
+enter => 4
+keyword => 4
+list => 4
+calendar => 4
+export => 4
+file => 4
+sharad => 4
+2026 => 4
+ieee => 4
+build => 4

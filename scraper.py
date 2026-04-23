@@ -6,7 +6,13 @@ import builtins
 from stop_words import get_stop_words
 
 url_dict = {}
-blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", "events", "wiki", "login"} #terms in url that flag that you should not crawl them
+blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", 
+            "events/month", "events/week", "events/2", "events/1", "events/tags",
+            "tribe-bar-date=201", "tribe-bar-date=200", "tribe-bar-date=1",
+            "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
+            "tribe-bar-date=206", "tribe-bar-date=207", "tribe-bar-date=208",
+            "tribe-bar-date=209", "tribe-bar-date=21", "events/2", "events/1",
+            "outlook", "ical=", "wiki", "login", "ramesh"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 mostWords = -1
@@ -118,6 +124,8 @@ def tokenize_content(url: str, content: str):
         # Get English stop words using language code
         # Or use the full language name
         # print("tokenizing content...")
+        if len(content) <=0:
+            return
         
         token_lst = []
         total_words_found: int = 0
