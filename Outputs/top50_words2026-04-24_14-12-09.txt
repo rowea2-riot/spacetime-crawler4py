@@ -1,0 +1,116 @@
+Top 50 words found so far:
+ramesh => 10974
+research => 7931
+jain => 7433
+current => 6888
+students => 5552
+past => 5405
+computer => 5354
+computing => 4994
+information => 4865
+news => 4201
+events => 4123
+ics => 4037
+search => 3928
+companies => 3839
+books => 3640
+courses => 3625
+favorite => 3516
+theme => 3500
+10 => 3401
+read => 3348
+experiential => 3309
+access => 3081
+2026 => 3060
+us => 2938
+data => 2880
+uci => 2846
+science => 2784
+people => 2740
+systems => 2665
+will => 2658
+multimedia => 2655
+projects => 2610
+vision => 2456
+social => 2445
+papers => 2414
+blogs => 2404
+professional => 2372
+personal => 2360
+navigation => 2327
+management => 2256
+back => 2245
+researcher => 2156
+learning => 2120
+education => 2112
+dutt => 2091
+partners => 2048
+one => 2037
+irvine => 2025
+student => 2020
+services => 2009
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 61
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 113
+auge.ics.uci.edu, 2
+cbcl.ics.uci.edu, 1
+cecs.uci.edu, 1
+cert.ics.uci.edu, 1
+cgvw.ics.uci.edu, 1
+code.ics.uci.edu, 16
+computableplant.ics.uci.edu, 18
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 7
+cs.ics.uci.edu, 14
+cs.uci.edu, 1
+cyberclub.ics.uci.edu, 1
+dgillen.ics.uci.edu, 32
+duttgroup.ics.uci.edu, 129
+emj.ics.uci.edu, 44
+evoke.ics.uci.edu, 5
+fr.ics.uci.edu, 2
+futurehealth.ics.uci.edu, 3
+graphmod.ics.uci.edu, 1
+hack.ics.uci.edu, 1
+hpi.ics.uci.edu, 6
+http:, 1
+iasl.ics.uci.edu, 2
+ics.uci.edu, 810
+industryshowcase.ics.uci.edu, 24
+informatics.ics.uci.edu, 19
+informatics.uci.edu, 1
+luci.ics.uci.edu, 5
+mcs.ics.uci.edu, 13
+mdogucu.ics.uci.edu, 1
+mds.ics.uci.edu, 12
+mhcid.ics.uci.edu, 17
+mswe.ics.uci.edu, 11
+mt-live.ics.uci.edu, 1
+nalini.ics.uci.edu, 7
+ngs.ics.uci.edu, 1777
+oai.ics.uci.edu, 7
+riscit.ics.uci.edu, 1
+satware.ics.uci.edu, 1
+seal.ics.uci.edu, 2
+seraja.ics.uci.edu, 1
+sli.ics.uci.edu, 3
+sprout.ics.uci.edu, 2
+stairs.ics.uci.edu, 1
+stat.ics.uci.edu, 13
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 14
+tutoring.ics.uci.edu, 4
+tutors.ics.uci.edu, 1
+unite.ics.uci.edu, 10
+vision.ics.uci.edu, 7
+wics.ics.uci.edu, 237
+www.cecs.uci.edu, 71
+www.cs.uci.edu, 12
+www.ics.uci.edu, 214
+www.informatics.ics.uci.edu, 2
+www.informatics.uci.edu, 21
+www.stat.uci.edu, 14
+xtune.ics.uci.edu, 6
+Most Words: 12788 (https://duttgroup.ics.uci.edu/publications)
