@@ -1,0 +1,1325 @@
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/academics/undergrad/change-of-major, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/academics/undergrad/change-of-major with 30 words
+These are the top 10 words after scraping: https://ics.uci.edu/academics/undergrad/change-of-major
+access => 5
+restricted => 3
+location => 3
+ip => 2
+website => 2
+current => 2
+- => 1
+block => 1
+attempted => 1
+visit => 1
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ http://mhcid.ics.uci.edu, Status: 200, Error: None
+
+Longest url so far: http://mhcid.ics.uci.edu with 274 words
+These are the top 10 words after scraping: http://mhcid.ics.uci.edu
+experience => 9
+program => 7
+access => 5
+design => 5
+industry => 5
+apply => 4
+restricted => 3
+location => 3
+current => 3
+capstone => 3
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/homepage/about-the-program/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-development-that-works-for-you/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://apply.grad.uci.edu/apply/', '/alumni-stacey/', '/alumni-sally/', '/alumni-brandon/', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/career-development-that-works-for-you, Status: 200, Error: None
+
+Longest url so far: http://mhcid.ics.uci.edu with 274 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/career-development-that-works-for-you
+career => 12
+program => 11
+experience => 9
+development => 8
+design => 7
+industry => 7
+access => 6
+master => 5
+apply => 5
+content => 4
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/career-development-that-works-for-you/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/homepage/about-the-program, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/homepage/about-the-program with 307 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/homepage/about-the-program
+program => 20
+design => 15
+career => 14
+experience => 14
+development => 10
+industry => 9
+mhcid => 9
+master => 8
+access => 7
+human-computer => 7
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'mailto:mhcid@ics.uci.edu', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/faq, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/faq
+program => 52
+design => 23
+career => 18
+master => 17
+portfolio => 17
+uci => 15
+experience => 15
+mhcid => 15
+students => 14
+development => 12
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'mailto:mhcid@ics.uci.edu', 'https://grad.uci.edu/admissions/application-fee-fee-waivers/', 'https://www.reg.uci.edu/fees/', 'https://grad.uci.edu/admissions/applying-to-uci/', 'mailto:gradapplicant@uci.edu', 'https://grad.uci.edu/admissions/applying-to-uci/', 'https://reg.uci.edu/fees/2023-2024/humancomp.pdf', 'https://shc.uci.edu/insurance/uc-ship-benefits-and-information/gship', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/costs-and-financial-aid, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/costs-and-financial-aid
+program => 59
+design => 25
+master => 19
+career => 19
+mhcid => 19
+portfolio => 18
+uci => 17
+students => 17
+experience => 15
+interaction => 13
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://www.reg.uci.edu/fees/', 'http://www.ofas.uci.edu/', 'mailto:mhcid@ics.uci.edu', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/applicant-portfolio, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/applicant-portfolio
+program => 63
+portfolio => 35
+design => 28
+mhcid => 22
+master => 21
+uci => 20
+career => 20
+work => 20
+information => 17
+students => 17
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'mailto:mhcid@ics.uci.edu', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/admissions-overview, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/admissions-overview
+program => 75
+portfolio => 38
+design => 31
+master => 25
+uci => 24
+mhcid => 24
+career => 23
+work => 23
+information => 20
+interaction => 18
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'mailto:mhcid@ics.uci.edu', 'https://grad.uci.edu/admissions/applying-to-uci/', 'https://apply.grad.uci.edu/apply/', 'http://ic.uci.edu/', 'https://grad.uci.edu/admissions/applying-to-uci/', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/mhcid-advisory-board, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/mhcid-advisory-board
+program => 78
+portfolio => 39
+design => 37
+master => 27
+mhcid => 27
+uci => 25
+career => 24
+work => 24
+information => 21
+interaction => 20
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://ics.uci.edu/~ampiper/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/~ampiper, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://ics.uci.edu/~ampiper
+program => 78
+design => 42
+portfolio => 39
+uci => 31
+work => 31
+mhcid => 28
+master => 27
+career => 26
+information => 24
+interaction => 22
+
+Found and enqueued the following links:
+ ['https://www.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://accessibility.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://mhcid.ics.uci.edu/']
+
+Found and skipped the following links:
+ ['index.html', 'publications.html', 'https://uci.edu//', 'https://www.communication.northwestern.edu/departments/communicationstudies', 'https://www.northwestern.edu/', 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326023', 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=1901456', 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=1551574', 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=1533340', 'https://preschoolhaptics.soc.northwestern.edu/index.html', 'https://www.kgarg.com/', 'https://www.linkedin.com/in/christinedh/', 'https://kanahuang.github.io/', 'https://www.linkedin.com/in/aparajita-marathe/', 'https://www.linkedin.com/in/dwayne-morgan-256267214/', 'https://xinrutang.github.io/', 'https://www.linkedin.com/in/ali-abdolrahmani-43245143/', 'https://aktertaslima.github.io/', 'https://www.linkedin.com/in/cooperfbarth/', 'https://sites.google.com/u.northwestern.edu/elhambeheshti', 'https://kborgos.github.io/', 'http://robinbrewer.com/', 'https://www.linkedin.com/in/rcornejo82/', 'https://maitraye.github.io/', 'https://www.linkedin.com/in/jessicafeuston/', 'https://www.christinaharrington.me/', 'https://jazettejohnson.com/', 'https://www.linkedin.com/in/chelsea-kim-ph-d-0433a15b/', 'https://amandalazar.net/', 'http://www.lilin6.com/', 'https://www.linkedin.com/in/charlotte-marshall-mph/', 'https://ej-mcdonnell.github.io/', 'https://www.linkedin.com/in/tommymchugh/', 'http://www.mmachiobiorah.com', 'https://abirsh.github.io/', 'https://tedmond.net/', 'https://www.linkedin.com/in/nneka-udeagbala', 'https://greenteawarrior.github.io/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://accessibility.ics.uci.edu, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://accessibility.ics.uci.edu
+program => 78
+design => 45
+portfolio => 39
+work => 34
+uci => 31
+mhcid => 28
+master => 27
+career => 26
+information => 25
+interaction => 22
+
+Found and enqueued the following links:
+ ['https://www.ics.uci.edu/']
+
+Found and skipped the following links:
+ ['index.html', 'people.html', 'research.html', 'resources.html', 'contact.html']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/alumni-experiences, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/alumni-experiences
+program => 82
+design => 47
+portfolio => 40
+work => 34
+uci => 32
+mhcid => 30
+master => 29
+career => 28
+information => 26
+interaction => 24
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', '/alumni-stacey/', 'alumni-lexsi/', '/alumni-sally/', '/alumni-brandon/', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/faculty-staff, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/faculty-staff
+program => 85
+design => 51
+uci => 50
+portfolio => 41
+work => 34
+mhcid => 33
+master => 32
+career => 29
+interaction => 27
+information => 27
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://ics.uci.edu/?people=matthew-bietz', 'mailto:mbietz@uci.edu', 'https://ics.uci.edu/?people=anne-marie-piper', 'mailto:ampiper@uci.edu', 'https://ics.uci.edu/?post_type=people&p=11512', 'mailto:baldwinm@uci.edu', 'https://ics.uci.edu/?people=stacy-branham', 'tel:(949) 824-1529', 'mailto:sbranham@uci.edu', 'https://ics.uci.edu/?people=darren-denenberg', 'tel:(949) 824-2901', 'mailto:ddenenbe@uci.edu', 'https://ics.uci.edu/?people=blake-dicosola', 'mailto:bdicosol@uci.edu', 'https://ics.uci.edu/?people=daniel-epstein', 'tel:(949) 824-4197', 'mailto:epstein@ics.uci.edu', 'https://ics.uci.edu/?people=gillian-hayes', 'mailto:hayesg@uci.edu', 'https://ics.uci.edu/?people=jesse-jackson', 'mailto:j.c.jackson@uci.edu', 'https://ics.uci.edu/?people=melissa-mazmanian', 'tel:(949) 824-9284', 'mailto:m.mazmanian@uci.edu', 'https://ics.uci.edu/?people=sarah-murray', 'mailto:srmurray@uci.edu', 'https://ics.uci.edu/?people=judy-olson', 'tel:(949) 824-0077', 'mailto:jsolson@uci.edu', 'https://ics.uci.edu/?people=don-patterson', 'mailto:dpatterson@westmont.edu', 'https://ics.uci.edu/?people=katie-salen-tekinbas', 'mailto:ksalen@uci.edu', 'https://ics.uci.edu/?people=bill-tomlinson', 'tel:(949) 423-6171', 'mailto:wmt@uci.edu', 'https://ics.uci.edu/?people=jon-kolko', 'mailto:kolkoj@uci.edu', 'https://ics.uci.edu/?people=kris-bolcer', 'tel:(949) 824-5158', 'mailto:kris@ics.uci.edu', 'https://ics.uci.edu/?people=kaelyn-costa', 'mailto:kcosta1@uci.edu', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/career-outcomes, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/career-outcomes
+program => 89
+design => 53
+uci => 51
+portfolio => 42
+work => 36
+mhcid => 36
+master => 34
+career => 33
+interaction => 29
+human-computer => 28
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/capstone-projects, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/capstone-projects
+program => 97
+design => 56
+uci => 53
+portfolio => 43
+mhcid => 42
+work => 39
+master => 36
+career => 34
+interaction => 31
+human-computer => 30
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'mailto:mhcid@ics.uci.edu', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/curriculum, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/curriculum
+program => 100
+design => 59
+uci => 55
+portfolio => 44
+mhcid => 43
+master => 39
+work => 39
+career => 35
+interaction => 34
+human-computer => 33
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/humancomputerinteractionanddesign_master/#requirementstext', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mhcid.ics.uci.edu/about-the-program, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mhcid.ics.uci.edu/about-the-program
+program => 109
+design => 67
+uci => 57
+mhcid => 49
+portfolio => 45
+master => 42
+work => 40
+interaction => 37
+career => 37
+human-computer => 36
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://mhcid.ics.uci.edu/capstone-projects/', 'https://mhcid.ics.uci.edu/career-outcomes/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/alumni-experiences/', 'https://mhcid.ics.uci.edu/mhcid-advisory-board/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/applicant-portfolio/', 'https://mhcid.ics.uci.edu/costs-and-financial-aid/', 'https://mhcid.ics.uci.edu/faq/', 'https://mhcid.ics.uci.edu/', 'https://mhcid.ics.uci.edu/about-the-program/', 'https://mhcid.ics.uci.edu/curriculum/', 'https://ics.uci.edu/', 'https://mhcid.ics.uci.edu/faculty-staff/', 'https://mhcid.ics.uci.edu/admissions-overview/', 'https://mhcid.ics.uci.edu/faq/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'mailto:mhcid@ics.uci.edu', 'https://www.facebook.com/UCI.Informatics', 'https://twitter.com/UCI_Informatics', 'mailto:mhcid@ics.uci.edu', 'http://uci.edu/privacy/', 'https://directory.uci.edu/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://mds.ics.uci.edu/frequently-asked-questions, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://mds.ics.uci.edu/frequently-asked-questions
+program => 118
+design => 67
+uci => 60
+mhcid => 49
+master => 46
+portfolio => 45
+work => 41
+career => 38
+interaction => 37
+information => 37
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://mds.ics.uci.edu/', 'https://mds.ics.uci.edu/academics/', 'https://code.ics.uci.edu/', 'https://mds.ics.uci.edu/instructors-and-staff/', 'https://mds.ics.uci.edu/admissions/', 'https://mds.ics.uci.edu/financial-aid-tuition/', 'https://mds.ics.uci.edu/frequently-asked-questions/', 'https://mds.ics.uci.edu/', 'https://mds.ics.uci.edu/frequently-asked-questions/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://mds.ics.uci.edu/events-and-news/', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-5158', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://ics.uci.edu/people/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu/', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/alumni, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://cml.ics.uci.edu/alumni
+program => 118
+design => 67
+uci => 62
+mhcid => 49
+master => 46
+portfolio => 45
+work => 41
+career => 40
+information => 38
+interaction => 37
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'http://www.ics.uci.edu/~dchudova/', 'http://www.ics.uci.edu/~sswamida/', 'http://www.ics.uci.edu/~sgaffney/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cml.ics.uci.edu/home/contact-us/', 'http://homes.cs.washington.edu/~pedrod/', 'https://www.csi.ucd.ie/users/gianluca-pollastri', 'http://www.cs.ucr.edu/~eamonn/', 'http://people.lis.illinois.edu/~clblake/', 'http://researcher.watson.ibm.com/researcher/view.php?person=us-rish', 'http://webhost2.cs.missouri.edu/~chengji/', 'http://www.cs.cmu.edu/~sssykim/', 'http://csserver.ucd.ie/~rjurdak/index', 'http://www.fxpal.com/?p=billsus', '', '', 'http://www.sergeykirshner.com/', '', '', 'http://www.vuse.vanderbilt.edu/~dfisher/', 'http://ebiquity.umbc.edu/person/html/David/Aha/', 'http://faculty.washington.edu/gennari/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+Failed to retrieve http://www.ics.uci.edu/~sgaffney. Status code: 500. Error: None
+Failed to retrieve http://www.ics.uci.edu/~sswamida. Status code: 500. Error: None
+Failed to retrieve http://www.ics.uci.edu/~dchudova. Status code: 500. Error: None
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/category/academics/statistics, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://ics.uci.edu/category/academics/statistics
+program => 118
+design => 67
+uci => 62
+mhcid => 49
+master => 46
+portfolio => 45
+work => 41
+career => 40
+information => 38
+interaction => 37
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards
+program => 118
+design => 67
+uci => 62
+mhcid => 49
+master => 46
+portfolio => 45
+work => 41
+career => 40
+information => 38
+interaction => 37
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2025/02/18/advancing-innovative-solutions-in-pediatric-health, Status: 200, Error: None
+
+Longest url so far: https://mhcid.ics.uci.edu/faq with 770 words
+These are the top 10 words after scraping: https://ics.uci.edu/2025/02/18/advancing-innovative-solutions-in-pediatric-health
+program => 118
+design => 67
+uci => 62
+mhcid => 49
+master => 46
+portfolio => 45
+work => 41
+career => 40
+information => 38
+interaction => 37
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://www.ics.uci.edu/community/news/view_news?id=1817, Status: 200, Error: None
+
+Longest url so far: https://www.ics.uci.edu/community/news/view_news?id=1817 with 859 words
+These are the top 10 words after scraping: https://www.ics.uci.edu/community/news/view_news?id=1817
+program => 119
+design => 67
+uci => 62
+mhcid => 49
+master => 46
+portfolio => 45
+work => 45
+us => 43
+career => 41
+information => 40
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/archive-news/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', '/research-areas/', 'https://ics.uci.edu/people/', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://ics.uci.edu/events/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', '/alumni/corporate-engagement/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/contact-us/', 'https://twitter.com/sameer_/status/1279860043328839685?s=20', 'http://sameersingh.org/', 'https://arxiv.org/abs/2005.04118', 'https://acl2020.org/', 'https://acl2020.org/blog/ACL-2020-best-papers/', 'https://venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/', 'https://github.com/marcotcr/checklist', 'https://slideslive.com/38929272/beyond-accuracy-behavioral-testing-of-nlp-models-with-checklist', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', '/people/', 'https://em.uci.edu/', '/accessibility-statement/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/academics/impact, Status: 200, Error: None
+
+Longest url so far: https://www.ics.uci.edu/community/news/view_news?id=1817 with 859 words
+These are the top 10 words after scraping: https://ics.uci.edu/academics/impact
+program => 120
+design => 67
+uci => 62
+research => 51
+mhcid => 49
+us => 49
+master => 46
+portfolio => 45
+work => 45
+career => 44
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/academics/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/2023/06/07/on-the-road-to-internet-adoption-a-cryptographic-protocol-helps-secure-2-billion-whatsapp-users/', 'https://www.ics.uci.edu/community/news/view_news?id=1793', 'https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity/', 'https://ics.uci.edu/2026/04/13/victoria-marie-soroten-awarded-smart-scholarship/', 'https://ics.uci.edu/category/article/awards/', 'https://ics.uci.edu/2026/04/09/paul-dourish-elected-royal-society-of-edinburgh-fellow/', 'https://ics.uci.edu/category/academics/informatics/', 'https://ics.uci.edu/2026/03/19/from-project-expo-to-cto-alumnus-christopher-tapia-kicked-his-career-into-high-gear/', 'https://ics.uci.edu/category/article/highlight/', 'https://ics.uci.edu/2026/03/04/ics-alumna-eunkyung-jo-honored-by-acm-sigchi/', 'https://ics.uci.edu/category/article/awards/', 'https://ics.uci.edu/2026/03/02/in-memoriam-david-j-farber-grandfather-of-the-internet/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2026/02/25/uc-irvine-researchers-expose-critical-security-vulnerability-in-autonomous-drones/', 'https://ics.uci.edu/category/research/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', '/research-areas/', 'https://ics.uci.edu/people/', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://ics.uci.edu/events/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', '/alumni/corporate-engagement/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/contact-us/', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', '/people/', 'https://em.uci.edu/', '/accessibility-statement/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity
+program => 124
+design => 81
+uci => 73
+ics => 69
+research => 67
+us => 57
+career => 49
+work => 49
+mhcid => 49
+master => 46
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/category/academics/informatics/', 'https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity/', 'https://ics.uci.edu/author/coby/', 'http://www.facebook.com/sharer.php?u=https%3A%2F%2Fics.uci.edu%2F2019%2F03%2F04%2Falumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity%2F&t=Alumni+Spotlight%3A+Erin+Bradner+Designs+Technology+to+Amplify+Our+Creativity', 'https://twitter.com/share?url=https%3A%2F%2Fics.uci.edu%2F2019%2F03%2F04%2Falumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity%2F&text=Alumni+Spotlight%3A+Erin+Bradner...', 'http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fics.uci.edu%2F2019%2F03%2F04%2Falumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity%2F&title=Alumni+Spotlight%3A+Erin+Bradner+Designs+Technology+to+Amplify+Our+Creativity', 'https://www.ics.uci.edu/', 'https://www.ics.uci.edu/community/news/view_news?id=1490', 'https://www.ics.uci.edu/~gmark/Home_page/Welcome.html', 'https://ics.uci.edu/category/academics/informatics/', 'https://ics.uci.edu/category/research/', 'https://ics.uci.edu/tag/research-spotlights/', 'https://ics.uci.edu/tag/our-alumni/', 'https://ics.uci.edu/tag/alumni/', 'https://ics.uci.edu/2026/04/13/victoria-marie-soroten-awarded-smart-scholarship/', 'https://ics.uci.edu/category/article/awards/', 'https://ics.uci.edu/2026/04/09/paul-dourish-elected-royal-society-of-edinburgh-fellow/', 'https://ics.uci.edu/category/academics/informatics/', 'https://ics.uci.edu/2026/03/19/from-project-expo-to-cto-alumnus-christopher-tapia-kicked-his-career-into-high-gear/', 'https://ics.uci.edu/category/article/highlight/', 'https://ics.uci.edu/2026/03/04/ics-alumna-eunkyung-jo-honored-by-acm-sigchi/', 'https://ics.uci.edu/category/article/awards/', 'https://ics.uci.edu/2026/02/25/uc-irvine-researchers-expose-critical-security-vulnerability-in-autonomous-drones/', 'https://ics.uci.edu/category/research/', 'https://ics.uci.edu/2026/02/18/thomas-zimmermann-recognized-with-two-sigsoft-awards/', 'https://ics.uci.edu/category/article/awards/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', '/research-areas/', 'https://ics.uci.edu/people/', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://ics.uci.edu/events/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', '/alumni/corporate-engagement/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/contact-us/', 'mailto:?subject=Alumni+Spotlight%3A+Erin+Bradner+Designs+Technology+to+Amplify+Our+Creativity&body=https%3A%2F%2Fics.uci.edu%2F2019%2F03%2F04%2Falumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity%2F', 'https://www.linkedin.com/in/erinbradner/', 'https://www.autodesk.com/', 'https://www.autodesk.com/solutions/generative-design', 'http://tech.uci.edu/halloffame/', 'https://en.wikipedia.org/wiki/Undo', 'https://dl.acm.org/citation.cfm?id=358975', 'https://dl.acm.org/citation.cfm?id=3282491', 'https://www.buildchange.org/', 'https://www.youtube.com/watch?v=roYqCeYK6ow&feature=youtu.be', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', '/people/', 'https://em.uci.edu/', '/accessibility-statement/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/tag/alumni, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/tag/alumni
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+student => 52
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/tag/alumni/', 'https://ics.uci.edu/2026/03/19/from-project-expo-to-cto-alumnus-christopher-tapia-kicked-his-career-into-high-gear/', 'https://ics.uci.edu/category/article/highlight/', 'https://ics.uci.edu/2026/03/04/ics-alumna-eunkyung-jo-honored-by-acm-sigchi/', 'https://ics.uci.edu/category/article/awards/', 'https://ics.uci.edu/2026/02/13/anteater-love-story-change-of-major-change-of-heart/', 'https://ics.uci.edu/category/article/highlight/', 'https://ics.uci.edu/event/homecoming-event-2026/', 'https://ics.uci.edu/2025/05/21/engineering-and-information-and-computer-sciences-schools-induct-six-alumni-into-2025-hall-of-fame/', 'https://ics.uci.edu/category/article/highlight/', 'https://ics.uci.edu/event/san-francisco-bay-area-ics-alumni-reception/', 'https://ics.uci.edu/2023/08/28/alumni-spotlight-from-cancer-to-climate-change-peter-sadowski-applies-machine-learning-to-address-real-world-problems/', 'https://ics.uci.edu/category/academics/computer-science/', 'https://ics.uci.edu/2023/06/08/fritz-onion-m-s-93-an-inspiration-for-giving-back/', 'https://ics.uci.edu/category/academics/computer-science/', 'https://ics.uci.edu/2023/05/22/ics-and-engineering-schools-induct-six-into-2023-hall-of-fame/', 'https://ics.uci.edu/category/academics/computer-science/', 'https://ics.uci.edu/2022/06/01/2022-hall-of-fame-celebrates-alumni-excellence-in-engineering-and-computer-sciences/', 'https://ics.uci.edu/category/academics/computer-science/', 'https://ics.uci.edu/2022/05/27/alumni-spotlight-ics-couple-lloyd-and-melissa-tullues-03-honored-at-ucis-lauds-laurels-ceremony/', 'https://ics.uci.edu/category/academics/computer-science/', 'https://ics.uci.edu/2022/05/13/ics-alumna-alegria-baquero-14-named-2022-moxie-award-winner/', 'https://ics.uci.edu/category/academics/informatics/', 'https://ics.uci.edu/tag/alumni/', 'https://ics.uci.edu/tag/alumni/page/2/', 'https://ics.uci.edu/tag/alumni/page/3/', 'https://ics.uci.edu/tag/alumni/page/2/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', '/research-areas/', 'https://ics.uci.edu/people/', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://ics.uci.edu/events/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', '/alumni/corporate-engagement/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/contact-us/', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', '/people/', 'https://em.uci.edu/', '/accessibility-statement/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/tag/alumni/page/3, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/tag/alumni/page/3
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+student => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/tag/alumni/page/2, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/tag/alumni/page/2
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+student => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2022/05/13/ics-alumna-alegria-baquero-14-named-2022-moxie-award-winner, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2022/05/13/ics-alumna-alegria-baquero-14-named-2022-moxie-award-winner
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+student => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2022/05/27/alumni-spotlight-ics-couple-lloyd-and-melissa-tullues-03-honored-at-ucis-lauds-laurels-ceremony, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2022/05/27/alumni-spotlight-ics-couple-lloyd-and-melissa-tullues-03-honored-at-ucis-lauds-laurels-ceremony
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+student => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2022/06/01/2022-hall-of-fame-celebrates-alumni-excellence-in-engineering-and-computer-sciences, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2022/06/01/2022-hall-of-fame-celebrates-alumni-excellence-in-engineering-and-computer-sciences
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+access => 52
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2023/05/22/ics-and-engineering-schools-induct-six-into-2023-hall-of-fame, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2023/05/22/ics-and-engineering-schools-induct-six-into-2023-hall-of-fame
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+access => 57
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2023/06/08/fritz-onion-m-s-93-an-inspiration-for-giving-back, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2023/06/08/fritz-onion-m-s-93-an-inspiration-for-giving-back
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+access => 62
+alumni => 60
+computer => 59
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2023/08/28/alumni-spotlight-from-cancer-to-climate-change-peter-sadowski-applies-machine-learning-to-address-real-world-problems, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2023/08/28/alumni-spotlight-from-cancer-to-climate-change-peter-sadowski-applies-machine-learning-to-address-real-world-problems
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+access => 67
+us => 63
+alumni => 60
+computer => 59
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/event/san-francisco-bay-area-ics-alumni-reception, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/event/san-francisco-bay-area-ics-alumni-reception
+program => 125
+ics => 94
+design => 81
+research => 76
+uci => 75
+access => 72
+us => 63
+alumni => 60
+computer => 59
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2025/05/21/engineering-and-information-and-computer-sciences-schools-induct-six-alumni-into-2025-hall-of-fame, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2025/05/21/engineering-and-information-and-computer-sciences-schools-induct-six-alumni-into-2025-hall-of-fame
+program => 125
+ics => 94
+design => 81
+access => 77
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/event/homecoming-event-2026, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/event/homecoming-event-2026
+program => 125
+ics => 94
+access => 82
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2026/02/13/anteater-love-story-change-of-major-change-of-heart, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2026/02/13/anteater-love-story-change-of-major-change-of-heart
+program => 125
+ics => 94
+access => 87
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/tag/our-alumni, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/tag/our-alumni
+program => 125
+ics => 94
+access => 92
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+career => 52
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/tag/research-spotlights, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/tag/research-spotlights
+program => 125
+access => 97
+ics => 94
+design => 81
+research => 76
+uci => 75
+us => 63
+alumni => 60
+computer => 59
+restricted => 54
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://www.ics.uci.edu/~gmark/Home_page/Welcome.html, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://www.ics.uci.edu/~gmark/Home_page/Welcome.html
+program => 125
+access => 97
+ics => 94
+design => 81
+research => 78
+uci => 75
+us => 63
+computer => 61
+alumni => 60
+restricted => 54
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://gloriamark.com/', 'http://gloriamark.com', 'Publications.html', 'Welcome_files/Bio.pdf', 'Welcome_files/Gloria%20Mark%202017-2.pdf', 'Welcome_files/Mark-vita-May%202021.pdf', 'Students.html', 'Media_reports.html', 'Videos_of_talks.html', 'http://apple.com/mac']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://www.ics.uci.edu/community/news/view_news?id=1490, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://www.ics.uci.edu/community/news/view_news?id=1490
+program => 125
+access => 102
+ics => 94
+design => 81
+research => 78
+uci => 75
+us => 63
+computer => 61
+alumni => 60
+restricted => 57
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+Failed to retrieve http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fics.uci.edu%2F2019%2F03%2F04%2Falumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity%2F&title=Alumni+Spotlight%3A+Erin+Bradner+Designs+Technology+to+Amplify+Our+Creativity. Status code: 604. Error: Domain must be within spec.
+Failed to retrieve https://twitter.com/share?url=https%3A%2F%2Fics.uci.edu%2F2019%2F03%2F04%2Falumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity%2F&text=Alumni+Spotlight%3A+Erin+Bradner.... Status code: 604. Error: Domain must be within spec.
+Failed to retrieve http://www.facebook.com/sharer.php?u=https%3A%2F%2Fics.uci.edu%2F2019%2F03%2F04%2Falumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity%2F&t=Alumni+Spotlight%3A+Erin+Bradner+Designs+Technology+to+Amplify+Our+Creativity. Status code: 604. Error: Domain must be within spec.
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/author/coby, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/author/coby
+program => 125
+access => 107
+ics => 94
+design => 81
+research => 78
+uci => 75
+us => 63
+computer => 61
+restricted => 60
+location => 60
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://www.ics.uci.edu/community/news/view_news?id=1793, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://www.ics.uci.edu/community/news/view_news?id=1793
+program => 125
+access => 112
+ics => 94
+design => 81
+research => 78
+uci => 75
+restricted => 63
+location => 63
+us => 63
+computer => 61
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2023/06/07/on-the-road-to-internet-adoption-a-cryptographic-protocol-helps-secure-2-billion-whatsapp-users, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2023/06/07/on-the-road-to-internet-adoption-a-cryptographic-protocol-helps-secure-2-billion-whatsapp-users
+program => 125
+access => 117
+ics => 94
+design => 81
+research => 78
+uci => 75
+restricted => 66
+location => 66
+us => 63
+computer => 61
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2026/02/25/uc-irvine-researchers-expose-critical-security-vulnerability-in-autonomous-drones, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2026/02/25/uc-irvine-researchers-expose-critical-security-vulnerability-in-autonomous-drones
+program => 125
+access => 122
+ics => 94
+design => 81
+research => 78
+uci => 75
+restricted => 69
+location => 69
+us => 63
+computer => 61
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2025/10/03/uc-irvine-data-science-students-partner-with-choc-research-and-rady-childrens-health-to-develop-personalized-pediatric-dehydration-management-solutions, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2025/10/03/uc-irvine-data-science-students-partner-with-choc-research-and-rady-childrens-health-to-develop-personalized-pediatric-dehydration-management-solutions
+access => 127
+program => 125
+ics => 94
+design => 81
+research => 78
+uci => 75
+restricted => 72
+location => 72
+us => 63
+computer => 61
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/event/optimal-phibe-a-framework-for-reinforcement-learning-in-the-physical-world, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/event/optimal-phibe-a-framework-for-reinforcement-learning-in-the-physical-world
+access => 132
+program => 125
+ics => 94
+design => 81
+research => 78
+restricted => 75
+location => 75
+uci => 75
+us => 63
+computer => 61
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ http://www.ics.uci.edu/~willmlam, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: http://www.ics.uci.edu/~willmlam
+access => 132
+program => 125
+ics => 95
+research => 82
+design => 81
+uci => 76
+restricted => 75
+location => 75
+computer => 68
+us => 63
+
+Found and enqueued the following links:
+ ['http://www.cs.uci.edu', 'http://www.ics.uci.edu/~dechter/']
+
+Found and skipped the following links:
+ ['./', 'courses/', 'teaching/', 'http://www.uci.edu', 'http://www.google.com/recaptcha/mailhide/d?k=01Qwkslud7wszGdMuwIj6mnQ==&c=8FlPmL-zo_482WOLnIm9v4aYXpwoxrRsTvcs0pVLOaM=', 'http://rlair.cs.ucr.edu', 'http://www.cs.ucr.edu/~cshelton', 'http://rlair.cs.ucr.edu/ctbnrle', 'http://www.ics.uci.edu/~dechter/publications/r237.pdf', 'pubs/jcss18-so.pdf', 'https://doi.org/10.1016/j.jcss.2017.10.003', 'pubs/jair17-lh.pdf', 'http://jmlr.csail.mit.edu/papers/v11/shelton10a.html', 'pubs/ecai16-aobf.pdf', 'pubs/aaai16-lh.pdf', 'pubs/socs15-lh.pdf', 'pubs/socs14ics.pdf', 'pubs/benchmark_discml13.pdf', 'pubs/cpdp12aomdd.pdf', 'pubs/cpdp12aomdd_long.pdf', 'pubs/factuniform.pdf']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2023/10/02/stephanie-saldana-inspiring-diversity-in-stem, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2023/10/02/stephanie-saldana-inspiring-diversity-in-stem
+access => 137
+program => 125
+ics => 95
+research => 82
+design => 81
+restricted => 78
+location => 78
+uci => 76
+computer => 68
+us => 63
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cs.ics.uci.edu, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://cs.ics.uci.edu
+access => 138
+program => 127
+ics => 97
+research => 91
+design => 81
+restricted => 78
+location => 78
+uci => 77
+computer => 72
+us => 69
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://cs.ics.uci.edu/', 'https://cs.ics.uci.edu/explore/', 'https://cs.ics.uci.edu/research-areas/', 'https://cs.ics.uci.edu/research-centers/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://cs.ics.uci.edu/undergraduate-programs/', 'https://cs.ics.uci.edu/undergraduate-programs/', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/undergraduate-academic-advising/', 'https://cs.ics.uci.edu/graduate-computer-science-programs/', 'https://cs.ics.uci.edu/graduate-computer-science-programs#researchprograms', 'https://cs.ics.uci.edu/graduate-computer-science-programs#professionalprograms', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://ics.uci.edu/academics/campus-resources/', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D=69', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988&filter%5Bunits%5D=69', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D=69&filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D=69&filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D=69&filter%5Baffiliation_posts%5D=1990', 'https://cs.ics.uci.edu/seminar-series/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://hpi.ics.uci.edu/hpiuci-2022-grand-opening-event/', 'https://isg.ics.uci.edu/talks/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://cs.ics.uci.edu/', 'https://ics.uci.edu/2025/07/16/inaugural-hasso-plattner-endowed-chair-padhraic-smyth-speaks-on-ai-past-present-and-future/', 'https://ics.uci.edu/2026/03/02/in-memoriam-david-j-farber-grandfather-of-the-internet/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2026/02/25/uc-irvine-researchers-expose-critical-security-vulnerability-in-autonomous-drones/', 'https://ics.uci.edu/category/research/', 'https://ics.uci.edu/2026/02/13/anteater-love-story-change-of-major-change-of-heart/', 'https://ics.uci.edu/category/article/highlight/', 'https://ics.uci.edu/2025/12/11/national-academy-of-inventors-names-marios-papaefthymiou-as-fellow/', 'https://ics.uci.edu/category/article/awards/', 'https://ics.uci.edu/2025/11/17/vijay-vazirani-to-be-honored-with-2025-focs-test-of-time-award/', 'https://ics.uci.edu/category/article/awards/', 'https://ics.uci.edu/2025/11/06/ioannis-panageas-receives-400k-grant-from-algorithmic-foundations-for-multi-agent-learning/', 'https://ics.uci.edu/category/research/', 'https://ics.uci.edu/happening/news/', 'https://cs.ics.uci.edu/undergraduate-programs/', 'https://cs.ics.uci.edu/graduate-computer-science-programs/', 'https://ics.uci.edu/academic-recruitment/', 'https://ics.uci.edu/event/test-before-you-trust-verifying-predictions-in-online-allocation-and-learning/', 'https://ics.uci.edu/event/our-everyday-life-in-2035-with-mindful-and-safe-drone-companions/', 'https://ics.uci.edu/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://ics.uci.edu/people/?filter%5Bunits%5D=69', 'https://cs.ics.uci.edu/contact/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_81%5B0%5D=Computer+Science', 'https://cs.ics.uci.edu/special-events/distinguished-lecture-series/', 'https://futurehealth.uci.edu/events/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_46%5B0%5D=Computer+Science', 'https://cs.ics.uci.edu/contact/', '//cs.uci.edu/events/seminar-series/', '//cs.uci.edu/events/seminar-series/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_81%5B0%5D=Computer+Science', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://ics.uci.edu/people/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu/', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/event/our-everyday-life-in-2035-with-mindful-and-safe-drone-companions, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/event/our-everyday-life-in-2035-with-mindful-and-safe-drone-companions
+access => 143
+program => 127
+ics => 97
+research => 91
+restricted => 81
+location => 81
+design => 81
+uci => 77
+computer => 72
+us => 69
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2025/11/17/vijay-vazirani-to-be-honored-with-2025-focs-test-of-time-award, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2025/11/17/vijay-vazirani-to-be-honored-with-2025-focs-test-of-time-award
+access => 148
+program => 127
+ics => 97
+research => 91
+restricted => 84
+location => 84
+design => 81
+uci => 77
+computer => 72
+us => 69
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/2025/12/11/national-academy-of-inventors-names-marios-papaefthymiou-as-fellow, Status: 200, Error: None
+
+Longest url so far: https://ics.uci.edu/2019/03/04/alumni-spotlight-erin-bradner-designs-technology-to-amplify-our-creativity with 1308 words
+These are the top 10 words after scraping: https://ics.uci.edu/2025/12/11/national-academy-of-inventors-names-marios-papaefthymiou-as-fellow
+access => 153
+program => 127
+ics => 97
+research => 91
+restricted => 87
+location => 87
+design => 81
+uci => 77
+computer => 72
+us => 69
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+Pressed Ctrl+C. Returning the top 50 words detected so far
+
+access => 153
+program => 127
+ics => 97
+research => 91
+restricted => 87
+location => 87
+design => 81
+uci => 77
+computer => 72
+us => 69
+current => 66
+website => 65
+irvine => 64
+alumni => 61
+content => 59
+ip => 58
+information => 58
+student => 57
+science => 56
+- => 55
+graduate => 55
+career => 53
+faculty => 53
+work => 52
+view => 52
+learning => 51
+bren => 51
+students => 51
+mhcid => 49
+donald => 48
+informatics => 48
+master => 46
+portfolio => 45
+experience => 44
+2026 => 43
+hall => 41
+interaction => 40
+s => 40
+school => 40
+undergraduate => 40
+human-computer => 38
+capstone => 38
+admissions => 36
+people => 35
+sciences => 35
+visit => 33
+address => 32
+apply => 32
+uc => 32
+follow => 32
