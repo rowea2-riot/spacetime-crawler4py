@@ -1,0 +1,94 @@
+Top 50 words found so far:
+learning => 1818
+research => 1792
+ics => 1729
+uci => 1551
+computer => 1485
+science => 1426
+center => 1295
+access => 1272
+news => 1160
+data => 1054
+machine => 1042
+algorithms => 981
+school => 951
+irvine => 919
+us => 910
+will => 878
+student => 869
+seminar => 861
+systems => 823
+university => 818
+graduate => 797
+series => 792
+home => 776
+students => 747
+people => 737
+contact => 724
+theory => 710
+location => 705
+information => 690
+restricted => 689
+models => 661
+undergraduate => 659
+professor => 657
+faculty => 654
+content => 651
+program => 605
+uc => 561
+informatics => 561
+ai => 555
+view => 548
+hall => 542
+pm => 541
+current => 539
+website => 517
+bren => 515
+can => 514
+computation => 512
+business => 501
+math => 485
+eecs => 467
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 39
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 113
+archive-beta.ics.uci.edu, 1
+archive.ics.uci.edu, 1
+cecs.uci.edu, 1
+cml.ics.uci.edu, 127
+code.ics.uci.edu, 15
+courselisting.ics.uci.edu, 1
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 11
+cs.uci.edu, 1
+cyberclub.ics.uci.edu, 1
+dgillen.ics.uci.edu, 1
+fr.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+graphmod.ics.uci.edu, 1
+hpi.ics.uci.edu, 6
+ics.uci.edu, 510
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 11
+luci.ics.uci.edu, 1
+mcs.ics.uci.edu, 2
+mdogucu.ics.uci.edu, 1
+mds.ics.uci.edu, 10
+mhcid.ics.uci.edu, 15
+mswe.ics.uci.edu, 10
+newport.eecs.uci.edu, 2
+oai.ics.uci.edu, 1
+sli.ics.uci.edu, 3
+stairs.ics.uci.edu, 1
+stat.ics.uci.edu, 11
+summeracademy.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+vision.ics.uci.edu, 6
+www.cecs.uci.edu, 64
+www.cs.uci.edu, 10
+www.ics.uci.edu, 105
+www.informatics.uci.edu, 6
+www.stat.uci.edu, 9
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
