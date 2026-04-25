@@ -7,17 +7,17 @@ import builtins
 from stop_words import get_stop_words
 
 url_dict = {}
-blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jgarcia", 
+blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", 
             "events/month", "events/week", "events/2", "events/1", "events/tags",
             "tribe-bar-date=201", "tribe-bar-date=200", "tribe-bar-date=1",
             "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
             "tribe-bar-date=206", "tribe-bar-date=207", "tribe-bar-date=208",
             "tribe-bar-date=209", "tribe-bar-date=21", "events/2", "events/1",
-            "outlook", "ical=", "isg", "wiki", "login", "ramesh", "study-session",
+            "outlook", "ical=", "isg", "login", "ramesh", "study-session",
             "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring", "wics.ics.uci.edu/fall",
             "wics.ics.uci.edu/winter", "wics.ics.uci.edu/summer",
             "web.archive", "twitter", "linkedin", "facebook",
-            "youtube", "archive.ics", "ml"} #terms in url that flag that you should not crawl them
+            "youtube", "archive.ics", "/ml/"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 mostWords = -1
