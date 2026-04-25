@@ -15,7 +15,7 @@ blacklist = {"calendar", "portal", "apply", "admin", "password", "contact", "jga
             "tribe-bar-date=209", "tribe-bar-date=21", "events/2", "events/1",
             "outlook", "ical=", "isg", "wiki", "login", "ramesh", "study-session",
             "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring", "wics.ics.uci.edu/fall",
-            "wics.ics.uci.edu/winter", "wics.ics.uci.edu/summer", "http:",
+            "wics.ics.uci.edu/winter", "wics.ics.uci.edu/summer",
             "web.archive", "twitter", "linkedin", "facebook",
             "youtube", "archive.ics", "ml"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
