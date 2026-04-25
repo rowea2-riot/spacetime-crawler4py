@@ -16,8 +16,7 @@ blacklist = {"calendar", "portal", "apply", "admin", "password", "contact",
             "outlook", "ical=", "isg", "login", "ramesh", "study-session",
             "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring", "wics.ics.uci.edu/fall",
             "wics.ics.uci.edu/winter", "wics.ics.uci.edu/summer",
-            "web.archive", "twitter", "linkedin", "facebook",
-            "youtube", "archive.ics", "/ml/"} #terms in url that flag that you should not crawl them
+            "web.archive", "archive.ics", "/ml/"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 mostWords = -1
