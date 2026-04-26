@@ -14,7 +14,7 @@ blacklist = {"calendar", "portal", "password", "wiki.ics", "grape.ics",
             "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
             "tribe-bar-date=206", "tribe-bar-date=207", "tribe-bar-date=208",
             "tribe-bar-date=209", "tribe-bar-date=21",
-            "outlook", "ical=", "isg", "login", "http:",
+            "outlook", "ical=", "isg.ics.uci.edu/news", "login", "http:",
             "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring", "wics.ics.uci.edu/fall",
             "wics.ics.uci.edu/winter", "wics.ics.uci.edu/summer",
             "web.archive", "archive.ics", "/ml/"} #terms in url that flag that you should not crawl them
