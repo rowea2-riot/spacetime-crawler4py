@@ -1,0 +1,96 @@
+Top 50 words found so far:
+years => 19377
+ago => 18554
+added => 18151
+data => 17833
+support => 17752
+kb => 14514
+pdf => 14454
+wiki => 13050
+project => 12251
+media => 11241
+will => 11160
+carey => 10899
+mike => 10833
+files => 10056
+smyth => 9920
+padhraic => 9074
+lecture => 8682
+homework => 8355
+mon => 7994
+software => 7645
+backups => 7088
+ics => 6987
+search => 6336
+commands => 5947
+services => 5934
+wed => 5906
+security => 5864
+projects => 5778
+python => 5744
+analysis => 5736
+uci => 5564
+virtual => 5532
+environments => 5487
+instructional => 5322
+group => 5243
+upload => 5242
+hardware => 5045
+wrangling => 4996
+mb => 4866
+accounts => 4844
+date => 4806
+course => 4643
+file => 4603
+history => 4568
+pasted => 4561
+page => 4494
+hw => 4452
+windows => 4419
+linux => 4289
+webapps => 4219
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 41
+cecs.uci.edu, 12
+cml.ics.uci.edu, 138
+code.ics.uci.edu, 14
+courselisting.ics.uci.edu, 2
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 2
+cyberclub.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+grape.ics.uci.edu, 660
+helpdesk.ics.uci.edu, 3
+hpi.ics.uci.edu, 1
+hub.ics.uci.edu, 2
+ics.uci.edu, 313
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 20
+informatics.uci.edu, 7
+jgarcia.ics.uci.edu, 40
+julia-hub.ics.uci.edu, 1
+mcs.ics.uci.edu, 11
+mds.ics.uci.edu, 1
+mhcid.ics.uci.edu, 1
+mswe.ics.uci.edu, 9
+myip.ics.uci.edu, 1
+oai.ics.uci.edu, 1
+observium.ics.uci.edu, 1
+onboarding.ics.uci.edu, 2
+staging-hub.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+support.ics.uci.edu, 1
+swiki.ics.uci.edu, 497
+tron.lom.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+twitter.com, 12
+wiki.ics.uci.edu, 4575
+www.cecs.uci.edu, 113
+www.cs.uci.edu, 4
+www.ics.uci.edu, 27
+www.informatics.uci.edu, 13
+www.stat.uci.edu, 2
+Most Words: 39343 (https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/stats170ab-2018/visualization_with_iris_data.ipynb)
