@@ -14,12 +14,15 @@ blacklist = {"portal", "password", "wiki.ics", "grape.ics",
             "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
             "tribe-bar-date=206", "tribe-bar-date=207", "tribe-bar-date=208",
             "tribe-bar-date=209", "tribe-bar-date=21",
-            "outlook", "ical=", "isg.ics.uci.edu/news", "login", "http:",
-            "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring-201", "wics.ics.uci.edu/fall-201",
+            "outlook", "ical=", "isg.ics.uci.edu/news", "isg.ics.uci.edu/events/tag/talk/month/",
+            "isg.ics.uci.edu/events/tag/talk/list/?tribe-bar-date", "isg.ics.uci.edu/events/tag/talk/2",
+            "isg.ics.uci.edu/events/tag/talk/day",
+            "login", "http:", "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring-201", "wics.ics.uci.edu/fall-201",
             "wics.ics.uci.edu/winter-201", "wics.ics.uci.edu/summer-201",
             "wics.ics.uci.edu/spring-200", "wics.ics.uci.edu/fall-200",
             "wics.ics.uci.edu/winter-200", "wics.ics.uci.edu/summer-200",
-            "web.archive", "archive.ics", "/ml/"} #terms in url that flag that you should not crawl them
+            "web.archive", "archive.ics", "/ml/",
+            ".com"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 mostWords = -1
