@@ -23,7 +23,8 @@ blacklist = {"portal", "password", "wiki.ics", "grape.ics",
             "wics.ics.uci.edu/winter-200", "wics.ics.uci.edu/summer-200",
             "web.archive", "archive.ics", "/ml/",
             ".com"} #terms in url that flag that you should not crawl them
-validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
+validDomains = {".ics.uci.edu", ".cs.uci.edu", ".informatics.uci.edu", ".stat.uci.edu",
+            "//ics.uci.edu", "//cs.uci.edu", "//informatics.uci.edu", "//stat.uci.edu"}
 token_dict = {}
 mostWords = -1
 mostWordsUrl = ""

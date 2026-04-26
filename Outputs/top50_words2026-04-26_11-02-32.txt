@@ -1,0 +1,82 @@
+Top 50 words found so far:
+learning => 1684
+research => 1164
+machine => 1049
+computer => 1028
+systems => 868
+science => 860
+will => 791
+data => 790
+university => 770
+models => 736
+software => 713
+irvine => 651
+center => 569
+us => 558
+uci => 535
+engineering => 530
+california => 525
+can => 515
+ai => 491
+information => 490
+hall => 441
+intelligent => 436
+students => 429
+ics => 428
+professor => 422
+news => 420
+student => 409
+pm => 406
+faculty => 401
+model => 401
+seminar => 396
+cml => 370
+ml => 351
+talk => 343
+analysis => 316
+graduate => 309
+40111 => 305
+new => 300
+work => 300
+content => 299
+school => 299
+program => 295
+bren => 293
+paper => 290
+methods => 281
+applications => 277
+award => 276
+deep => 270
+events => 257
+phd => 255
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 27
+cecs.uci.edu, 12
+cml.ics.uci.edu, 138
+code.ics.uci.edu, 14
+courselisting.ics.uci.edu, 1
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 1
+cyberclub.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+hpi.ics.uci.edu, 1
+ics.uci.edu, 203
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 18
+jgarcia.ics.uci.edu, 40
+mcs.ics.uci.edu, 12
+mds.ics.uci.edu, 1
+mhcid.ics.uci.edu, 1
+mswe.ics.uci.edu, 10
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+www.cecs.uci.edu, 103
+www.cs.uci.edu, 4
+www.ics.uci.edu, 22
+www.informatics.uci.edu, 11
+www.stat.uci.edu, 2
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
