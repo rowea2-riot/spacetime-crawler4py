@@ -1,0 +1,90 @@
+Top 50 words found so far:
+events => 14074
+ramesh => 13955
+research => 9094
+jain => 8694
+current => 6746
+past => 6359
+information => 6059
+data => 5863
+students => 5796
+computer => 5779
+search => 5427
+university => 5103
+computing => 5032
+read => 4869
+courses => 4804
+will => 4484
+books => 4422
+companies => 4417
+news => 4348
+learning => 4293
+theme => 4049
+favorite => 4037
+experiential => 3859
+vision => 3850
+day => 3710
+systems => 3506
+multimedia => 3364
+projects => 3323
+people => 3282
+science => 3126
+us => 2952
+social => 2920
+personal => 2882
+2026 => 2863
+uci => 2800
+irvine => 2744
+management => 2664
+navigation => 2645
+researcher => 2629
+education => 2587
+back => 2576
+can => 2556
+machine => 2538
+papers => 2494
+teaching => 2430
+services => 2424
+models => 2413
+partners => 2398
+copyright => 2396
+collaborators => 2383
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 35
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 42
+chenli.ics.uci.edu, 10
+cml.ics.uci.edu, 200
+code.ics.uci.edu, 15
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 7
+cs.ics.uci.edu, 14
+cyberclub.ics.uci.edu, 1
+ds4all.ics.uci.edu, 10
+futurehealth.ics.uci.edu, 181
+hpi.ics.uci.edu, 6
+icde2023.ics.uci.edu, 48
+industryshowcase.ics.uci.edu, 25
+informatics.ics.uci.edu, 30
+isg.ics.uci.edu, 314
+mailman.ics.uci.edu, 3
+mcs.ics.uci.edu, 12
+mds.ics.uci.edu, 9
+mhcid.ics.uci.edu, 17
+mswe.ics.uci.edu, 10
+nalini.ics.uci.edu, 8
+ngs.ics.uci.edu, 2005
+oai.ics.uci.edu, 6
+stat.ics.uci.edu, 14
+summeracademy.ics.uci.edu, 1
+tad.ics.uci.edu, 2
+tippersweb.ics.uci.edu, 1
+tutoring.ics.uci.edu, 5
+unite.ics.uci.edu, 10
+vision.ics.uci.edu, 194
+www.cs.uci.edu, 7
+www.ics.uci.edu, 162
+www.informatics.uci.edu, 19
+www.stat.uci.edu, 10
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
