@@ -8,15 +8,17 @@ from stop_words import get_stop_words
 from urllib.parse import urljoin
 
 url_dict = {}
-blacklist = {"calendar", "portal", "password", "wiki.ics", "grape.ics",
+blacklist = {"portal", "password", "wiki.ics", "grape.ics",
             "events/month", "events/week", "events/203", "events/201", "events/200", "events/1", "events/tags",
             "tribe-bar-date=201", "tribe-bar-date=200", "tribe-bar-date=1",
             "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
             "tribe-bar-date=206", "tribe-bar-date=207", "tribe-bar-date=208",
             "tribe-bar-date=209", "tribe-bar-date=21",
             "outlook", "ical=", "isg.ics.uci.edu/news", "login", "http:",
-            "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring", "wics.ics.uci.edu/fall",
-            "wics.ics.uci.edu/winter", "wics.ics.uci.edu/summer",
+            "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring-201", "wics.ics.uci.edu/fall-201",
+            "wics.ics.uci.edu/winter-201", "wics.ics.uci.edu/summer-201",
+            "wics.ics.uci.edu/spring-200", "wics.ics.uci.edu/fall-200",
+            "wics.ics.uci.edu/winter-200", "wics.ics.uci.edu/summer-200",
             "web.archive", "archive.ics", "/ml/"} #terms in url that flag that you should not crawl them
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
