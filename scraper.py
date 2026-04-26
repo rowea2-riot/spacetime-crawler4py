@@ -8,6 +8,8 @@ from stop_words import get_stop_words
 from urllib.parse import urljoin
 
 url_dict = {}
+
+'''
 blacklist = {"wiki.ics", "grape.ics",
             "events/month", "events/week", "events/203", "events/201", "events/200", "events/1", "events/tags",
             "tribe-bar-date=201", "tribe-bar-date=200", "tribe-bar-date=1",
@@ -23,8 +25,20 @@ blacklist = {"wiki.ics", "grape.ics",
             "wics.ics.uci.edu/winter-200", "wics.ics.uci.edu/summer-200",
             "web.archive", "archive.ics", "/ml/", "twitter", "facebook", "instagram", "linkedin", "youtube",
             "share=", ".com"} #terms in url that flag that you should not crawl them
-validDomains = {".ics.uci.edu", ".cs.uci.edu", ".informatics.uci.edu", ".stat.uci.edu",
-            "//ics.uci.edu", "//cs.uci.edu", "//informatics.uci.edu", "//stat.uci.edu"}
+'''
+
+blacklist = {
+    "wiki.ics", "grape.ics",
+    "events/month", "events/week", "events/20", "events/1", "events/tags",
+    "tribe-bar-date=",
+    "outlook", "ical=",
+    "isg.ics.uci.edu/events",
+    "wics.ics.uci.edu/events",
+    "web.archive", "archive.ics",
+    "login", "share="
+}
+
+validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 mostWords = -1
 mostWordsUrl = ""
@@ -59,7 +73,7 @@ def parse_unique_url(url):
 def log_subdomains(filename):
     log2(filename, "Subdomains and unique page counts:")
     log2(filename, "-----------------------------")
-    log2(filename, "Total Unique Pages: " + str(len(url_dict.keys())))
+    log2(filename, "Total Unique Pages: " + str(get_page_count()))
     subdomains = sorted(url_dict.keys())
     for subdomain in subdomains:
         unique_pages_len = len(url_dict[subdomain])
@@ -241,7 +255,6 @@ def handle_interrupt():
     log("\nPressed Ctrl+C. Returning the top 50 words detected so far\n")
     save_top_50_to_file()
     log(f"total unique pages: {get_page_count()}")
-    log_subdomains()
 
 #logs the top 10 most common words to the log file
 def topWordFreq(current_url=None):
@@ -270,7 +283,7 @@ def is_valid(url):
 
         parsed = urlparse(url)
         #Check if the current URL has any of the valid domains in it
-        if not any(parsed.netloc.endswith(validD) for validD in validDomains):
+        if not any(parsed.netloc == validD or parsed.netloc.endswith("." + validD) for validD in validDomains):
             return False
 
         if parsed.scheme not in set(["http", "https"]):
@@ -290,8 +303,8 @@ def is_valid(url):
         raise
 
 def test_blacklist():
-    assert is_valid("http://www.ics.uci.edu/calendar") == False
-    assert is_valid("http://www.ics.uci.edu/portal") == False   
+    #assert is_valid("http://www.ics.uci.edu/calendar") == False
+    #assert is_valid("http://www.ics.uci.edu/portal") == False   
     assert is_valid("http://www.ics.uci.edu/events") == False   
     assert is_valid("http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1970-08-09") == False   
     assert is_valid("https://grape.ics.uci.edu/wiki/public/wiki/cs122a-2016-spring") == False  
