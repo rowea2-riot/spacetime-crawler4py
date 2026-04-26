@@ -28,7 +28,7 @@ blacklist = {"wiki.ics", "grape.ics",
 '''
 
 blacklist = {
-    "wiki.ics", "grape.ics",
+    "wiki.ics", "grape.ics", "intranet.ics",
     "events/month", "events/week", "events/20", "events/1", "events/tags",
     "tribe-bar-date=",
     "outlook", "ical=",
