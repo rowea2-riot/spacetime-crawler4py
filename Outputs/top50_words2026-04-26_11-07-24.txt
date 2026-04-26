@@ -1,0 +1,77 @@
+Top 50 words found so far:
+ics => 77
+undergraduate => 55
+student => 49
+research => 35
+zoom => 31
+graduate => 28
+academic => 28
+us => 28
+drop-ins => 28
+30 => 26
+advising => 25
+uci => 25
+10 => 25
+students => 24
+career => 24
+irvine => 23
+community => 19
+informatics => 18
+learning => 18
+alumni => 17
+computer => 17
+faculty => 16
+spotlights => 16
+affairs => 16
+programs => 15
+resources => 15
+science => 15
+contact => 14
+edu => 14
+donald => 13
+bren => 13
+information => 13
+office => 13
+follow => 13
+949 => 12
+admissions => 11
+news => 11
+corporate => 11
+school => 11
+hall => 11
+email => 11
+drop-in => 11
+search => 10
+honors => 10
+staff => 10
+tech => 10
+in-person => 10
+majors => 9
+professional => 9
+events => 9
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 22
+cml.ics.uci.edu, 2
+code.ics.uci.edu, 14
+courselisting.ics.uci.edu, 1
+create.ics.uci.edu, 1
+cs.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+hpi.ics.uci.edu, 1
+ics.uci.edu, 90
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 9
+mcs.ics.uci.edu, 1
+mds.ics.uci.edu, 1
+mhcid.ics.uci.edu, 1
+mswe.ics.uci.edu, 1
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+www.cs.uci.edu, 1
+www.ics.uci.edu, 6
+www.informatics.uci.edu, 8
+www.stat.uci.edu, 1
+Most Words: 922 (https://ics.uci.edu/academics/undergraduate-academic-advising/contact)

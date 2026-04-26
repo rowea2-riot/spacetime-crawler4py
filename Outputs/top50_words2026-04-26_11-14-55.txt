@@ -1,0 +1,87 @@
+Top 50 words found so far:
+events => 6548
+university => 3796
+research => 2622
+learning => 2168
+day => 2081
+data => 2066
+science => 1818
+computer => 1527
+ics => 1387
+systems => 1374
+machine => 1246
+us => 1218
+will => 1121
+irvine => 1120
+uci => 1080
+search => 1078
+students => 1063
+faculty => 978
+information => 970
+news => 961
+program => 940
+student => 939
+track => 908
+access => 892
+award => 875
+2025 => 872
+2023 => 862
+isg => 835
+software => 831
+pm => 813
+2026 => 802
+models => 797
+graduate => 780
+technology => 719
+received => 719
+talks => 704
+2024 => 699
+group => 691
+paper => 683
+ai => 679
+informatics => 665
+undergraduate => 652
+can => 645
+view => 625
+00 => 618
+california => 615
+engineering => 611
+new => 595
+uc => 588
+center => 584
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 32
+acoi.ics.uci.edu, 1
+chenli.ics.uci.edu, 10
+cml.ics.uci.edu, 138
+code.ics.uci.edu, 14
+coronavirustwittermap.ics.uci.edu, 1
+courselisting.ics.uci.edu, 2
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 10
+cyberclub.ics.uci.edu, 1
+ds4all.ics.uci.edu, 10
+futurehealth.ics.uci.edu, 1
+hpi.ics.uci.edu, 2
+icde2023.ics.uci.edu, 48
+ics.uci.edu, 405
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 20
+informatics.uci.edu, 7
+isg.ics.uci.edu, 308
+jgarcia.ics.uci.edu, 40
+mcs.ics.uci.edu, 12
+mds.ics.uci.edu, 1
+mhcid.ics.uci.edu, 1
+mswe.ics.uci.edu, 10
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+www.cs.uci.edu, 5
+www.ics.uci.edu, 25
+www.informatics.uci.edu, 13
+www.stat.uci.edu, 2
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
