@@ -8,7 +8,7 @@ from stop_words import get_stop_words
 from urllib.parse import urljoin
 
 url_dict = {}
-blacklist = {"calendar", "portal", "apply", "admin", "password", "wiki.ics", "grape.ics",
+blacklist = {"calendar", "portal", "password", "wiki.ics", "grape.ics",
             "events/month", "events/week", "events/203", "events/201", "events/200", "events/1", "events/tags",
             "tribe-bar-date=201", "tribe-bar-date=200", "tribe-bar-date=1",
             "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
