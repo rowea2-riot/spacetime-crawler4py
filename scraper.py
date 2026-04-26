@@ -8,7 +8,7 @@ from stop_words import get_stop_words
 from urllib.parse import urljoin
 
 url_dict = {}
-blacklist = {"portal", "password", "wiki.ics", "grape.ics",
+blacklist = {"wiki.ics", "grape.ics",
             "events/month", "events/week", "events/203", "events/201", "events/200", "events/1", "events/tags",
             "tribe-bar-date=201", "tribe-bar-date=200", "tribe-bar-date=1",
             "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
@@ -21,8 +21,8 @@ blacklist = {"portal", "password", "wiki.ics", "grape.ics",
             "wics.ics.uci.edu/winter-201", "wics.ics.uci.edu/summer-201",
             "wics.ics.uci.edu/spring-200", "wics.ics.uci.edu/fall-200",
             "wics.ics.uci.edu/winter-200", "wics.ics.uci.edu/summer-200",
-            "web.archive", "archive.ics", "/ml/",
-            ".com"} #terms in url that flag that you should not crawl them
+            "web.archive", "archive.ics", "/ml/", "twitter", "facebook", "instagram", "linkedin", "youtube",
+            "share=", ".com"} #terms in url that flag that you should not crawl them
 validDomains = {".ics.uci.edu", ".cs.uci.edu", ".informatics.uci.edu", ".stat.uci.edu",
             "//ics.uci.edu", "//cs.uci.edu", "//informatics.uci.edu", "//stat.uci.edu"}
 token_dict = {}
@@ -260,11 +260,11 @@ def is_valid(url):
         if any(nono in url for nono in blacklist):
             return False
 
+        parsed = urlparse(url)
         #Check if the current URL has any of the valid domains in it
-        if not any(validD in url for validD in validDomains):
+        if not any(parsed.netloc.endswith(validD) for validD in validDomains):
             return False
 
-        parsed = urlparse(url)
         if parsed.scheme not in set(["http", "https"]):
             return False
         return not re.match(
@@ -274,7 +274,7 @@ def is_valid(url):
             + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names"
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
             + r"|epub|dll|cnf|tgz|sha1"
-            + r"|thmx|mso|arff|rtf|jar|csv|com"
+            + r"|thmx|mso|arff|rtf|jar|csv"
             + r"|rm|smil|wmv|swf|wma|zip|rar|gz|ppsx)$", parsed.path.lower())
 
     except TypeError:

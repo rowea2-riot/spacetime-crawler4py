@@ -1,0 +1,390 @@
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14, Status: 200, Error: None
+
+Most Words: 160 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14
+events => 10
+upcoming => 5
+talks => 5
+isg => 5
+search => 5
+2025 => 4
+reunion => 3
+2024 => 3
+outlook => 3
+received => 3
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14', 'https://isg.ics.uci.edu/events/tag/talks/2026-03/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-03-14%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2026-03-14&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-03-14%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-03-14%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&outlook-ical=1#038;ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-03-14', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-03-14']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past, Status: 200, Error: None
+
+Most Words: 231 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past
+events => 18
+talks => 10
+isg => 10
+search => 10
+2025 => 8
+reunion => 6
+2024 => 6
+us => 6
+outlook => 6
+received => 6
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14', 'https://isg.ics.uci.edu/events/tag/talks/2026-03/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/event/anand-deshpahde-persistent-technologies-how-to-build-your-own-business/', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-03-14%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2026-03-14&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-03-14%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-03-14%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&outlook-ical=1#038;eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-03-14%26eventDisplay%3Dpast', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-03-14%26eventDisplay%3Dpast']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24, Status: 200, Error: None
+
+Most Words: 231 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24
+events => 28
+talks => 15
+isg => 15
+search => 15
+2025 => 12
+upcoming => 10
+reunion => 9
+2024 => 9
+outlook => 9
+received => 9
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24', 'https://isg.ics.uci.edu/events/tag/talks/2026-03/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-03-24%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2026-03-24&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-03-24%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-03-24%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24&outlook-ical=1#038;ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-03-24', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-03-24']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24&eventDisplay=past, Status: 200, Error: None
+
+Most Words: 231 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24&eventDisplay=past
+events => 36
+talks => 20
+isg => 20
+search => 20
+2025 => 16
+reunion => 12
+2024 => 12
+us => 12
+outlook => 12
+received => 12
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24', 'https://isg.ics.uci.edu/events/tag/talks/2026-03/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/event/anand-deshpahde-persistent-technologies-how-to-build-your-own-business/', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-03-24%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2026-03-24&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-03-24%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-03-24%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24&eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-24&outlook-ical=1#038;eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-03-24%26eventDisplay%3Dpast', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-03-24%26eventDisplay%3Dpast']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04, Status: 200, Error: None
+
+Most Words: 231 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04
+events => 46
+talks => 25
+isg => 25
+search => 25
+2025 => 20
+upcoming => 15
+reunion => 15
+2024 => 15
+outlook => 15
+received => 15
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04', 'https://isg.ics.uci.edu/events/tag/talks/2026-04/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-04-04%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2026-04-04&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-04-04%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-04-04%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04&outlook-ical=1#038;ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-04-04', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-04-04']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04&eventDisplay=past, Status: 200, Error: None
+
+Most Words: 231 (https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-03-14&eventDisplay=past)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04&eventDisplay=past
+events => 54
+talks => 30
+isg => 30
+search => 30
+2025 => 24
+reunion => 18
+2024 => 18
+us => 18
+outlook => 18
+received => 18
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04', 'https://isg.ics.uci.edu/events/tag/talks/2026-04/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/event/anand-deshpahde-persistent-technologies-how-to-build-your-own-business/', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2026-04-04%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2026-04-04&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-04-04%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2026-04-04%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04&eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2026-04-04&outlook-ical=1#038;eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-04-04%26eventDisplay%3Dpast', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2026-04-04%26eventDisplay%3Dpast']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/event/ashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration, Status: 200, Error: None
+
+Most Words: 397 (https://isg.ics.uci.edu/event/ashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/event/ashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration
+events => 57
+isg => 35
+talks => 33
+search => 32
+2025 => 28
+reunion => 21
+2024 => 21
+received => 21
+award => 21
+us => 20
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/event/santosh-hegde-couchbase-inc-from-transactions-to-intelligence-evolution-of-couchbase-for-ai/', 'https://isg.ics.uci.edu/event/zexin-li-ucr-unified-full-stack-co-design-for-on-device-machine-learning/', 'https://isg.ics.uci.edu/event/santosh-hegde-couchbase-inc-from-transactions-to-intelligence-evolution-of-couchbase-for-ai/', 'https://isg.ics.uci.edu/event/zexin-li-ucr-unified-full-stack-co-design-for-on-device-machine-learning/']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/event?action=TEMPLATE&dates=20260220T130000/20260220T140000&text=Ashwin%20Gerard%20Colaco%20%28UCI%29%3A%20Bringing%20Simulators%20Inside%20the%20Database%3A%20A%20Vision%20for%20Interactive%20Scientific%20Exploration&details=%3Cdiv%3E%3Cb%3ETime+%26amp%3B+Location%3A%3C%2Fb%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cdiv%3E%3Cdiv+dir%3D%22auto%22%3EFriday+Feb+20%2C+2026%2C+1%3A00+PM+-+2%3A00+PMDonald+Bren+Hall+3011%2C+ICS%2C+UC+IrvineLunch+will+be+provided.%3C%2Fdiv%3E%3Cdiv+dir%3D%22auto%22%3E%3Cdiv%3E%3Cb%3ETitle%3C%2Fb%3E%3A%3C%2Fdiv%3E%3Cdiv%3EBringing+Simulators+Inside+the+Database%3A+A+Vision+for+Interactive+Scientific+Exploration%3C%2Fdiv%3E%3Cdiv%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cb%3EAbstract%3C%2Fb%3E%3APhysics-based+simulators+are+essential+for+scientific+discovery+and+risk+assessment%2C+powering+what-if+analyses+for+events+like+wildfires+and+hurricanes.+Yet+today%27s+workflow+is+fundamentally+disconnected%3A+analysts+manually+run+simulations%2C+export+results%2C+and+load+them+into+a+database+before+any+analysis+can+begin.+This+linear+pipeline+is+slow%2C+brittle%2C+and+especially+limiting+when+the+analysis+itself+reveals+the+need+for+new+or+refined+simulation+data.%3C%2Fdiv%3E%3Cdiv%3E%3Cdiv+class%3D%22gs%22%3E%3Cdiv+class%3D%22%22%3E%3Cdiv+id%3D%22%3A46z%22+class%3D%22ii+gt+adO%22%3E%3Cdiv+id%3D%22%3A46y%22+class%3D%22a3s+aiL%22%3E%3Cdiv+id%3D%22avWBGd-854%22%3E%3Cdiv+dir%3D%22ltr%22%3E%3Cdiv%3E%3C%2Fdiv%3E%3Cdiv%3EI%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration%2F%29&location=DBH%203011&trp=false&ctz=America/Los_Angeles&sprop=website:https://isg.ics.uci.edu', 'webcal://isg.ics.uci.edu/event/ashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration/?ical=1', 'https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-02-20T13:00:00-08:00&enddt=2026-02-20T14:00:00-08:00&location=DBH%203011&subject=Ashwin%20Gerard%20Colaco%20%28UCI%29%3A%20Bringing%20Simulators%20Inside%20the%20Database%3A%20A%20Vision%20for%20Interactive%20Scientific%20Exploration&body=Time%20%26amp%3B%20Location%3AFriday%20Feb%2020%2C%202026%2C%201%3A00%20PM%20-%202%3A00%20PMDonald%20Bren%20Hall%203011%2C%20ICS%2C%20UC%20IrvineLunch%20will%20be%20provided.Title%3ABringing%20Simulators%20Inside%20the%20Database%3A%20A%20Vision%20for%20Interactive%20Scientific%20ExplorationAbstract%3APhysics-based%20simulators%20are%20essential%20for%20scientific%20discovery%20and%20risk%20assessment%2C%20powering%20what-if%20analyses%20for%20events%20like%20wildfires%20and%20hurricanes.%20Yet%20today%27s%20workflow%20is%20fundamentally%20disconnected%3A%20analysts%20manually%20run%20simulations%2C%20export%20results%2C%20and%20load%20them%20into%20a%20database%20before%20any%20analysis%20can%20begin.%20This%20linear%20pipeline%20is%20slow%2C%20brittle%2C%20and%20especially%20limiting%20when%20the%20analysis%20itself%20reveals%20the%20need%20for%20new%20or%20refined%20simulation%20data.In%20this%20talk%2C%20I%20present%20a%20vision%20for%20GenIE%2C%20a%20new%20database%20paradigm%20that%20makes%20the%20database%20simulation-aware%20by%20seamlessly%20integrating%20multiple%20simulators%20as%20first-class%20components%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration%2F%29', 'https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-02-20T13:00:00-08:00&enddt=2026-02-20T14:00:00-08:00&location=DBH%203011&subject=Ashwin%20Gerard%20Colaco%20%28UCI%29%3A%20Bringing%20Simulators%20Inside%20the%20Database%3A%20A%20Vision%20for%20Interactive%20Scientific%20Exploration&body=Time%20%26amp%3B%20Location%3AFriday%20Feb%2020%2C%202026%2C%201%3A00%20PM%20-%202%3A00%20PMDonald%20Bren%20Hall%203011%2C%20ICS%2C%20UC%20IrvineLunch%20will%20be%20provided.Title%3ABringing%20Simulators%20Inside%20the%20Database%3A%20A%20Vision%20for%20Interactive%20Scientific%20ExplorationAbstract%3APhysics-based%20simulators%20are%20essential%20for%20scientific%20discovery%20and%20risk%20assessment%2C%20powering%20what-if%20analyses%20for%20events%20like%20wildfires%20and%20hurricanes.%20Yet%20today%27s%20workflow%20is%20fundamentally%20disconnected%3A%20analysts%20manually%20run%20simulations%2C%20export%20results%2C%20and%20load%20them%20into%20a%20database%20before%20any%20analysis%20can%20begin.%20This%20linear%20pipeline%20is%20slow%2C%20brittle%2C%20and%20especially%20limiting%20when%20the%20analysis%20itself%20reveals%20the%20need%20for%20new%20or%20refined%20simulation%20data.In%20this%20talk%2C%20I%20present%20a%20vision%20for%20GenIE%2C%20a%20new%20database%20paradigm%20that%20makes%20the%20database%20simulation-aware%20by%20seamlessly%20integrating%20multiple%20simulators%20as%20first-class%20components%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration%2F%29', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration']
+
+
+Failed to retrieve https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01, Status: 200, Error: None
+
+Most Words: 397 (https://isg.ics.uci.edu/event/ashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01
+events => 67
+isg => 40
+talks => 38
+search => 37
+2025 => 32
+reunion => 24
+2024 => 24
+received => 24
+award => 24
+outlook => 23
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01', 'https://isg.ics.uci.edu/events/tag/talks/2024-05/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01&eventDisplay=past', 'https://isg.ics.uci.edu/events/tag/talks/list/']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2024-05-01%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2024-05-01&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2024-05-01%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2024-05-01%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01&outlook-ical=1#038;ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2024-05-01', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2024-05-01']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01&eventDisplay=past, Status: 200, Error: None
+
+Most Words: 397 (https://isg.ics.uci.edu/event/ashwin-gerard-colaco-uci-bringing-simulators-inside-the-database-a-vision-for-interactive-scientific-exploration)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01&eventDisplay=past
+events => 75
+isg => 45
+talks => 43
+search => 42
+2025 => 36
+2024 => 28
+reunion => 27
+received => 27
+award => 27
+us => 26
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01', 'https://isg.ics.uci.edu/events/tag/talks/2024-05/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/event/anand-deshpahde-persistent-technologies-how-to-build-your-own-business/', 'https://isg.ics.uci.edu/events/tag/talks/list/', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01']
+
+Found and skipped the following links:
+ ['http://isg.ics.uci.edu/home', 'javascript:void(0);', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fisg.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D2024-05-01%26ical%3D1%26eventDisplay%3Dlist', 'webcal://isg.ics.uci.edu/?post_type=tribe_events&tribe-bar-date=2024-05-01&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2024-05-01%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fisg.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe-bar-date%253D2024-05-01%2526eventDisplay%253Dlist%26ical%3D1&name=Information+Systems+Group+Events+%E2%80%93+Information+Systems+Group', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01&eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/events/tag/talks/list/?tribe-bar-date=2024-05-01&outlook-ical=1#038;eventDisplay=past&ical=1', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2024-05-01%26eventDisplay%3Dpast', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevents%2Ftag%2Ftalks%2Flist%3Ftribe-bar-date%3D2024-05-01%26eventDisplay%3Dpast']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://acoi.ics.uci.edu/seminar-series, Status: 200, Error: None
+
+Most Words: 1490 (https://acoi.ics.uci.edu/seminar-series)
+These are the top 10 words after scraping: https://acoi.ics.uci.edu/seminar-series
+00 => 90
+pm => 87
+events => 75
+dbh => 74
+4011 => 67
+uci => 46
+isg => 45
+talks => 44
+search => 43
+2022 => 37
+
+Found and enqueued the following links:
+ ['https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/seminars/fast-swap-regret-minimization-and-applications-to-approximate-correlated-equilibria/', 'https://acoi.ics.uci.edu/seminars/market-design-problems-competitive-equilibrium-and-stable-allocation/', 'https://acoi.ics.uci.edu/seminars/the-subspace-flatness-conjecture-and-faster-integer-programming/', 'https://acoi.ics.uci.edu/seminars/ai-enabled-market-design-lessons-learned-from-radio-spectrum-reallocation/', 'https://acoi.ics.uci.edu/seminars/stochastic-contextual-bandits-are-not-harder-than-linear-bandits/', 'https://acoi.ics.uci.edu/seminars/core-stability-in-markets-with-budget-constrained-bidders/', 'https://acoi.ics.uci.edu/seminars/royal-processions-incentives-efficiency-and-fairness-in-two-sided-matching/', 'https://acoi.ics.uci.edu/seminars/universal-graphs-and-adjacency-labeling/', 'https://acoi.ics.uci.edu/seminars/fragile-stable-matchings/', 'https://acoi.ics.uci.edu/seminars/empirical-welfare-economics/', 'https://acoi.ics.uci.edu/seminars/a-theory-of-alternating-paths-and-blossoms-from-the-perspective-of-minimum-length/', 'https://acoi.ics.uci.edu/seminars/pure-strategy-equilibrium-in-the-generalized-first-price-auction/', 'https://acoi.ics.uci.edu/seminars/re-designing-recommendation-on-volunteermatch-theory-and-practice/', 'https://acoi.ics.uci.edu/seminars/the-power-of-two-choices-for-balls-into-bins-beyond-greedy-strategies/', 'https://acoi.ics.uci.edu/seminars/approximate-submodularity-in-network-design-problems/', 'https://acoi.ics.uci.edu/seminars/strategyproof-exposing-mechanisms-descriptions/', 'https://acoi.ics.uci.edu/seminars/the-mcmc-method-and-high-dimensional-expanders/', 'https://acoi.ics.uci.edu/seminars/single-agent-dynamics-in-hedonic-games/', 'https://acoi.ics.uci.edu/seminars/on-packing-dijoins-in-directed-graphs/', 'https://acoi.ics.uci.edu/seminars/leakage-and-protection-of-dataset-properties/', 'https://acoi.ics.uci.edu/seminars/when-matching-meets-batching-optimal-multi-stage-algorithms-and-applications/', 'https://acoi.ics.uci.edu/seminars/improving-match-rates-in-dating-markets-through-assortment-optimization/', 'https://acoi.ics.uci.edu/seminars/lp-duality-theory-and-the-cores-of-games/', 'https://acoi.ics.uci.edu/seminars/robust-learning-of-mixtures-of-gaussians/', 'https://acoi.ics.uci.edu/seminars/a-near-cubic-lower-bound-for-3-query-locally-decodable-codes/', 'https://acoi.ics.uci.edu/seminars/auto-bidding-auctions-and-allocation-in-internet-advertising-fundamental-results-and-new-trends/', 'https://acoi.ics.uci.edu/seminars/approximation-algorithms-for-network-design/', 'https://acoi.ics.uci.edu/seminars/efficiency-and-fairness-in-random-resource-allocation-and-social-choice/', 'https://acoi.ics.uci.edu/seminars/from-adwords-to-online-matching-with-stochastic-rewards-and-back/', 'https://acoi.ics.uci.edu/seminars/sample-efficient-distribution-testing-using-centralized-or-distributed-computation/', 'https://acoi.ics.uci.edu/seminars/new-insights-into-the-classic-shapley-shubik-work-the-core-of-the-matching-game/', 'https://acoi.ics.uci.edu/seminars/mean-estimation-in-low-and-high-dimensions/', 'https://acoi.ics.uci.edu/seminars/equilibrium-computation-and-machine-learning/', 'https://acoi.ics.uci.edu/seminars/computational-phase-transition-and-mcmc-algorithms/', 'https://acoi.ics.uci.edu/seminars/tight-multi-unit-prophet-inequalities-with-application-to-online-allocation/', 'https://acoi.ics.uci.edu/seminars/mean-estimation-with-user-level-privacy-under-data-heterogeneity/', 'https://acoi.ics.uci.edu/seminars/parametric-learning-for-directed-graphical-models/', 'https://acoi.ics.uci.edu/seminars/efficient-certifiable-randomness/', 'https://acoi.ics.uci.edu/seminars/building-optimization-beyond-minimization-a-journey-in-game-dynamics/', 'https://acoi.ics.uci.edu/seminars/the-quarks-of-attention/', 'https://acoi.ics.uci.edu/seminars/fast-sampling-via-spectral-independence-beyond-bounded-degree-graphs/', 'https://acoi.ics.uci.edu/seminars/496/', 'https://acoi.ics.uci.edu/seminars/the-maximum-diameter-of-oriented-matroids/', 'https://acoi.ics.uci.edu/seminars/minimum-weight-combinatorial-structures-under-random-cost-constraints/', 'https://acoi.ics.uci.edu/seminars/combinatorial-optimization-algorithms-for-clustering-and-machine-learning/', 'https://acoi.ics.uci.edu/seminars/tba/', 'https://acoi.ics.uci.edu/seminars/fountain-codes-with-applications/', 'https://acoi.ics.uci.edu/seminars/tba-5/', 'https://acoi.ics.uci.edu/seminars/optimization-techniques-for-complex-energy-infrastructure-systems/', 'https://acoi.ics.uci.edu/seminars/universal-laws-and-architectures-in-complex-networked-systems-with-applications-to-sensorimotor-control/', 'https://acoi.ics.uci.edu/seminars/no-signaling-proofs-their-applications-and-their-power/', 'https://acoi.ics.uci.edu/seminars/formal-verification-of-edmonds-blossom-algorithm/', 'https://acoi.ics.uci.edu/seminars/tba-1/', 'https://acoi.ics.uci.edu/seminars/nonlinear-regression-via-convex-programming/', 'https://acoi.ics.uci.edu/seminars/classical-verification-of-quantum-computations/', 'https://acoi.ics.uci.edu/seminars/the-power-of-asking-more-informative-questions/', 'https://acoi.ics.uci.edu/seminars/a-strongly-polynomial-algorithm-for-linear-exchange-markets/', 'https://acoi.ics.uci.edu/seminars/the-edgeworth-conjecture-with-small-coalitions-and-approximate-equilibria-in-large-economies/', 'https://acoi.ics.uci.edu/seminars/statistical-estimation-with-strategic-data-holders/', 'https://acoi.ics.uci.edu/seminars/matching-is-as-easy-as-the-decision-problem-in-the-nc-model/', 'https://acoi.ics.uci.edu/seminars/transparency-and-control-in-platforms-networked-markets/', 'https://acoi.ics.uci.edu/seminars/sparse-polynomial-approximations-and-their-applications-to-quantum-advantage-parallel-computation-and-pseudorandomness/', 'https://acoi.ics.uci.edu/seminars/stable-matching-voronoi-diagrams-combinatorial-complexity-and-algorithms/', 'https://acoi.ics.uci.edu/seminars/capacity-of-neural-networks/', 'https://acoi.ics.uci.edu/seminars/solving-an-ill-posed-inverse-problem-of-three-dimensional-3d-vision/', 'https://acoi.ics.uci.edu/seminars/dudeneys-no-three-in-line-problem/', 'https://acoi.ics.uci.edu/seminars/non-convex-optimization-and-structured-signal-recovery/', 'https://acoi.ics.uci.edu/seminars/topological-network-alignment-comes-of-age/', 'https://acoi.ics.uci.edu/seminars/planar-graph-perfect-matching-is-in-nc/', 'https://acoi.ics.uci.edu/seminars/network-biform-games-an-application-to-the-implementation-of-electronic-waste-legislation/', 'https://acoi.ics.uci.edu/seminars/explicit-binary-tree-codes-with-polylogarithmic-size-alphabet/', 'https://acoi.ics.uci.edu/seminars/stable-matching-voronoi-diagrams-combinatorial-complexity-and-algorithms/', 'https://acoi.ics.uci.edu/seminars/capacity-of-neural-networks/', 'https://acoi.ics.uci.edu/seminars/solving-an-ill-posed-inverse-problem-of-three-dimensional-3d-vision/', 'https://acoi.ics.uci.edu/seminars/dudeneys-no-three-in-line-problem/', 'https://acoi.ics.uci.edu/seminars/non-convex-optimization-and-structured-signal-recovery/', 'https://acoi.ics.uci.edu/seminars/topological-network-alignment-comes-of-age/', 'https://acoi.ics.uci.edu/seminars/planar-graph-perfect-matching-is-in-nc/', 'https://acoi.ics.uci.edu/seminars/network-biform-games-an-application-to-the-implementation-of-electronic-waste-legislation/', 'https://acoi.ics.uci.edu/seminars/explicit-binary-tree-codes-with-polylogarithmic-size-alphabet/', 'https://acoi.ics.uci.edu/']
+
+Found and skipped the following links:
+ ['#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', 'https://uci.zoom.us/j/94755690267', 'https://uci.zoom.us/j/91053519379', 'https://uci.zoom.us/j/96921158546', 'https://uci.zoom.us/j/97508930015', 'https://uci.zoom.us/j/92891710088', 'https://uci.edu/privacy/index.php', 'https://uci.edu/copyright/', '#', '#', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://acoi.ics.uci.edu/seminars/explicit-binary-tree-codes-with-polylogarithmic-size-alphabet, Status: 200, Error: None
+
+Most Words: 1490 (https://acoi.ics.uci.edu/seminar-series)
+These are the top 10 words after scraping: https://acoi.ics.uci.edu/seminars/explicit-binary-tree-codes-with-polylogarithmic-size-alphabet
+00 => 91
+pm => 88
+events => 75
+dbh => 75
+4011 => 68
+uci => 53
+isg => 45
+talks => 44
+search => 44
+2022 => 37
+
+Found and enqueued the following links:
+ ['https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/seminars/', 'https://acoi.ics.uci.edu/']
+
+Found and skipped the following links:
+ ['#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', 'https://uci.edu/privacy/index.php', 'https://uci.edu/copyright/', '#', '#', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://acoi.ics.uci.edu/seminars, Status: 200, Error: None
+
+Most Words: 1490 (https://acoi.ics.uci.edu/seminar-series)
+These are the top 10 words after scraping: https://acoi.ics.uci.edu/seminars
+00 => 171
+pm => 165
+dbh => 148
+4011 => 135
+uci => 80
+events => 75
+2022 => 62
+2018 => 50
+university => 48
+talks => 45
+
+Found and enqueued the following links:
+ ['https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/seminars/fast-swap-regret-minimization-and-applications-to-approximate-correlated-equilibria/', 'https://acoi.ics.uci.edu/seminars/market-design-problems-competitive-equilibrium-and-stable-allocation/', 'https://acoi.ics.uci.edu/seminars/the-subspace-flatness-conjecture-and-faster-integer-programming/', 'https://acoi.ics.uci.edu/seminars/ai-enabled-market-design-lessons-learned-from-radio-spectrum-reallocation/', 'https://acoi.ics.uci.edu/seminars/stochastic-contextual-bandits-are-not-harder-than-linear-bandits/', 'https://acoi.ics.uci.edu/seminars/core-stability-in-markets-with-budget-constrained-bidders/', 'https://acoi.ics.uci.edu/seminars/royal-processions-incentives-efficiency-and-fairness-in-two-sided-matching/', 'https://acoi.ics.uci.edu/seminars/universal-graphs-and-adjacency-labeling/', 'https://acoi.ics.uci.edu/seminars/fragile-stable-matchings/', 'https://acoi.ics.uci.edu/seminars/empirical-welfare-economics/', 'https://acoi.ics.uci.edu/seminars/a-theory-of-alternating-paths-and-blossoms-from-the-perspective-of-minimum-length/', 'https://acoi.ics.uci.edu/seminars/pure-strategy-equilibrium-in-the-generalized-first-price-auction/', 'https://acoi.ics.uci.edu/seminars/re-designing-recommendation-on-volunteermatch-theory-and-practice/', 'https://acoi.ics.uci.edu/seminars/the-power-of-two-choices-for-balls-into-bins-beyond-greedy-strategies/', 'https://acoi.ics.uci.edu/seminars/approximate-submodularity-in-network-design-problems/', 'https://acoi.ics.uci.edu/seminars/strategyproof-exposing-mechanisms-descriptions/', 'https://acoi.ics.uci.edu/seminars/the-mcmc-method-and-high-dimensional-expanders/', 'https://acoi.ics.uci.edu/seminars/single-agent-dynamics-in-hedonic-games/', 'https://acoi.ics.uci.edu/seminars/on-packing-dijoins-in-directed-graphs/', 'https://acoi.ics.uci.edu/seminars/leakage-and-protection-of-dataset-properties/', 'https://acoi.ics.uci.edu/seminars/when-matching-meets-batching-optimal-multi-stage-algorithms-and-applications/', 'https://acoi.ics.uci.edu/seminars/improving-match-rates-in-dating-markets-through-assortment-optimization/', 'https://acoi.ics.uci.edu/seminars/lp-duality-theory-and-the-cores-of-games/', 'https://acoi.ics.uci.edu/seminars/robust-learning-of-mixtures-of-gaussians/', 'https://acoi.ics.uci.edu/seminars/a-near-cubic-lower-bound-for-3-query-locally-decodable-codes/', 'https://acoi.ics.uci.edu/seminars/auto-bidding-auctions-and-allocation-in-internet-advertising-fundamental-results-and-new-trends/', 'https://acoi.ics.uci.edu/seminars/approximation-algorithms-for-network-design/', 'https://acoi.ics.uci.edu/seminars/efficiency-and-fairness-in-random-resource-allocation-and-social-choice/', 'https://acoi.ics.uci.edu/seminars/from-adwords-to-online-matching-with-stochastic-rewards-and-back/', 'https://acoi.ics.uci.edu/seminars/sample-efficient-distribution-testing-using-centralized-or-distributed-computation/', 'https://acoi.ics.uci.edu/seminars/new-insights-into-the-classic-shapley-shubik-work-the-core-of-the-matching-game/', 'https://acoi.ics.uci.edu/seminars/mean-estimation-in-low-and-high-dimensions/', 'https://acoi.ics.uci.edu/seminars/equilibrium-computation-and-machine-learning/', 'https://acoi.ics.uci.edu/seminars/computational-phase-transition-and-mcmc-algorithms/', 'https://acoi.ics.uci.edu/seminars/tight-multi-unit-prophet-inequalities-with-application-to-online-allocation/', 'https://acoi.ics.uci.edu/seminars/mean-estimation-with-user-level-privacy-under-data-heterogeneity/', 'https://acoi.ics.uci.edu/seminars/parametric-learning-for-directed-graphical-models/', 'https://acoi.ics.uci.edu/seminars/efficient-certifiable-randomness/', 'https://acoi.ics.uci.edu/seminars/building-optimization-beyond-minimization-a-journey-in-game-dynamics/', 'https://acoi.ics.uci.edu/seminars/the-quarks-of-attention/', 'https://acoi.ics.uci.edu/seminars/fast-sampling-via-spectral-independence-beyond-bounded-degree-graphs/', 'https://acoi.ics.uci.edu/seminars/496/', 'https://acoi.ics.uci.edu/seminars/the-maximum-diameter-of-oriented-matroids/', 'https://acoi.ics.uci.edu/seminars/minimum-weight-combinatorial-structures-under-random-cost-constraints/', 'https://acoi.ics.uci.edu/seminars/combinatorial-optimization-algorithms-for-clustering-and-machine-learning/', 'https://acoi.ics.uci.edu/seminars/tba/', 'https://acoi.ics.uci.edu/seminars/fountain-codes-with-applications/', 'https://acoi.ics.uci.edu/seminars/tba-5/', 'https://acoi.ics.uci.edu/seminars/optimization-techniques-for-complex-energy-infrastructure-systems/', 'https://acoi.ics.uci.edu/seminars/universal-laws-and-architectures-in-complex-networked-systems-with-applications-to-sensorimotor-control/', 'https://acoi.ics.uci.edu/seminars/no-signaling-proofs-their-applications-and-their-power/', 'https://acoi.ics.uci.edu/seminars/formal-verification-of-edmonds-blossom-algorithm/', 'https://acoi.ics.uci.edu/seminars/tba-1/', 'https://acoi.ics.uci.edu/seminars/nonlinear-regression-via-convex-programming/', 'https://acoi.ics.uci.edu/seminars/classical-verification-of-quantum-computations/', 'https://acoi.ics.uci.edu/seminars/the-power-of-asking-more-informative-questions/', 'https://acoi.ics.uci.edu/seminars/a-strongly-polynomial-algorithm-for-linear-exchange-markets/', 'https://acoi.ics.uci.edu/seminars/the-edgeworth-conjecture-with-small-coalitions-and-approximate-equilibria-in-large-economies/', 'https://acoi.ics.uci.edu/seminars/statistical-estimation-with-strategic-data-holders/', 'https://acoi.ics.uci.edu/seminars/matching-is-as-easy-as-the-decision-problem-in-the-nc-model/', 'https://acoi.ics.uci.edu/seminars/transparency-and-control-in-platforms-networked-markets/', 'https://acoi.ics.uci.edu/seminars/sparse-polynomial-approximations-and-their-applications-to-quantum-advantage-parallel-computation-and-pseudorandomness/', 'https://acoi.ics.uci.edu/seminars/stable-matching-voronoi-diagrams-combinatorial-complexity-and-algorithms/', 'https://acoi.ics.uci.edu/seminars/capacity-of-neural-networks/', 'https://acoi.ics.uci.edu/seminars/solving-an-ill-posed-inverse-problem-of-three-dimensional-3d-vision/', 'https://acoi.ics.uci.edu/seminars/dudeneys-no-three-in-line-problem/', 'https://acoi.ics.uci.edu/seminars/non-convex-optimization-and-structured-signal-recovery/', 'https://acoi.ics.uci.edu/seminars/topological-network-alignment-comes-of-age/', 'https://acoi.ics.uci.edu/seminars/planar-graph-perfect-matching-is-in-nc/', 'https://acoi.ics.uci.edu/seminars/network-biform-games-an-application-to-the-implementation-of-electronic-waste-legislation/', 'https://acoi.ics.uci.edu/seminars/explicit-binary-tree-codes-with-polylogarithmic-size-alphabet/', 'https://acoi.ics.uci.edu/seminars/stable-matching-voronoi-diagrams-combinatorial-complexity-and-algorithms/', 'https://acoi.ics.uci.edu/seminars/capacity-of-neural-networks/', 'https://acoi.ics.uci.edu/seminars/solving-an-ill-posed-inverse-problem-of-three-dimensional-3d-vision/', 'https://acoi.ics.uci.edu/seminars/dudeneys-no-three-in-line-problem/', 'https://acoi.ics.uci.edu/seminars/non-convex-optimization-and-structured-signal-recovery/', 'https://acoi.ics.uci.edu/seminars/topological-network-alignment-comes-of-age/', 'https://acoi.ics.uci.edu/seminars/planar-graph-perfect-matching-is-in-nc/', 'https://acoi.ics.uci.edu/seminars/network-biform-games-an-application-to-the-implementation-of-electronic-waste-legislation/', 'https://acoi.ics.uci.edu/seminars/explicit-binary-tree-codes-with-polylogarithmic-size-alphabet/', 'https://acoi.ics.uci.edu/']
+
+Found and skipped the following links:
+ ['#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', 'https://uci.zoom.us/j/94755690267', 'https://uci.zoom.us/j/91053519379', 'https://uci.zoom.us/j/96921158546', 'https://uci.zoom.us/j/97508930015', 'https://uci.zoom.us/j/92891710088', 'https://uci.edu/privacy/index.php', 'https://uci.edu/copyright/', '#', '#', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://acoi.ics.uci.edu/seminars/network-biform-games-an-application-to-the-implementation-of-electronic-waste-legislation, Status: 200, Error: None
+
+Most Words: 1490 (https://acoi.ics.uci.edu/seminar-series)
+These are the top 10 words after scraping: https://acoi.ics.uci.edu/seminars/network-biform-games-an-application-to-the-implementation-of-electronic-waste-legislation
+00 => 172
+pm => 166
+dbh => 149
+4011 => 136
+uci => 88
+events => 75
+2022 => 62
+2018 => 51
+university => 48
+search => 46
+
+Found and enqueued the following links:
+ ['https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/seminars/', 'https://acoi.ics.uci.edu/']
+
+Found and skipped the following links:
+ ['#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', 'https://uci.edu/privacy/index.php', 'https://uci.edu/copyright/', '#', '#', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://acoi.ics.uci.edu/seminars/planar-graph-perfect-matching-is-in-nc, Status: 200, Error: None
+
+Most Words: 1490 (https://acoi.ics.uci.edu/seminar-series)
+These are the top 10 words after scraping: https://acoi.ics.uci.edu/seminars/planar-graph-perfect-matching-is-in-nc
+00 => 173
+pm => 167
+dbh => 150
+4011 => 137
+uci => 95
+events => 75
+2022 => 62
+2018 => 52
+university => 49
+search => 47
+
+Found and enqueued the following links:
+ ['https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu/', 'https://acoi.ics.uci.edu/people/', 'https://acoi.ics.uci.edu/seminar-series/', 'https://www.ics.uci.edu/~theory/', 'https://acoi.ics.uci.edu/news/', 'https://acoi.ics.uci.edu/contact/', 'https://acoi.ics.uci.edu', 'https://acoi.ics.uci.edu/seminars/', 'https://acoi.ics.uci.edu/']
+
+Found and skipped the following links:
+ ['#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', '#', 'http://ics.uci.edu/', 'https://www.math.uci.edu/', 'https://merage.uci.edu/', 'https://www.imbs.uci.edu/', 'http://engineering.uci.edu/dept/eecs', 'https://uci.edu/privacy/index.php', 'https://uci.edu/copyright/', '#', '#', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+Pressed Ctrl+C. Returning the top 50 words detected so far
+
+00 => 173
+pm => 167
+dbh => 150
+4011 => 137
+uci => 95
+events => 75
+2022 => 62
+2018 => 52
+university => 49
+search => 47
+talks => 45
+isg => 45
+zoom => 42
+business => 39
+algorithms => 39
+october => 39
+news => 38
+2024 => 38
+us => 38
+ics => 37
+2025 => 36
+2019 => 36
+center => 35
+home => 34
+uc => 34
+2023 => 34
+november => 34
+people => 29
+contact => 29
+school => 29
+may => 28
+math => 28
+reunion => 27
+received => 27
+award => 27
+outlook => 26
+seminar => 26
+series => 26
+theory => 26
+computation => 26
+2026 => 24
+imbs => 24
+research => 23
+march => 23
+13 => 22
+will => 22
+matching => 21
+upcoming => 20
+https => 20
+february => 20
