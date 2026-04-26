@@ -39,6 +39,12 @@ logfile = generate_new_log_file()
 def scraper(url, resp):
     links = extract_next_links(url, resp)
     return [link for link in links if is_valid(link)]
+
+def get_page_count():
+    total_len = 0
+    for pages in url_dict.values():
+        total_len += len(pages)
+    return total_len
 	
 def parse_unique_url(url):
     #remove fragment
@@ -234,6 +240,8 @@ def save_top_50_to_file(filename=None):
 def handle_interrupt():
     log("\nPressed Ctrl+C. Returning the top 50 words detected so far\n")
     save_top_50_to_file()
+    log(f"total unique pages: {get_page_count()}")
+    log_subdomains()
 
 #logs the top 10 most common words to the log file
 def topWordFreq(current_url=None):
