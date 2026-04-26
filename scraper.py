@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urldefrag
 import builtins
 from stop_words import get_stop_words
+from urllib.parse import urljoin
 
 url_dict = {}
 blacklist = {"calendar", "portal", "apply", "admin", "password", 
@@ -13,7 +14,7 @@ blacklist = {"calendar", "portal", "apply", "admin", "password",
             "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
             "tribe-bar-date=206", "tribe-bar-date=207", "tribe-bar-date=208",
             "tribe-bar-date=209", "tribe-bar-date=21",
-            "outlook", "ical=", "isg", "login",
+            "outlook", "ical=", "isg", "login", "http:",
             "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring", "wics.ics.uci.edu/fall",
             "wics.ics.uci.edu/winter", "wics.ics.uci.edu/summer",
             "web.archive", "archive.ics", "/ml/"} #terms in url that flag that you should not crawl them
@@ -88,11 +89,15 @@ def extract_next_links(url, resp):
     skippedLinks = list()
     for link in soup.find_all('a', href=True):
         scraped_url = link['href']
+        if scraped_url[0] == '/': #Make sure url is not relative when current starts with '/'
+            scraped_url = urljoin(url, scraped_url)
         check_url, fragment = urldefrag(url)
+
         #1. Make sure to return only URLs that are within the domains and paths mentioned above! (see is_valid function in scraper.py -- you need to change it)
         if is_valid(scraped_url) and is_valid(check_url):
             links.append(scraped_url)
             parse_unique_url(scraped_url)
+
         else:
             skippedLinks.append(scraped_url)
 
