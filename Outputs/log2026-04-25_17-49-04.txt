@@ -1,0 +1,265 @@
+
+SEARCHING THE FOLLOWING URL:
+ https://www.stat.uci.edu, Status: 200, Error: None
+
+Most Words: 597 (https://www.stat.uci.edu)
+These are the top 10 words after scraping: https://www.stat.uci.edu
+statistics => 16
+research => 10
+news => 9
+series => 9
+seminar => 8
+donald => 8
+bren => 8
+department => 7
+undergraduate => 7
+2025 => 7
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://stat.ics.uci.edu/what-is-statistics/', 'https://ics.uci.edu/people/?filter%5Bunits%5D=19', 'https://stat.ics.uci.edu/contact-us/', 'https://stat.ics.uci.edu/tutoring-resources/', 'https://stat.ics.uci.edu/research-areas/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://stat.ics.uci.edu/undergraduate-programs/', 'https://stat.ics.uci.edu/undergraduate-programs#majors-minors', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/undergraduate-academic-advising/', 'https://stat.ics.uci.edu/graduate-statistics-programs/', 'https://stat.ics.uci.edu/graduate-statistics-programs#researchprograms', 'https://stat.ics.uci.edu/graduate-statistics-programs#professionalprograms', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://ics.uci.edu/academics/campus-resources/', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D%5B1%5D=19', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988&filter%5Bunits%5D%5B1%5D=19', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989&filter%5Bunits%5D=19', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994&filter%5Bunits%5D=19', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990&filter%5Bunits%5D=19', 'https://stat.ics.uci.edu/statistics-seminar-series/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_81%5B0%5D=Statistics', 'https://stat.ics.uci.edu/distinguished-lecture-series/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_46%5B0%5D=Statistics', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://stat.ics.uci.edu/contact-us/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/2025/02/18/advancing-innovative-solutions-in-pediatric-health/', 'https://ics.uci.edu/2026/02/05/inaugural-ai-in-science-symposium-features-global-thought-leaders/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/12/08/medtech-innovation-hackathon-2025-creates-collaboration-and-innovation/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/10/27/seventh-annual-ics-industry-showcase-forges-career-connections/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/10/03/uc-irvine-data-science-students-partner-with-choc-research-and-rady-childrens-health-to-develop-personalized-pediatric-dehydration-management-solutions/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/08/01/fifth-annual-uc-irvine-ics-project-expo-continues-to-grow-bigger-and-better/', 'https://ics.uci.edu/category/article/', 'https://ics.uci.edu/2025/04/29/senior-spotlight-anthony-cusimano-parses-a-path-through-data/', 'https://ics.uci.edu/category/academics/statistics/', 'https://ics.uci.edu/happening/news/', 'https://stat.ics.uci.edu/slider/b-s-in-data-science/', 'https://stat.ics.uci.edu/graduate-statistics-programs/', 'https://ics.uci.edu/academic-recruitment/', 'https://ics.uci.edu/event/introducing-an-informal-approach-to-predictive-modelling-within-a-large-introductory-statistics-course-connecting-research-with-practice/', 'https://stat.uci.edu/seminar-series/', 'https://ics.uci.edu/event/stable-discovery-of-treatment-effect-modifiers/', 'https://stat.uci.edu/seminar-series/', 'https://ics.uci.edu/event/using-principal-components-from-general-hilbert-space-valued-covariates-for-regression/', 'https://stat.uci.edu/seminar-series/', 'https://ics.uci.edu/event/dual-validity-of-robust-standard-errors-under-complex-dependence/', 'https://stat.uci.edu/seminar-series/', 'https://ics.uci.edu/event/optimal-phibe-a-framework-for-reinforcement-learning-in-the-physical-world/', 'https://stat.uci.edu/seminar-series/', 'https://ics.uci.edu/event/nonparametric-density-estimation-in-high-dimensions-via-tensor-trains/', 'https://stat.uci.edu/seminar-series/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://statconsulting.uci.edu/', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu/', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/accessibility-statement, Status: 200, Error: None
+
+Most Words: 597 (https://www.stat.uci.edu)
+These are the top 10 words after scraping: https://ics.uci.edu/accessibility-statement
+ics => 29
+statistics => 19
+research => 19
+accessibility => 17
+us => 15
+undergraduate => 14
+graduate => 13
+student => 12
+news => 12
+irvine => 12
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/research-areas/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/contact-us/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/accessibility-statement/', 'https://ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', 'https://userway.org/', 'mailto:ucibrenics@uci.edu', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/contact-us, Status: 200, Error: None
+
+Most Words: 871 (https://ics.uci.edu/contact-us)
+These are the top 10 words after scraping: https://ics.uci.edu/contact-us
+ics => 48
+research => 28
+uci => 27
+us => 25
+drive => 25
+student => 23
+undergraduate => 23
+statistics => 22
+graduate => 22
+bren => 22
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/research-areas/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/contact-us/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/contact-us/', 'https://ics.uci.edu/people-directory/', 'https://ics.uci.edu/people/?filter%5Boffices_ics%5D%5B0%5D=1081', 'https://ics.uci.edu/people/?filter%5Boffices_ics%5D%5B1%5D=2006', 'https://ics.uci.edu/people/?filter%5Boffices_ics%5D=1085', 'https://ics.uci.edu/people/?filter%5Boffices_ics%5D=1082', 'https://ics.uci.edu/people/?filter%5Boffices_ics%5D%5B1%5D=1079', 'https://ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', 'mailto:ucounsel@uci.edu', 'mailto:gcounsel@ics.uci.edu', 'mailto:ccanning@uci.edu', 'mailto:brenics@uci.edu', 'https://map.uci.edu/?id=463#!ct/', 'https://parking.uci.edu/permits/visitorpermits.cfm', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+Failed to retrieve https://ics.uci.edu/people/?filter%5Boffices_ics%5D%5B1%5D=1079. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/people/?filter%5Boffices_ics%5D=1082. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/people/?filter%5Boffices_ics%5D=1085. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/people/?filter%5Boffices_ics%5D%5B1%5D=2006. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/people/?filter%5Boffices_ics%5D%5B0%5D=1081. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/people-directory. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/alumni/ics-advisory-board, Status: 200, Error: None
+
+Most Words: 871 (https://ics.uci.edu/contact-us)
+These are the top 10 words after scraping: https://ics.uci.edu/alumni/ics-advisory-board
+ics => 64
+research => 38
+student => 31
+us => 31
+undergraduate => 30
+graduate => 29
+uci => 28
+statistics => 25
+bren => 25
+drive => 25
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/research-areas/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/contact-us/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/alumni/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', 'mailto:ccanning@uci.edu', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/alumni/industry-advisory-board, Status: 200, Error: None
+
+Most Words: 871 (https://ics.uci.edu/contact-us)
+These are the top 10 words after scraping: https://ics.uci.edu/alumni/industry-advisory-board
+ics => 78
+research => 48
+student => 39
+us => 39
+undergraduate => 37
+graduate => 36
+uci => 29
+statistics => 28
+bren => 28
+science => 27
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/facts-figures/ics-mission-history/', 'https://ics.uci.edu/facts-figures/', 'https://ics.uci.edu/admissions-information-and-computer-science/', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/student-experience/', 'https://ics.uci.edu/academics/undergraduate-programs/', 'https://ics.uci.edu/academics/undergraduate#major', 'https://ics.uci.edu/honors/', 'https://ics.uci.edu/undergrad', 'https://ics.uci.edu/academics/graduate-programs/', 'https://ics.uci.edu/academics/graduate-programs#researchprograms', 'https://ics.uci.edu/academics/graduate-programs#professionalprograms', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://tutoring.ics.uci.edu/', 'https://ics.uci.edu/academics/campus-resources/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/computing-research/', 'https://ics.uci.edu/research-areas/', 'https://ics.uci.edu/departments/', 'https://cs.ics.uci.edu/', 'https://www.informatics.uci.edu/', 'https://stat.ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/computing-research/institutes-centers/', 'https://futurehealth.ics.uci.edu/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://create.ics.uci.edu/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://ics.uci.edu/academics/impact/student-awards-honors/', 'https://ics.uci.edu/academics/impact/academic-placements-of-alumni/', 'https://ics.uci.edu/academics/impact/technology-transfer/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990', 'https://ics.uci.edu/happening/news/in-the-media/', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/expo/', 'https://industryshowcase.ics.uci.edu/', 'https://summeracademy.ics.uci.edu/', 'https://ics.uci.edu/events/', 'https://ics.uci.edu/seminar-series/distinguished-lectures/', 'https://www.cs.uci.edu/events/seminar-series/', 'https://www.informatics.uci.edu/explore/department-seminars/', 'https://www.stat.uci.edu/seminar-series/', 'https://cml.ics.uci.edu/aiml/', 'https://ics.uci.edu/happening/annual-reports-brochures/', 'https://ics.uci.edu/happening/annual-reports-brochures#annualreports', 'https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure', 'https://ics.uci.edu/happening/annual-reports-brochures#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/', 'https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni', 'https://ics.uci.edu/alumni/hall-of-fame/', 'https://ics.uci.edu/alumni/homecoming2026/', 'https://ics.uci.edu/happening/annual-reports-brochures/#newsletters', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/alumni/ics-advisory-board/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/contact-us/', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://ics.uci.edu/', 'https://ics.uci.edu/alumni/', 'https://ics.uci.edu/alumni/industry-advisory-board/', 'https://ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://ai-science.uci.edu/', 'https://connectedlearning.uci.edu/', 'https://connectedlearning.uci.edu/events/', 'https://futurehealth.uci.edu/events/', 'mailto:jason.king@uci.edu', 'mailto:jason.king@uci.edu', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php', '#content', 'javascript:void(0);', '#', '#', '#', '#', '#', '#', '#', '#', '#']
+
+
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures/#newsletters. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/alumni/homecoming2026, Status: 200, Error: None
+
+Most Words: 871 (https://ics.uci.edu/contact-us)
+These are the top 10 words after scraping: https://ics.uci.edu/alumni/homecoming2026
+ics => 78
+research => 48
+student => 39
+us => 39
+undergraduate => 37
+graduate => 36
+uci => 29
+statistics => 28
+bren => 28
+science => 27
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni, Status: 200, Error: None
+
+Most Words: 871 (https://ics.uci.edu/contact-us)
+These are the top 10 words after scraping: https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni
+ics => 78
+research => 48
+student => 39
+us => 39
+undergraduate => 37
+graduate => 36
+uci => 29
+statistics => 28
+bren => 28
+science => 27
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://ics.uci.edu/alumni, Status: 200, Error: None
+
+Most Words: 871 (https://ics.uci.edu/contact-us)
+These are the top 10 words after scraping: https://ics.uci.edu/alumni
+ics => 78
+research => 48
+student => 39
+us => 39
+undergraduate => 37
+graduate => 36
+uci => 29
+statistics => 28
+bren => 28
+science => 27
+
+No valid links found on this page.
+
+Found and skipped the following links:
+ ['https://iplocationblock.com']
+
+
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures#newsletters. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures#facultybrochure. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures#annualreports. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/happening/annual-reports-brochures. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/aiml, Status: 200, Error: None
+
+Most Words: 3455 (https://cml.ics.uci.edu/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/aiml
+research => 98
+learning => 79
+ics => 78
+science => 65
+models => 62
+university => 58
+computer => 56
+student => 45
+will => 45
+us => 41
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/home/contact-us/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://hpi.ics.uci.edu/', 'https://cml.ics.uci.edu/aiml/page/2/', 'https://cml.ics.uci.edu/2025/01/winter-2025/', 'https://cml.ics.uci.edu/category/aiml/', 'https://cml.ics.uci.edu/aiml/page/2/']
+
+Found and skipped the following links:
+ ['#content', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://dongxiaw.github.io/online-cv/', 'https://www.tkskwork.org/', 'https://scholar.google.com/citations?user=xOo2I1kAAAAJ&hl=en', 'https://sites.uci.edu/kolbynottingham/', 'https://valentinapy.github.io/', 'https://yanaiela.github.io/', 'https://www.guandaoyang.com/', 'https://www.cs.princeton.edu/~smalladi/', 'https://gaotianyu.xyz/about/', 'https://anandbhattad.github.io/', 'https://wenting-zhao.github.io/', 'https://zongyi-li.github.io/', 'https://sarahwie.github.io/', 'https://people.eecs.berkeley.edu/~xdwang/', 'https://scholar.google.com/citations?hl=en&user=rFbxDSAAAAAJ', 'https://scholar.google.com/citations?user=OLvHxPYAAAAJ&hl=en', 'https://d-corsi.github.io/', 'https://mds.inf.ethz.ch/team/detail/julia-vogt/', 'https://researchers.rc-trust.ai/neider/', 'http://cml.ics.uci.edu', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/category/aiml, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/category/aiml
+learning => 323
+research => 306
+models => 265
+university => 222
+will => 213
+science => 203
+computer => 191
+data => 166
+ai => 160
+machine => 160
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/home/contact-us/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2025/01/winter-2025/', 'https://cml.ics.uci.edu/2025/01/winter-2025/', 'https://cml.ics.uci.edu/2024/10/fall-2024/', 'https://ics.uci.edu/~amirr1/', 'https://cml.ics.uci.edu/2024/10/fall-2024/', 'https://cml.ics.uci.edu/2024/01/winter-and-spring-2024/', 'https://cml.ics.uci.edu/2024/01/winter-and-spring-2024/', 'https://cml.ics.uci.edu/2023/10/fall-2023/', 'https://www.ics.uci.edu/~deyingk/', 'https://cml.ics.uci.edu/2023/10/fall-2023/', 'https://cml.ics.uci.edu/2023/03/spring-2023/', 'https://www.ics.uci.edu/~sabdujyo/', 'https://cml.ics.uci.edu/2023/03/spring-2023/', 'https://cml.ics.uci.edu/2023/01/winter-2023/', 'https://cml.ics.uci.edu/2023/01/winter-2023/', 'https://cml.ics.uci.edu/2022/10/fall-2022/', 'https://cml.ics.uci.edu/2022/10/fall-2022/', 'https://cml.ics.uci.edu/2022/04/spring-2022/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/2022/04/spring-2022/', 'https://cml.ics.uci.edu/2022/01/winter-2022/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/2022/01/winter-2022/', 'https://cml.ics.uci.edu/2021/04/spring-2021/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://create.ics.uci.edu/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://www.ics.uci.edu/~jingz31/', 'https://cml.ics.uci.edu/2021/04/spring-2021/', 'https://cml.ics.uci.edu/category/aiml/page/2/']
+
+Found and skipped the following links:
+ ['#content', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://dongxiaw.github.io/online-cv/', 'https://www.tkskwork.org/', 'https://scholar.google.com/citations?user=xOo2I1kAAAAJ&hl=en', 'https://sites.uci.edu/kolbynottingham/', 'https://valentinapy.github.io/', 'https://yanaiela.github.io/', 'https://www.guandaoyang.com/', 'https://www.cs.princeton.edu/~smalladi/', 'https://gaotianyu.xyz/about/', 'https://anandbhattad.github.io/', 'https://wenting-zhao.github.io/', 'https://zongyi-li.github.io/', 'https://sarahwie.github.io/', 'https://people.eecs.berkeley.edu/~xdwang/', 'https://scholar.google.com/citations?hl=en&user=rFbxDSAAAAAJ', 'https://scholar.google.com/citations?user=OLvHxPYAAAAJ&hl=en', 'https://d-corsi.github.io/', 'https://mds.inf.ethz.ch/team/detail/julia-vogt/', 'https://researchers.rc-trust.ai/neider/', 'https://harshtrivedi.me/', 'https://kpandey008.github.io/', 'https://sites.google.com/view/tianchen-qian/', 'https://jana-research.org/jana.html', 'http://octopath.org/', 'https://danielseita.github.io/', 'https://yasamanrazeghi.com/', 'https://asyounis.github.io/', 'https://web.engr.oregonstate.edu/~lif/', 'https://gavinkerrigan.github.io/', 'https://shivanshu-gupta.github.io/', 'https://staff.fnwi.uva.nl/m.welling/', 'https://www.linkedin.com/in/bratin-saha-05824b3/', 'https://blvns.github.io/', 'https://paolacascante.com/', 'https://www.cs.utexas.edu/~xiye/', 'https://spkreddy.org/', 'https://weichen582.github.io/', 'https://www.andrew.cmu.edu/user/kunz1/', 'https://unnat.github.io/', 'https://karenullrich.info/', 'https://gonenhila.github.io/', 'https://homes.cs.washington.edu/~pawest/', 'https://www.eventbrite.com/e/southern-california-ai-and-biomedicine-symposium-2023-tickets-685054485407', 'https://ml.informatik.uni-kl.de/people/marius-kloft.php', 'https://sarahwie.github.io/', 'https://www.nogsky.com/', 'https://www.linkedin.com/in/mariel-werner/', 'https://sites.google.com/view/yianma/home', 'https://www.yuhuazhu.org/', 'https://homes.cs.washington.edu/~yejin/', 'https://georgiou.eng.uci.edu/', 'https://neurips.cc/', 'http://dpkingma.com/', 'https://danishpruthi.com/', 'https://anthonywchen.github.io/', 'https://hengruicai.github.io/', 'https://www.igb.uci.edu/~pfbaldi/', 'https://web.cs.ucla.edu/~guyvdb/', 'https://scholar.google.com/citations?user=zFMN24cAAAAJ&hl=en', 'https://fortuin.github.io/', 'https://research.snap.com/team/team-member.html#maarten-bos', 'https://sites.uci.edu/kolbynottingham/', 'https://scholar.google.com/citations?user=AIj0BPoAAAAJ&hl=en', 'https://groups.cs.umass.edu/shlomo/', 'https://furong-huang.com/', 'https://www.majumderb.com/', 'http://www.majumderb.com/', 'https://steyvers.socsci.uci.edu/', 'https://scholar.google.com/citations?user=n7P_6uQAAAAJ&hl=en', 'https://sites.google.com/uci.edu/yanning-shen/home', 'https://muhaochen.github.io/', 'https://luka-group.github.io/', 'http://www.gatsby.ucl.ac.uk/~porbanz/', 'https://neurips.cc/', 'https://www.eurecom.fr/~filippon/index.html', 'https://tranbahien.github.io/', 'https://youtu.be/oZAuh686ipw', 'http://www.tivaro.nl/', 'https://youtu.be/LQu-kwpfFg4', 'https://robinjia.github.io/', 'https://youtu.be/ALqqlgbzAB0', 'https://www.linkedin.com/in/bobak-pezeshki-9a545b156/', 'https://youtu.be/Yl_aCTieVqc', 'https://royf.org/', 'https://youtu.be/ImvsK5CFp0w', 'https://www.ransalu.com/', 'https://youtu.be/3yR8BqBElXw', 'https://dylanslacks.website/', 'https://youtu.be/71RJvjPhk3U', 'http://maja-rita-rudolph.com/', 'https://youtu.be/9fRw74WhRdE', 'https://ruiqigao.github.io/', 'https://youtu.be/eAozs_JKp4o', 'https://sunipa.github.io/', 'https://youtu.be/V93uXTBnpFw', 'https://sites.google.com/site/sundararajanmukund/', 'https://arxiv.org/abs/1703.01365', 'https://arxiv.org/abs/1805.12233', 'https://arxiv.org/abs/1902.05622', 'https://arxiv.org/abs/1908.08474', 'https://arxiv.org/abs/2004.03383', 'https://arxiv.org/abs/1805.05492', 'https://arxiv.org/abs/2002.08484', 'https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus', 'https://en.wikipedia.org/wiki/Stochastic_gradient_descent', 'https://acronyms.thefreedictionary.com/Research+scientist', 'https://sites.google.com/site/sundararajanmukund/', 'https://en.wikipedia.org/wiki/Machine_learning', 'https://sanmi.cs.illinois.edu/', 'https://youtu.be/Ehqsp8vRLis', 'https://www.katecrawford.net/about.html', 'https://yiboyang.com/about/', 'https://youtu.be/1lXKUhBTHWc', 'https://webdocs.cs.ualberta.ca/~santanad/', 'https://youtu.be/76NFMs9pHEE', 'https://dmelis.github.io/', ' https://youtu.be/52bQ_XUY2DQ', 'https://faculty.sites.uci.edu/cnclab/people/', ' https://youtu.be/i9Cenn0stxE', 'https://youtu.be/HPPq5Xvlr9c', 'http://cml.ics.uci.edu', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/category/aiml/page/2, Status: 200, Error: None
+
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/category/aiml/page/2
+learning => 465
+research => 385
+models => 347
+will => 335
+university => 292
+data => 253
+computer => 246
+science => 241
+machine => 219
+ai => 189
+

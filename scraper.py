@@ -89,7 +89,7 @@ def extract_next_links(url, resp):
     skippedLinks = list()
     for link in soup.find_all('a', href=True):
         scraped_url = link['href']
-        if scraped_url[0] == '/': #Make sure url is not relative when current starts with '/'
+        if (len(scraped_url) > 0) and (scraped_url[0] == '/'): #Make sure url is not relative when current starts with '/'
             scraped_url = urljoin(url, scraped_url)
         check_url, fragment = urldefrag(url)
 
@@ -140,6 +140,7 @@ def tokenize_content(url: str, content: str):
         token_lst = []
         total_words_found: int = 0
         left: int = 0
+        right: int = 0 #Added since warning message appeared about being used before declared
         for right in range(len(content)):
             char = content[right]
             char_is_tokenable: bool = char.isalnum() or char == "'" or char == '-'
