@@ -1,0 +1,100 @@
+Top 50 words found so far:
+years => 65311
+ago => 63817
+added => 62072
+pdf => 51898
+kb => 51482
+will => 44002
+10 => 41867
+project => 37313
+data => 26569
+students => 22227
+use => 22114
+uci => 20466
+chenli => 20171
+http => 18975
+course => 17058
+notes => 16939
+pm => 16122
+database => 15999
+file => 15468
+ics => 15396
+https => 14867
+projects => 14347
+homework => 14245
+edu => 14052
+ramesh => 13607
+can => 13582
+information => 13525
+ppt => 13432
+tomcat => 12504
+page => 12365
+quiz => 12354
+using => 12106
+solution => 11999
+group => 11980
+com => 11879
+mysql => 11809
+wiki => 11779
+class => 11767
+war => 11672
+xml => 11397
+time => 11342
+lecture => 11263
+make => 11219
+11 => 11159
+carey => 10933
+mike => 10887
+search => 10755
+aws => 10609
+version => 10519
+sql => 10376
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 45
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 114
+cecs.uci.edu, 12
+chenli.ics.uci.edu, 10
+cml.ics.uci.edu, 191
+code.ics.uci.edu, 15
+coronavirustwittermap.ics.uci.edu, 1
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 15
+cs.uci.edu, 1
+cyberclub.ics.uci.edu, 1
+dgillen.ics.uci.edu, 33
+ds4all.ics.uci.edu, 8
+fellowships.ics.uci.edu, 2
+futurehealth.ics.uci.edu, 1
+grape.ics.uci.edu, 2910
+hpi.ics.uci.edu, 6
+icde2023.ics.uci.edu, 1
+ics.uci.edu, 787
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 30
+informatics.uci.edu, 7
+jgarcia.ics.uci.edu, 40
+mailman.ics.uci.edu, 3
+mcs.ics.uci.edu, 11
+mdogucu.ics.uci.edu, 2
+mds.ics.uci.edu, 12
+mhcid.ics.uci.edu, 17
+mswe.ics.uci.edu, 9
+mt-live.ics.uci.edu, 1
+ngs.ics.uci.edu, 1996
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+tad.ics.uci.edu, 2
+tutoring.ics.uci.edu, 1
+twitter.com, 36
+vision.ics.uci.edu, 194
+www.cecs.uci.edu, 113
+www.cs.uci.edu, 8
+www.ics.uci.edu, 114
+www.informatics.uci.edu, 14
+www.stat.uci.edu, 8
+Most Words: 103664 (https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs122b-2016-spring-project2)

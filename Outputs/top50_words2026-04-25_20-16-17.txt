@@ -1,0 +1,93 @@
+Top 50 words found so far:
+years => 19380
+ago => 18553
+added => 18113
+data => 17729
+pdf => 14491
+kb => 13150
+project => 12140
+carey => 10903
+mike => 10834
+will => 10782
+smyth => 9928
+padhraic => 9082
+lecture => 8775
+homework => 8355
+mon => 7991
+wed => 5905
+analysis => 5779
+python => 5651
+uci => 5205
+wrangling => 4996
+mb => 4820
+course => 4661
+hw => 4394
+ics => 4122
+science => 4049
+class => 3937
+assignment => 3729
+slides => 3663
+com => 3635
+feb => 3586
+grading => 3580
+learning => 3480
+quarter => 3246
+academic => 3222
+pm => 3221
+overview => 3129
+students => 3059
+due => 3055
+assignments => 2940
+proposal => 2919
+edu => 2909
+https => 2875
+planning => 2853
+sql => 2808
+template => 2634
+spring => 2592
+machine => 2581
+solution => 2532
+tools => 2486
+software => 2483
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 38
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 42
+cecs.uci.edu, 12
+cml.ics.uci.edu, 138
+code.ics.uci.edu, 14
+courselisting.ics.uci.edu, 2
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 13
+cs.uci.edu, 1
+cyberclub.ics.uci.edu, 1
+dgillen.ics.uci.edu, 28
+fellowships.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+grape.ics.uci.edu, 660
+hpi.ics.uci.edu, 6
+ics.uci.edu, 409
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 20
+informatics.uci.edu, 7
+jgarcia.ics.uci.edu, 40
+mcs.ics.uci.edu, 11
+mdogucu.ics.uci.edu, 2
+mds.ics.uci.edu, 3
+mhcid.ics.uci.edu, 1
+mswe.ics.uci.edu, 9
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+tad.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+twitter.com, 19
+vision.ics.uci.edu, 1
+www.cecs.uci.edu, 113
+www.cs.uci.edu, 4
+www.ics.uci.edu, 51
+www.informatics.uci.edu, 13
+www.stat.uci.edu, 6
+Most Words: 39343 (https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/stats170ab-2018/visualization_with_iris_data.ipynb)
