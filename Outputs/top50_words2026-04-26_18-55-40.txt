@@ -1,0 +1,110 @@
+Top 50 words found so far:
+events => 44596
+search => 22100
+isg => 21184
+talks => 21098
+2025 => 19102
+2024 => 14826
+award => 13283
+received => 12968
+reunion => 12692
+outlook => 12615
+us => 12195
+research => 11181
+ics => 10516
+day => 10503
+upcoming => 9702
+news => 9395
+2026 => 9369
+august => 9250
+faculty => 9177
+13 => 8945
+calendar => 8698
+ieee => 8646
+navigation => 8557
+db => 8476
+uci => 8464
+enter => 8403
+keyword => 8390
+file => 8366
+views => 8345
+export => 8326
+next => 7276
+list => 6964
+today => 6793
+zoom => 6725
+info => 5688
+sharad => 5600
+students => 5526
+irvine => 5510
+2022 => 5508
+systems => 5319
+information => 5295
+will => 5264
+may => 5219
+march => 5048
+uc => 4890
+paper => 4860
+alumni => 4771
+group => 4756
+contact => 4754
+17 => 4754
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 5730
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 42
+asterix.ics.uci.edu, 8
+asterixdb.ics.uci.edu, 2
+chenli.ics.uci.edu, 10
+cherry.ics.uci.edu, 1
+chime.ics.uci.edu, 1
+cloudberry.ics.uci.edu, 11
+cml.ics.uci.edu, 104
+code.ics.uci.edu, 16
+coronavirustwittermap.ics.uci.edu, 1
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 11
+cs.uci.edu, 3
+cyberclub.ics.uci.edu, 1
+dblp.ics.uci.edu, 2
+ds4all.ics.uci.edu, 10
+duke.ics.uci.edu, 1
+flamingo.ics.uci.edu, 21
+fr.ics.uci.edu, 14
+futurehealth.ics.uci.edu, 1
+graphmod.ics.uci.edu, 2
+hobbes.ics.uci.edu, 2
+hpi.ics.uci.edu, 2
+icde2023.ics.uci.edu, 48
+ics.uci.edu, 488
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 23
+informatics.uci.edu, 8
+ipubmed.ics.uci.edu, 2
+isg.ics.uci.edu, 4460
+jujube.ics.uci.edu, 2
+luci.ics.uci.edu, 1
+mcs.ics.uci.edu, 14
+mds.ics.uci.edu, 10
+mhcid.ics.uci.edu, 17
+mswe.ics.uci.edu, 3
+mt-live.ics.uci.edu, 1
+oai.ics.uci.edu, 1
+psearch.ics.uci.edu, 5
+sli.ics.uci.edu, 6
+sprout.ics.uci.edu, 2
+stairs.ics.uci.edu, 3
+stat.ics.uci.edu, 12
+stat.uci.edu, 2
+summeracademy.ics.uci.edu, 1
+tad.ics.uci.edu, 1
+tastier.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+vision.ics.uci.edu, 15
+www.cs.uci.edu, 13
+www.ics.uci.edu, 283
+www.informatics.uci.edu, 29
+www.stat.uci.edu, 5
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
