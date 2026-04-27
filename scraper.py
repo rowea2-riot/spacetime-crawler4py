@@ -28,7 +28,7 @@ blacklist = {"wiki.ics", "grape.ics",
 "wiki.ics", 
 '''
 blacklist = {
-    "grape.ics", "intranet.ics", "doku.php/ai", "doku.php/wiki", "doku.php/webapps",
+    "grape.ics", "intranet.ics", "doku.php/ai", "doku.php/wiki", "doku.php/webapps", "doku.php/projects",
     "events/month", "events/week", "events/20", "events/1", "events/tags",
     "tribe-bar-date=200","tribe-bar-date=2016", "tribe-bar-date=203",
     "ics.uci.edu/events/month", "ics.uci.edu/events/2", "ics.uci.edu/events/week",

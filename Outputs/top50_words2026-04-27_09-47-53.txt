@@ -1,0 +1,88 @@
+Top 50 words found so far:
+support => 40601
+wiki => 29769
+files => 24422
+media => 22560
+search => 14166
+commands => 14060
+services => 12924
+upload => 12903
+backups => 12335
+security => 12318
+virtual => 12179
+environments => 12143
+instructional => 12014
+software => 11514
+accounts => 11254
+hardware => 11237
+pasted => 11170
+group => 11081
+file => 10659
+windows => 10475
+history => 10437
+linux => 10333
+labs => 10240
+webapps => 9334
+page => 8543
+requesttracker => 8497
+date => 8489
+site => 8398
+revisionsbacklinks => 8338
+toolsrecent => 8338
+changesmedia => 8338
+managersitemapuser => 8338
+toolslog => 8338
+namespaces => 8245
+projects => 8136
+toolsshow => 7930
+pageold => 7930
+icsdc => 7887
+root => 7831
+courses => 7676
+name => 7610
+manager => 7593
+choose => 7548
+namespace => 7540
+view => 7352
+png => 6575
+enough => 5701
+rights => 5685
+sorry => 5678
+apply => 5390
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 10121
+circinus-14.ics.uci.edu, 1
+cml.ics.uci.edu, 103
+courselisting.ics.uci.edu, 1
+create.ics.uci.edu, 1
+cs.ics.uci.edu, 1
+fr.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+helpdesk.ics.uci.edu, 3
+hpi.ics.uci.edu, 1
+hub.ics.uci.edu, 3
+ics.uci.edu, 92
+industryshowcase.ics.uci.edu, 1
+julia-hub.ics.uci.edu, 1
+luci.ics.uci.edu, 1
+myip.ics.uci.edu, 1
+oai.ics.uci.edu, 1
+observium.ics.uci.edu, 1
+onboarding.ics.uci.edu, 2
+san-tainer-1.lom.ics.uci.edu, 1
+staging-hub.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+support.ics.uci.edu, 1
+swiki.ics.uci.edu, 423
+tron.lom.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+vision.ics.uci.edu, 14
+wiki.ics.uci.edu, 9389
+www.cs.uci.edu, 2
+www.ics.uci.edu, 55
+www.informatics.uci.edu, 2
+www.stat.uci.edu, 1
+Most Words: 18746 (https://wiki.ics.uci.edu/doku.php/instructional_support:openlab_jupyterhub?do=export_pdf)
