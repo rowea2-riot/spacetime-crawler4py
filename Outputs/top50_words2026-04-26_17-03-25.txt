@@ -1,0 +1,144 @@
+Top 50 words found so far:
+ramesh => 14094
+research => 10594
+jain => 8764
+current => 7672
+computer => 6624
+students => 6564
+past => 6366
+data => 6362
+information => 6250
+computing => 6117
+search => 5862
+university => 5277
+news => 4973
+read => 4920
+systems => 4862
+courses => 4613
+companies => 4424
+events => 4372
+10 => 4349
+books => 4346
+ics => 4261
+science => 4223
+theme => 4108
+favorite => 4101
+experiential => 4014
+uci => 3995
+will => 3942
+learning => 3575
+multimedia => 3551
+2026 => 3530
+people => 3435
+projects => 3308
+management => 3172
+papers => 3121
+vision => 2985
+conference => 2937
+us => 2929
+irvine => 2892
+social => 2841
+personal => 2812
+access => 2717
+back => 2686
+teaching => 2670
+professional => 2635
+doi => 2619
+article => 2606
+ieee => 2603
+researcher => 2595
+navigation => 2572
+2025 => 2570
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 4729
+DataGuard.ics.uci.edu, 1
+DataProtector.ics.uci.edu, 1
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 114
+asterix.ics.uci.edu, 10
+asterixdb.ics.uci.edu, 2
+auge.ics.uci.edu, 2
+cbcl.ics.uci.edu, 1
+cert.ics.uci.edu, 3
+cgvw.ics.uci.edu, 1
+checkmate.ics.uci.edu, 1
+chenli.ics.uci.edu, 11
+cherry.ics.uci.edu, 1
+chime.ics.uci.edu, 1
+cloudberry.ics.uci.edu, 11
+cml.ics.uci.edu, 104
+code.ics.uci.edu, 16
+computableplant.ics.uci.edu, 44
+coronavirustwittermap.ics.uci.edu, 1
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 17
+cs.uci.edu, 3
+cyberclub.ics.uci.edu, 1
+dblp.ics.uci.edu, 2
+ds4all.ics.uci.edu, 10
+duke.ics.uci.edu, 1
+duttgroup.ics.uci.edu, 129
+dynamo.ics.uci.edu, 1
+edgelab.ics.uci.edu, 7
+emj-pc.ics.uci.edu, 1
+emj.ics.uci.edu, 43
+esl.ics.uci.edu, 1
+flamingo.ics.uci.edu, 22
+fr.ics.uci.edu, 15
+futurehealth.ics.uci.edu, 3
+graphics.ics.uci.edu, 9
+graphmod.ics.uci.edu, 2
+hobbes.ics.uci.edu, 2
+hpi.ics.uci.edu, 6
+iasl.ics.uci.edu, 2
+icde2023.ics.uci.edu, 48
+ics.uci.edu, 838
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 26
+informatics.uci.edu, 8
+ipubmed.ics.uci.edu, 2
+isg.ics.uci.edu, 238
+jgarcia.ics.uci.edu, 41
+jujube.ics.uci.edu, 2
+kdd.ics.uci.edu, 1
+luci.ics.uci.edu, 6
+mapgrid.ics.uci.edu, 1
+mcs.ics.uci.edu, 14
+mds.ics.uci.edu, 10
+mhcid.ics.uci.edu, 18
+mswe.ics.uci.edu, 3
+mt-live.ics.uci.edu, 1
+nalini.ics.uci.edu, 8
+ngs.ics.uci.edu, 2087
+oai.ics.uci.edu, 1
+psearch.ics.uci.edu, 5
+satware.ics.uci.edu, 1
+seal.ics.uci.edu, 8
+seraja.ics.uci.edu, 1
+sherlock.ics.uci.edu, 9
+sli.ics.uci.edu, 6
+sprout.ics.uci.edu, 2
+stairs.ics.uci.edu, 3
+stat.ics.uci.edu, 12
+stat.uci.edu, 2
+summeracademy.ics.uci.edu, 1
+tad.ics.uci.edu, 1
+tastier.ics.uci.edu, 2
+tippers.ics.uci.edu, 1
+tippersweb.ics.uci.edu, 4
+tutoring.ics.uci.edu, 1
+tutors.ics.uci.edu, 1
+unite.ics.uci.edu, 10
+vision.ics.uci.edu, 15
+www-db.ics.uci.edu, 20
+www.cs.uci.edu, 16
+www.graphics.ics.uci.edu, 1
+www.ics.uci.edu, 587
+www.informatics.ics.uci.edu, 10
+www.informatics.uci.edu, 33
+www.isg.ics.uci.edu, 2
+www.stat.uci.edu, 6
+xtune.ics.uci.edu, 7
+Most Words: 176115 (http://www.ics.uci.edu/~shantas/publications/20-secret-sharing-aggregation-TKDE-shantanu)
