@@ -32,7 +32,7 @@ blacklist = {
     "events/month", "events/week", "events/20", "events/1", "events/tags",
     "tribe-bar-date=200","tribe-bar-date=2016", "tribe-bar-date=203",
     "ics.uci.edu/events/month", "ics.uci.edu/events/2", "ics.uci.edu/events/week",
-    "isg.ics.uci.edu/events/tag/talks",
+    "isg.ics.uci.edu/events/tag/talk",
     "outlook", "ical=",
     "isg.ics.uci.edu/events/month",
     "wics.ics.uci.edu/events",
