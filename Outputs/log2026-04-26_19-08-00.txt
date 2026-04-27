@@ -1,0 +1,275 @@
+Failed to retrieve https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988&filter%5Bunits%5D=32. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ https://www.informatics.uci.edu/explore/department-seminars, Status: 200, Error: None
+
+Most Words: 172 (https://www.informatics.uci.edu/explore/department-seminars)
+These are the top 10 words after scraping: https://www.informatics.uci.edu/explore/department-seminars
+research => 7
+series => 6
+undergraduate => 6
+us => 6
+seminar => 5
+informatics => 5
+graduate => 5
+student => 4
+spotlights => 4
+academic => 3
+
+Found and enqueued the following links:
+ ['https://ics.uci.edu/', 'https://informatics.ics.uci.edu/', 'https://informatics.ics.uci.edu/explore/', 'https://www.informatics.uci.edu/people', 'https://www.informatics.uci.edu/research-areas', 'https://informatics.ics.uci.edu/research-centers/', 'https://ics.uci.edu/academics/impact/', 'https://ics.uci.edu/academics/impact/faculty-awards-honors/', 'https://informatics.ics.uci.edu/research/conferences/', 'https://informatics.ics.uci.edu/books/', 'https://informatics.ics.uci.edu/undergraduate-programs/', 'https://www.informatics.uci.edu/undergraduate-programs#majors-minors', 'https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/', 'https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/', 'https://ics.uci.edu/academics/undergraduate-academic-advising/', 'https://informatics.ics.uci.edu/graduate-programs-admissions/', 'https://informatics.ics.uci.edu/graduate-programs-admissions#researchprograms', 'https://informatics.ics.uci.edu/graduate-programs-admissions#professionalprograms', 'https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/', 'https://ics.uci.edu/academics/graduate-fellowships-funding/', 'https://ics.uci.edu/academics/graduate-academic-advising/', 'https://ics.uci.edu/student-experience/', 'https://oai.ics.uci.edu/', 'https://ics.uci.edu/academics/career-development/', 'https://ics.uci.edu/student-experience/clubs-organizations/', 'https://ics.uci.edu/student-experience/entrepreneurship-student-experience/', 'https://ics.uci.edu/student-experience/undergraduate-research/', 'https://ics.uci.edu/academics/campus-resources/', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D%5B1%5D=32', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988&filter%5Bunits%5D=32', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D%5B1%5D=32&filter%5Baffiliation_posts%5D=1989', 'https://ics.uci.edu/happening/news/?filter%5Bunits%5D%5B1%5D=32&filter%5Bresearch_areas_ics%5D=1994', 'https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990&filter%5Bunits%5D=32', 'https://www.informatics.uci.edu/seminar-series/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_81%5B0%5D=Informatics', 'https://www.informatics.uci.edu/distinguished-lecture-series/', 'https://ics.uci.edu/events/list/?tribe__ecp_custom_46%5B0%5D=Informatics', 'https://ics.uci.edu/alumni/corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/', 'https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/', 'https://www.informatics.uci.edu/contact', 'https://ics.uci.edu/follow-us/', 'https://ics.uci.edu/make-a-gift/', 'https://informatics.ics.uci.edu/', 'https://informatics.ics.uci.edu/department-seminars/', 'https://ics.uci.edu/', 'https://ics.uci.edu/people/', 'https://ics.uci.edu/faculty-staff-resources/', 'https://ics.uci.edu/faculty-staff-positions/', 'https://ics.uci.edu/accessibility-statement/']
+
+Found and skipped the following links:
+ ['#a11y-skip-link-content', 'https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7', 'tel:1-949-824-7427', 'http://facebook.com/UCIBrenICS', 'http://twitter.com/UCIbrenICS', 'http://youtube.com/UCIBrenICS', 'https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences', 'http://instagram.com/ucibrenics/', 'https://em.uci.edu/', 'https://uci.edu/privacy/index.php', 'https://www.uci.edu/', 'https://directory.uci.edu/', 'https://uci.edu/visit/maps.php']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/alumni, Status: 200, Error: None
+
+Most Words: 274 (https://cml.ics.uci.edu/alumni)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/alumni
+phd => 21
+research => 10
+university => 9
+us => 8
+seminar => 7
+series => 7
+informatics => 7
+professor => 7
+researcher => 7
+undergraduate => 6
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/home/contact-us/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'http://www.ics.uci.edu/~dchudova/', 'http://www.ics.uci.edu/~sswamida/', 'http://www.ics.uci.edu/~sgaffney/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'http://homes.cs.washington.edu/~pedrod/', 'https://www.csi.ucd.ie/users/gianluca-pollastri', 'http://www.cs.ucr.edu/~eamonn/', 'http://people.lis.illinois.edu/~clblake/', 'http://researcher.watson.ibm.com/researcher/view.php?person=us-rish', 'http://webhost2.cs.missouri.edu/~chengji/', 'http://www.cs.cmu.edu/~sssykim/', 'http://csserver.ucd.ie/~rjurdak/index', 'http://www.fxpal.com/?p=billsus', '', '', 'http://www.sergeykirshner.com/', '', '', 'http://www.vuse.vanderbilt.edu/~dfisher/', 'http://ebiquity.umbc.edu/person/html/David/Aha/', 'http://faculty.washington.edu/gennari/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+Failed to retrieve http://www.ics.uci.edu/~sgaffney. Status code: 500. Error: None
+Failed to retrieve http://www.ics.uci.edu/~sswamida. Status code: 500. Error: None
+Failed to retrieve http://www.ics.uci.edu/~dchudova. Status code: 500. Error: None
+
+SEARCHING THE FOLLOWING URL:
+ https://isg.ics.uci.edu/event/prof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases, Status: 200, Error: None
+
+Most Words: 452 (https://isg.ics.uci.edu/event/prof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases)
+These are the top 10 words after scraping: https://isg.ics.uci.edu/event/prof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases
+databases => 23
+phd => 21
+vector => 21
+research => 18
+systems => 14
+university => 11
+award => 11
+us => 10
+seminar => 8
+professor => 8
+
+Found and enqueued the following links:
+ ['https://isg.ics.uci.edu/', 'http://isg.ics.uci.edu/home', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/people/faculty/', 'https://isg.ics.uci.edu/students/', 'https://isg.ics.uci.edu/alumni/', 'https://isg.ics.uci.edu/research_staff/', 'https://isg.ics.uci.edu/visitors/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/projects/', 'https://isg.ics.uci.edu/publications/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/courses/', 'https://isg.ics.uci.edu/db-qual/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/ournews/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/', 'https://isg.ics.uci.edu/reunion2024/isg-reunion-attendees/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/sponsors/', 'https://isg.ics.uci.edu/visitor-info/', 'https://isg.ics.uci.edu/contact-us/', 'https://isg.ics.uci.edu/talks/', 'https://isg.ics.uci.edu/events/', 'https://isg.ics.uci.edu/event/yiming-lin-uc-berkeley-ai-powered-data-systems-for-multimodal-analytics/', 'https://isg.ics.uci.edu/event/andrew-chio-building-resilient-systems-for-critical-infrastructures-a-model-driven-and-data-driven-approach/', 'https://isg.ics.uci.edu/event/yiming-lin-uc-berkeley-ai-powered-data-systems-for-multimodal-analytics/', 'https://isg.ics.uci.edu/event/andrew-chio-building-resilient-systems-for-critical-infrastructures-a-model-driven-and-data-driven-approach/', 'https://isg.ics.uci.edu/news/sharad-received-the-2026-ieee-tcde-impact-award/', 'https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/', 'https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/', 'https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/']
+
+Found and skipped the following links:
+ ['javascript:void(0);', 'https://www.google.com/calendar/event?action=TEMPLATE&dates=20260123T130000/20260123T140000&text=Prof.%20Jianguo%20Wang%20%28Purdue%29%3A%20Databases%20for%20AI%3A%20The%20Case%20for%20Vector%20Databases&details=%3Cdiv%3ETitle%3A+Databases+for+AI%3A+The+Case+for+Vector+Databases%3C%2Fdiv%3E%3Cdiv%3E1%2F23%2F2026%2C+Friday%3C%2Fdiv%3E%3Cdiv%3EDBH+3011%2C+UCI%3C%2Fdiv%3E%3Cdiv%3EAbstract%3A+Vector+databases+have+recently+emerged+as+a+hot+topic+due+to+the+widespread+interest+in+LLMs%2C+where+they+provide+relevant+context+that+enables+LLMs+to+generate+more+accurate+responses.+Current+vector+databases+can+be+broadly+categorized+into+two+types%3A+specialized+and+integrated.+Specialized+vector+databases+are+explicitly+designed+for+managing+vector+data%2C+while+integrated+vector+databases+support+vector+search+within+existing+database+systems+%28mostly+relational+databases%29.+While+specialized+vector+databases+are+interesting%2C+there+is+a+significant+customer+base+interested+in+integrated+vector+databases+for+various+reasons%2C+such+as+reluctance+to+move+data+out%2C+the+desire+to+link+vector+embeddings+with+their+source+data%2C+and+the+need+for+advanced+vector+search+capabilities.+However%2C+integrated+vector+databases+face+challenges+in+performance+an%3C%2Fdiv%3E+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fprof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases%2F%29&location=DBH%203011&trp=false&ctz=America/Los_Angeles&sprop=website:https://isg.ics.uci.edu', 'webcal://isg.ics.uci.edu/event/prof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases/?ical=1', 'https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-01-23T13:00:00-08:00&enddt=2026-01-23T14:00:00-08:00&location=DBH%203011&subject=Prof.%20Jianguo%20Wang%20%28Purdue%29%3A%20Databases%20for%20AI%3A%20The%20Case%20for%20Vector%20Databases&body=Title%3A%20Databases%20for%20AI%3A%20The%20Case%20for%20Vector%20Databases1%2F23%2F2026%2C%20FridayDBH%203011%2C%20UCIAbstract%3A%20Vector%20databases%20have%20recently%20emerged%20as%20a%20hot%20topic%20due%20to%20the%20widespread%20interest%20in%20LLMs%2C%20where%20they%20provide%20relevant%20context%20that%20enables%20LLMs%20to%20generate%20more%20accurate%20responses.%20Current%20vector%20databases%20can%20be%20broadly%20categorized%20into%20two%20types%3A%20specialized%20and%20integrated.%20Specialized%20vector%20databases%20are%20explicitly%20designed%20for%20managing%20vector%20data%2C%20while%20integrated%20vector%20databases%20support%20vector%20search%20within%20existing%20database%20systems%20%28mostly%20relational%20databases%29.%20While%20specialized%20vector%20databases%20are%20interesting%2C%20there%20is%20a%20significant%20customer%20base%20interested%20in%20integrated%20vector%20databases%20for%20various%20reasons%2C%20such%20as%20reluctance%20to%20move%20data%20out%2C%20the%20desire%20to%20link%20vector%20embeddings%20with%20their%20source%20data%2C%20and%20the%20need%20for%20advanced%20vector%20search%20capabilities.%20However%2C%20int%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fprof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases%2F%29', 'https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-01-23T13:00:00-08:00&enddt=2026-01-23T14:00:00-08:00&location=DBH%203011&subject=Prof.%20Jianguo%20Wang%20%28Purdue%29%3A%20Databases%20for%20AI%3A%20The%20Case%20for%20Vector%20Databases&body=Title%3A%20Databases%20for%20AI%3A%20The%20Case%20for%20Vector%20Databases1%2F23%2F2026%2C%20FridayDBH%203011%2C%20UCIAbstract%3A%20Vector%20databases%20have%20recently%20emerged%20as%20a%20hot%20topic%20due%20to%20the%20widespread%20interest%20in%20LLMs%2C%20where%20they%20provide%20relevant%20context%20that%20enables%20LLMs%20to%20generate%20more%20accurate%20responses.%20Current%20vector%20databases%20can%20be%20broadly%20categorized%20into%20two%20types%3A%20specialized%20and%20integrated.%20Specialized%20vector%20databases%20are%20explicitly%20designed%20for%20managing%20vector%20data%2C%20while%20integrated%20vector%20databases%20support%20vector%20search%20within%20existing%20database%20systems%20%28mostly%20relational%20databases%29.%20While%20specialized%20vector%20databases%20are%20interesting%2C%20there%20is%20a%20significant%20customer%20base%20interested%20in%20integrated%20vector%20databases%20for%20various%20reasons%2C%20such%20as%20reluctance%20to%20move%20data%20out%2C%20the%20desire%20to%20link%20vector%20embeddings%20with%20their%20source%20data%2C%20and%20the%20need%20for%20advanced%20vector%20search%20capabilities.%20However%2C%20int%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fprof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases%2F%29', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/UCI-ISG-965050277023871/?modal=admin_todo_tour', 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fprof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases', 'https://twitter.com/UciIsg', 'https://twitter.com/UciIsg', 'https://twitter.com/intent/user?screen_name=@UciIsg', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/groups/2817015/', 'https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fisg.ics.uci.edu%2Fevent%2Fprof-jianguo-wang-purdue-databases-for-ai-the-case-for-vector-databases']
+
+
+Failed to retrieve https://informatics.ics.uci.edu/people. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ http://www.ics.uci.edu/~willmlam, Status: 200, Error: None
+
+Most Words: 488 (http://www.ics.uci.edu/~willmlam)
+These are the top 10 words after scraping: http://www.ics.uci.edu/~willmlam
+phd => 25
+databases => 23
+research => 22
+vector => 21
+search => 15
+systems => 15
+william => 14
+lam => 14
+computer => 13
+uc => 12
+
+Found and enqueued the following links:
+ ['http://www.cs.uci.edu', 'http://www.ics.uci.edu/~dechter/']
+
+Found and skipped the following links:
+ ['./', 'courses/', 'teaching/', 'http://www.uci.edu', 'http://www.google.com/recaptcha/mailhide/d?k=01Qwkslud7wszGdMuwIj6mnQ==&c=8FlPmL-zo_482WOLnIm9v4aYXpwoxrRsTvcs0pVLOaM=', 'http://rlair.cs.ucr.edu', 'http://www.cs.ucr.edu/~cshelton', 'http://rlair.cs.ucr.edu/ctbnrle', 'http://www.ics.uci.edu/~dechter/publications/r237.pdf', 'pubs/jcss18-so.pdf', 'https://doi.org/10.1016/j.jcss.2017.10.003', 'pubs/jair17-lh.pdf', 'http://jmlr.csail.mit.edu/papers/v11/shelton10a.html', 'pubs/ecai16-aobf.pdf', 'pubs/aaai16-lh.pdf', 'pubs/socs15-lh.pdf', 'pubs/socs14ics.pdf', 'pubs/benchmark_discml13.pdf', 'pubs/cpdp12aomdd.pdf', 'pubs/cpdp12aomdd_long.pdf', 'pubs/factuniform.pdf']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2020/10/fall-2020, Status: 200, Error: None
+
+Most Words: 1435 (https://cml.ics.uci.edu/2020/10/fall-2020)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2020/10/fall-2020
+research => 36
+learning => 36
+university => 28
+phd => 27
+computer => 25
+machine => 24
+databases => 23
+will => 22
+systems => 21
+vector => 21
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/home/contact-us/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2020/10/fall-2020/', 'https://cml.ics.uci.edu/category/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://www.ics.uci.edu/~scottcb/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/2020/09/rina-dechter-receives-ai-journals-classic-paper-award/', 'https://cml.ics.uci.edu/2021/01/winter-2021/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://cse.sc.edu/~foresta/', 'https://youtu.be/shwYW9yEAIQ', 'http://deepcube.igb.uci.edu/', 'http://www.stephanmandt.com/', 'https://youtu.be/Z8juQKrCkmk', 'https://hpi.de/en/research/research-groups/digital-health-machine-learning.html', 'https://youtu.be/zElgAKf4AhE', 'https://youtu.be/CpGfCA92rMw', '\nhttps://iopscience.iop.org/article/10.1088/2632-2153/abb6d2', 'https://scholar.google.com/citations?user=40QzNXMAAAAJ&hl=en', 'https://youtu.be/Uncc5y7g8Is', 'https://web.eecs.umich.edu/~karem/', 'https://youtu.be/5A5dTRo50EQ', 'https://panageas.github.io/', 'https://youtu.be/4cepfWDiL3A', 'https://deqings.github.io/', 'https://youtu.be/N3y_K1ewkL0', 'https://neurips.cc/', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2020/09/rina-dechter-receives-ai-journals-classic-paper-award, Status: 200, Error: None
+
+Most Words: 1435 (https://cml.ics.uci.edu/2020/10/fall-2020)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2020/09/rina-dechter-receives-ai-journals-classic-paper-award
+learning => 40
+research => 36
+university => 29
+machine => 28
+phd => 27
+computer => 26
+systems => 24
+databases => 23
+will => 22
+vector => 21
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/home/contact-us/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2020/09/rina-dechter-receives-ai-journals-classic-paper-award/', 'https://cml.ics.uci.edu/category/news/', 'https://www.ics.uci.edu/community/news/view_news?id=1866', 'https://cml.ics.uci.edu/2020/07/sameer-singh-wins-best-paper-award-at-acl-2020/', 'https://cml.ics.uci.edu/2020/10/fall-2020/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'http://aij.ijcai.org/index.php/aij-awards-classic-paper', 'https://www.sciencedirect.com/science/article/abs/pii/0004370291900066', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2020/07/sameer-singh-wins-best-paper-award-at-acl-2020, Status: 200, Error: None
+
+Most Words: 1435 (https://cml.ics.uci.edu/2020/10/fall-2020)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2020/07/sameer-singh-wins-best-paper-award-at-acl-2020
+learning => 44
+research => 38
+machine => 32
+university => 31
+systems => 28
+computer => 27
+phd => 27
+award => 24
+databases => 23
+will => 22
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/home/contact-us/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2020/07/sameer-singh-wins-best-paper-award-at-acl-2020/', 'https://cml.ics.uci.edu/category/news/', 'https://www.ics.uci.edu/community/news/view_news?id=1817', 'https://cml.ics.uci.edu/2020/02/uci-and-disney-research-scientists-develop-ai-enhanced-video-compression-model/', 'https://cml.ics.uci.edu/2020/09/rina-dechter-receives-ai-journals-classic-paper-award/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://acl2020.org/blog/ACL-2020-best-papers/', 'http://sameersingh.org/', 'https://arxiv.org/abs/2005.04118', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2020/02/uci-and-disney-research-scientists-develop-ai-enhanced-video-compression-model, Status: 200, Error: None
+
+Most Words: 1435 (https://cml.ics.uci.edu/2020/10/fall-2020)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2020/02/uci-and-disney-research-scientists-develop-ai-enhanced-video-compression-model
+learning => 49
+research => 42
+machine => 36
+university => 33
+systems => 32
+computer => 30
+phd => 27
+award => 25
+databases => 23
+uci => 22
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/home/contact-us/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2020/02/uci-and-disney-research-scientists-develop-ai-enhanced-video-compression-model/', 'https://cml.ics.uci.edu/category/news/', 'https://www.ics.uci.edu/community/news/view_news?id=1714', 'https://cml.ics.uci.edu/2020/01/upgrading-the-uci-ml-repository/', 'https://cml.ics.uci.edu/2020/07/sameer-singh-wins-best-paper-award-at-acl-2020/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://papers.nips.cc/paper/9127-deep-generative-video-compression.pdf', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ https://cml.ics.uci.edu/2020/01/upgrading-the-uci-ml-repository, Status: 200, Error: None
+
+Most Words: 1435 (https://cml.ics.uci.edu/2020/10/fall-2020)
+These are the top 10 words after scraping: https://cml.ics.uci.edu/2020/01/upgrading-the-uci-ml-repository
+learning => 57
+research => 46
+machine => 44
+systems => 35
+university => 34
+computer => 31
+uci => 28
+phd => 27
+award => 25
+ai => 23
+
+Found and enqueued the following links:
+ ['https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/home/about-us/', 'https://cml.ics.uci.edu/category/news/', 'https://cml.ics.uci.edu/home/contact-us/', 'https://cml.ics.uci.edu/faculty/', 'https://cml.ics.uci.edu/alumni/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/', 'https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/', 'https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/', 'https://cml.ics.uci.edu/aiml/ml-reading-group/', 'https://cml.ics.uci.edu/courses/', 'https://cml.ics.uci.edu/books/', 'http://www.ics.uci.edu/~mlearn/MLRepository.html', 'https://cml.ics.uci.edu/sponsors-funding/', 'https://cml.ics.uci.edu/subscribe/', 'https://cml.ics.uci.edu/2020/01/upgrading-the-uci-ml-repository/', 'https://cml.ics.uci.edu/category/news/', 'https://www.ics.uci.edu/~smyth/', 'https://www.ics.uci.edu/community/news/view_news?id=1643', 'https://cml.ics.uci.edu/2020/01/winter-2020/', 'https://cml.ics.uci.edu/2020/02/uci-and-disney-research-scientists-develop-ai-enhanced-video-compression-model/', 'http://cml.ics.uci.edu']
+
+Found and skipped the following links:
+ ['#content', 'https://archive.ics.uci.edu/ml/index.php', 'http://sameersingh.org/', 'https://users.sdsc.edu/~phil/homepage.html', 'https://rcic.uci.edu/index.html', 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925741', 'http://wordpress.org/', 'http://www.wpzoom.com/']
+
+
+
+Pressed Ctrl+C. Returning the top 50 words detected so far
+
+learning => 57
+research => 46
+machine => 44
+systems => 35
+university => 34
+computer => 31
+uci => 28
+phd => 27
+award => 25
+ai => 23
+ml => 23
+databases => 23
+search => 22
+will => 22
+center => 21
+science => 21
+vector => 21
+2020 => 21
+seminar => 20
+news => 20
+us => 20
+cml => 20
+irvine => 19
+intelligent => 19
+information => 17
+professor => 16
+stream => 15
+paper => 15
+dechter => 15
+william => 14
+lam => 14
+rina => 14
+uc => 13
+data => 13
+series => 12
+faculty => 12
+california => 12
+pm => 12
+https => 12
+deep => 12
+group => 11
+researcher => 11
+2015 => 11
+alumni => 10
+bren => 10
+school => 10
+engineering => 10
+google => 10
+received => 10
+models => 10
+total unique pages: 109

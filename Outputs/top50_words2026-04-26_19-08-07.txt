@@ -1,0 +1,63 @@
+Top 50 words found so far:
+learning => 57
+research => 46
+machine => 44
+systems => 35
+university => 34
+computer => 31
+uci => 28
+phd => 27
+award => 25
+ai => 23
+ml => 23
+databases => 23
+search => 22
+will => 22
+center => 21
+science => 21
+vector => 21
+2020 => 21
+seminar => 20
+news => 20
+us => 20
+cml => 20
+irvine => 19
+intelligent => 19
+information => 17
+professor => 16
+stream => 15
+paper => 15
+dechter => 15
+william => 14
+lam => 14
+rina => 14
+uc => 13
+data => 13
+series => 12
+faculty => 12
+california => 12
+pm => 12
+https => 12
+deep => 12
+group => 11
+researcher => 11
+2015 => 11
+alumni => 10
+bren => 10
+school => 10
+engineering => 10
+google => 10
+received => 10
+models => 10
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 109
+cml.ics.uci.edu, 23
+ics.uci.edu, 33
+informatics.ics.uci.edu, 9
+isg.ics.uci.edu, 25
+oai.ics.uci.edu, 1
+www.cs.uci.edu, 1
+www.ics.uci.edu, 11
+www.informatics.uci.edu, 6
+Most Words: 1435 (https://cml.ics.uci.edu/2020/10/fall-2020)
