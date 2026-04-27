@@ -25,10 +25,10 @@ blacklist = {"wiki.ics", "grape.ics",
             "wics.ics.uci.edu/winter-200", "wics.ics.uci.edu/summer-200",
             "web.archive", "archive.ics", "/ml/", "twitter", "facebook", "instagram", "linkedin", "youtube",
             "share=", ".com"} #terms in url that flag that you should not crawl them
+"wiki.ics", 
 '''
-
 blacklist = {
-    "wiki.ics", "grape.ics", "intranet.ics",
+    "grape.ics", "intranet.ics", "doku.php/ai", "doku.php/wiki", "doku.php/webapps",
     "events/month", "events/week", "events/20", "events/1", "events/tags",
     "tribe-bar-date=200","tribe-bar-date=2016", "tribe-bar-date=203",
     "ics.uci.edu/events/month", "ics.uci.edu/events/2", "ics.uci.edu/events/week",
