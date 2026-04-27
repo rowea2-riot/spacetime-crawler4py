@@ -1,0 +1,99 @@
+Failed to retrieve https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989. Status code: 608. Error: Denied by domain robot rules.
+
+SEARCHING THE FOLLOWING URL:
+ http://swiki.ics.uci.edu/doku.php/accounts:welcome_message, Status: 200, Error: None
+
+Most Words: 634 (http://swiki.ics.uci.edu/doku.php/accounts:welcome_message)
+These are the top 10 words after scraping: http://swiki.ics.uci.edu/doku.php/accounts:welcome_message
+ics => 49
+bren => 30
+information => 14
+support => 11
+resources => 10
+cs => 10
+computing => 9
+access => 9
+welcome => 8
+software => 8
+
+Found and enqueued the following links:
+ ['http://swiki.ics.uci.edu/doku.php/start', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=revisions', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=backlink', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=recent', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=media&ns=accounts', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=index', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message', 'http://swiki.ics.uci.edu/doku.php/accounts:accounts', 'http://swiki.ics.uci.edu/doku.php/accounts:email:email', 'http://swiki.ics.uci.edu/doku.php/accounts:account_activation', 'http://swiki.ics.uci.edu/doku.php/accounts:ethics', 'http://swiki.ics.uci.edu/doku.php/accounts:fuse-sshfs', 'http://swiki.ics.uci.edu/doku.php/accounts:gsu', 'http://swiki.ics.uci.edu/doku.php/accounts:ics_google_apps', 'http://swiki.ics.uci.edu/doku.php/accounts:ics_home_directory', 'http://swiki.ics.uci.edu/doku.php/accounts:new_user_guide', 'http://swiki.ics.uci.edu/doku.php/accounts:password_change_reset', 'http://swiki.ics.uci.edu/doku.php/accounts:quota', 'http://swiki.ics.uci.edu/doku.php/accounts:snapshots', 'http://swiki.ics.uci.edu/doku.php/accounts:ssh_keys', 'http://swiki.ics.uci.edu/doku.php/accounts:using_vscode_with_openlab', 'http://swiki.ics.uci.edu/doku.php/accounts:using_vscode_with_slurm', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message', 'http://swiki.ics.uci.edu/doku.php/announce:announce', 'http://swiki.ics.uci.edu/doku.php/backups:backups', 'http://swiki.ics.uci.edu/doku.php/commands:commands', 'http://swiki.ics.uci.edu/doku.php/group:group', 'http://swiki.ics.uci.edu/doku.php/hardware:hardware', 'http://swiki.ics.uci.edu/doku.php/instructional_support:instructional_support', 'http://swiki.ics.uci.edu/doku.php/network:network', 'http://swiki.ics.uci.edu/doku.php/policies:policies', 'http://swiki.ics.uci.edu/doku.php/remote_support:remote_support', 'http://swiki.ics.uci.edu/doku.php/requesttracker:requesttracker', 'http://swiki.ics.uci.edu/doku.php/research_support:research_support', 'http://swiki.ics.uci.edu/doku.php/security:security', 'http://swiki.ics.uci.edu/doku.php/services:services', 'http://swiki.ics.uci.edu/doku.php/software:software', 'http://swiki.ics.uci.edu/doku.php/virtual_environments:virtual_environments', 'https://www.ics.uci.edu/~lab/lab_schedule/index.php', 'https://www.ics.uci.edu/~lab/labs_specs/software.php', 'https://www.ics.uci.edu/~lab/labs_specs/hardware.php', 'https://www.ics.uci.edu/~lab/students/printing.php', 'http://swiki.ics.uci.edu/doku.php/remote_support:remote_support', 'http://swiki.ics.uci.edu/doku.php/accounts:mapping_network_drive', 'http://swiki.ics.uci.edu/doku.php/accounts:snapshots', 'http://swiki.ics.uci.edu/doku.php/accounts:quota', 'http://swiki.ics.uci.edu/doku.php/instructional_support:openlab', 'http://swiki.ics.uci.edu/doku.php/services:slurm', 'http://swiki.ics.uci.edu/doku.php/accounts:personal_web_space', 'http://swiki.ics.uci.edu/doku.php/commands:modules', 'http://swiki.ics.uci.edu/doku.php/accounts:new_user_guide', 'http://www.ics.uci.edu/computing/contact/who.php', 'http://www.ics.uci.edu/computing/contact/helpdesk.php', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=edit', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=revisions', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=backlink', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=export_pdf']
+
+Found and skipped the following links:
+ ['#', '#', '#', 'http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=login§ok=', '#', 'http://swiki.ics.uci.edu/doku.php/storage?idx=storage', 'http://swiki.ics.uci.edu/doku.php/webapps:webapps', 'http://swiki.ics.uci.edu/doku.php/wiki:wiki', 'http://swiki.ics.uci.edu/doku.php/ai', '#welcome_to_bren_ics', '#getting_started', '#using_ics_computing_resources', '#computer_labs', '#printing', '#wifi', '#connecting_from_off-campus', '#storage', '#linux_openlab_slurm', '#personal_web_page', '#obtaining_software', '#modules', '#new-user_guide', '#if_you_need_more_help', '#helpdesk', 'http://www.oit.uci.edu/labs/printing/', 'http://www.oit.uci.edu/mobile/', 'http://www.oit.uci.edu/vpn/', '#dokuwiki__top', 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en', 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=export_pdf, Status: 200, Error: None
+
+Most Words: 2217 (http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=export_pdf)
+These are the top 10 words after scraping: http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=export_pdf
+00000 => 66
+obj => 63
+endobj => 63
+ics => 49
+bren => 30
+information => 14
+cs => 12
+stream => 12
+support => 11
+resources => 11
+
+No valid links found on this page.
+
+
+
+Pressed Ctrl+C. Returning the top 50 words detected so far
+
+00000 => 66
+obj => 63
+endobj => 63
+ics => 49
+bren => 30
+information => 14
+cs => 12
+stream => 12
+support => 11
+resources => 11
+computing => 9
+access => 9
+endstream => 9
+welcome => 8
+software => 8
+computer => 8
+see => 8
+linux => 7
+storage => 7
+web => 7
+labs => 7
+sj => 7
+page => 6
+lab => 6
+def => 6
+0000 => 6
+wiki => 5
+use => 5
+slurm => 5
+network => 5
+need => 5
+available => 5
+will => 5
+students => 5
+can => 5
+following => 5
+oit => 5
+vpn => 5
+12 => 5
+ej => 5
+vj => 5
+account => 4
+remote => 4
+guide => 4
+contents => 4
+using => 4
+off-campus => 4
+openlab => 4
+personal => 4
+modules => 4
+total unique pages: 50

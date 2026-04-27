@@ -6,6 +6,7 @@ from urllib.parse import urlparse, urldefrag
 import builtins
 from stop_words import get_stop_words
 from urllib.parse import urljoin
+import string
 
 url_dict = {}
 
@@ -25,11 +26,11 @@ blacklist = {"wiki.ics", "grape.ics",
             "wics.ics.uci.edu/winter-200", "wics.ics.uci.edu/summer-200",
             "web.archive", "archive.ics", "/ml/", "twitter", "facebook", "instagram", "linkedin", "youtube",
             "share=", ".com"} #terms in url that flag that you should not crawl them
-"wiki.ics", 
+ 
 '''
 blacklist = {
-    "grape.ics", "intranet.ics", "doku.php/ai", "doku.php/wiki", "doku.php/webapps", "doku.php/projects",
-    "events/month", "events/week", "events/20", "events/1", "events/tags",
+    "grape.ics", "intranet.ics", "wiki.ics",
+    "events/month", "events/week", "events/201", "events/203", "events/1", "events/tags",
     "tribe-bar-date=200","tribe-bar-date=2016", "tribe-bar-date=203",
     "ics.uci.edu/events/month", "ics.uci.edu/events/2", "ics.uci.edu/events/week",
     "isg.ics.uci.edu/events/tag/talk",
@@ -165,19 +166,22 @@ def tokenize_content(url: str, content: str):
         # Get English stop words using language code
         # Or use the full language name
         
+        translator = str.maketrans('', '', string.punctuation) #maps puctuation to nothing
         token_lst = []
         total_words_found: int = 0
         left: int = 0
         right: int = 0 #Added since warning message appeared about being used before declared
         for right in range(len(content)):
             char = content[right]
-            char_is_tokenable: bool = char.isalnum() or char == "'" or char == '-'
-            if not char_is_tokenable: # if char is alphanumeric or ' or -, add to current word
+            char_is_tokenable: bool = char.isalnum() or (char in string.punctuation)
+            if not char_is_tokenable: # if char is alphanumeric or punctuation, add to current word
                 if right > left:
-                    word = content[left:right].lower()
+                    word = content[left:right].lower() #get chunk of text where token is
                     #TODO get rid of len(word) > 1 and figure out better method for acronyms
                     if word not in stop_words and len(word) > 1:
                         total_words_found += 1
+
+                        word = word.translate(translator) #remove punctuation (hyphens, periods, commas, etc.)
                         token_lst.append(word)
                 left = right + 1
 

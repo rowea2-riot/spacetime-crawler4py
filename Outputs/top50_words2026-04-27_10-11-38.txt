@@ -1,0 +1,78 @@
+Top 50 words found so far:
+support => 1084
+wiki => 982
+learning => 978
+media => 855
+files => 843
+pasted => 719
+ics => 687
+webapps => 647
+search => 636
+machine => 580
+research => 563
+will => 539
+computer => 529
+models => 516
+environments => 511
+virtual => 490
+data => 486
+upload => 479
+png => 475
+signage => 472
+services => 470
+university => 440
+history => 412
+group => 411
+science => 407
+snapshot => 385
+systems => 367
+file => 359
+software => 356
+27 => 343
+windows => 333
+16 => 332
+courses => 332
+01 => 326
+can => 324
+policies => 324
+backups => 321
+ai => 314
+instructional => 314
+page => 313
+security => 312
+date => 307
+commands => 305
+projects => 303
+site => 303
+accounts => 303
+backup => 300
+hardware => 298
+linux => 296
+revisionsbacklinks => 292
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 870
+cml.ics.uci.edu, 103
+courselisting.ics.uci.edu, 1
+create.ics.uci.edu, 1
+cs.ics.uci.edu, 1
+fr.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+hpi.ics.uci.edu, 1
+ics.uci.edu, 92
+industryshowcase.ics.uci.edu, 1
+luci.ics.uci.edu, 1
+myip.ics.uci.edu, 1
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+swiki.ics.uci.edu, 582
+tutoring.ics.uci.edu, 1
+vision.ics.uci.edu, 14
+wiki.ics.uci.edu, 1
+www.cs.uci.edu, 2
+www.ics.uci.edu, 48
+www.informatics.uci.edu, 2
+www.stat.uci.edu, 1
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)

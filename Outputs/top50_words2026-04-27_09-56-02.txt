@@ -1,0 +1,57 @@
+Top 50 words found so far:
+00000 => 66
+obj => 63
+endobj => 63
+ics => 49
+bren => 30
+information => 14
+cs => 12
+stream => 12
+support => 11
+resources => 11
+computing => 9
+access => 9
+endstream => 9
+welcome => 8
+software => 8
+computer => 8
+see => 8
+linux => 7
+storage => 7
+web => 7
+labs => 7
+sj => 7
+page => 6
+lab => 6
+def => 6
+0000 => 6
+wiki => 5
+use => 5
+slurm => 5
+network => 5
+need => 5
+available => 5
+will => 5
+students => 5
+can => 5
+following => 5
+oit => 5
+vpn => 5
+12 => 5
+ej => 5
+vj => 5
+account => 4
+remote => 4
+guide => 4
+contents => 4
+using => 4
+off-campus => 4
+openlab => 4
+personal => 4
+modules => 4
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 50
+swiki.ics.uci.edu, 44
+www.ics.uci.edu, 6
+Most Words: 2217 (http://swiki.ics.uci.edu/doku.php/accounts:welcome_message?do=export_pdf)
