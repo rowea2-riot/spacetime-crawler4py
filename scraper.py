@@ -88,6 +88,16 @@ def extract_next_links(url, resp):
         log(f"Failed to retrieve {url}. Status code: {status}. Error: {error}")
         return []
     
+    content_len = raw_response.headers.get("Content-Length")
+    if content_len is not None:
+        try:
+            content_length = int(content_length)  # Convert to integer
+            if content_len > 2048000:
+                log(f"Content length for {actual_url} surpasses the validity check: {content_length} bytes")
+                return []
+        except ValueError:
+            print("Invalid Content-Length header value.")
+
     content = raw_response.content # resp.raw_response.content: the content of the page!
     actual_url = resp.url # resp.url: the actual url of the page, resp.raw_response.url: the url, again
     
