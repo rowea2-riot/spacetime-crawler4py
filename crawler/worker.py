@@ -32,3 +32,6 @@ class Worker(Thread):
                 self.frontier.add_url(scraped_url)
             self.frontier.mark_url_complete(tbd_url)
             time.sleep(self.config.time_delay)
+
+        filename = f"Outputs/CompletedOutput.txt"
+        scraper.save_top_50_to_file(filename)
