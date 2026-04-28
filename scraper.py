@@ -141,8 +141,6 @@ def extract_next_links(url, resp):
 
     #in tokenizer, before adding a token to the list, check if in stop word list, if so, throw out
 
-    #TODO write URL to a file in case of crash (should be after everything so program doesn't assume it was scaped if it doesn't make it this far)
-
     return links # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
 
 def log(string):
@@ -200,8 +198,6 @@ def tokenize_content(url: str, content: str):
         #Add tokens to dict
         #3. What are the 50 most common words in the entire set of pages crawled under these domains ? (Ignore English stop words, which can be found, for example, here Links to an external site.) Submit the list of common words ordered by frequency.
         computeWordFrequencies(token_lst)
-
-        #TODO update file containing tokens in case of crash
 
     except FileNotFoundError:
         builtins.print("File not found.")
