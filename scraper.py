@@ -8,26 +8,9 @@ from stop_words import get_stop_words
 from urllib.parse import urljoin
 import string
 
+#~~~keeps track of subdomains and how many times each has been visited~~~
 url_dict = {}
-
-'''
-blacklist = {"wiki.ics", "grape.ics",
-            "events/month", "events/week", "events/203", "events/201", "events/200", "events/1", "events/tags",
-            "tribe-bar-date=201", "tribe-bar-date=200", "tribe-bar-date=1",
-            "tribe-bar-date=203", "tribe-bar-date=204", "tribe-bar-date=205",
-            "tribe-bar-date=206", "tribe-bar-date=207", "tribe-bar-date=208",
-            "tribe-bar-date=209", "tribe-bar-date=21",
-            "outlook", "ical=", "isg.ics.uci.edu/news", "isg.ics.uci.edu/events/tag/talk/month/",
-            "isg.ics.uci.edu/events/tag/talk/list/?tribe-bar-date", "isg.ics.uci.edu/events/tag/talks/2",
-            "isg.ics.uci.edu/events/tag/talks/day",
-            "login", "http:", "wics.ics.uci.edu/events", "wics.ics.uci.edu/spring-201", "wics.ics.uci.edu/fall-201",
-            "wics.ics.uci.edu/winter-201", "wics.ics.uci.edu/summer-201",
-            "wics.ics.uci.edu/spring-200", "wics.ics.uci.edu/fall-200",
-            "wics.ics.uci.edu/winter-200", "wics.ics.uci.edu/summer-200",
-            "web.archive", "archive.ics", "/ml/", "twitter", "facebook", "instagram", "linkedin", "youtube",
-            "share=", ".com"} #terms in url that flag that you should not crawl them
- 
-'''
+#~~~strings that are not permitted in valid domains~~~
 blacklist = {
     "grape.ics", "intranet.ics", "wiki.ics",
     "events/month", "events/week", "events/201", "events/203", "events/1", "events/tags",
@@ -40,13 +23,14 @@ blacklist = {
     "web.archive", "archive.ics",
     "login", "share="
 }
-
+#~~~each valid domain must include one of the following~~~
 validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu"}
 token_dict = {}
 mostWords = -1
 mostWordsUrl = ""
 stop_words = get_stop_words('en')
 
+#~~~creates new log file to store which URLs are being scraped, queued, or skipped~~~
 def generate_new_log_file():
     logpath = "Outputs/log"
     logpath += datetime.now().strftime("%Y-%m-%d_%H-%M-%S") + ".txt"
@@ -57,15 +41,16 @@ def scraper(url, resp):
     links = extract_next_links(url, resp)
     return [link for link in links if is_valid(link)]
 
+#~~~returns how many total pages were found~~~
 def get_page_count():
     total_len = 0
     for pages in url_dict.values():
         total_len += len(pages)
     return total_len
 	
+#~~~removes fragment and increments counter for unique pages in url_dict~~~
 def parse_unique_url(url):
     #remove fragment
-    #2. Make sure to defragment the URLs, i.e. remove the fragment part.
     new_url, fragment = urldefrag(url)
     subdomain = urlparse(new_url).netloc
 
@@ -73,6 +58,7 @@ def parse_unique_url(url):
         url_dict[subdomain] = set()
     url_dict[subdomain].add(new_url)
     
+#~~~put the subdomains and how many times they were hit in sorted order~~~
 def log_subdomains(filename):
     log2(filename, "Subdomains and unique page counts:")
     log2(filename, "-----------------------------")
@@ -82,6 +68,7 @@ def log_subdomains(filename):
         unique_pages_len = len(url_dict[subdomain])
         log2(filename, f"{subdomain}, {unique_pages_len}")
 
+#~~~check if page was gotten successfully, and then call functions to tokenize content and check if embedded links are valid~~~
 def extract_next_links(url, resp):
     # Implementation required.
     # url: the URL that was used to get the page
@@ -143,6 +130,7 @@ def extract_next_links(url, resp):
 
     return links # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
 
+#~~~adding to output file(s)~~~
 def log(string):
     with open(logfile, "a") as file:
         file.write(f"{string}\n")
@@ -151,17 +139,14 @@ def log2(filename, string):
     with open(filename, "a") as file:
         file.write(f"{string}\n")
 
+#~~~tokenizing and storing file content~~~
 def tokenize_content(url: str, content: str):
     global mostWords
     global mostWordsUrl
     global stop_words
 
-    # TODO: These questions from the assignment writeup probably should be implemented here, since we have access to the content of the page here. You can also implement them in the crawler if you want, but it might be easier to do it here since we have the content of the page here.
-    #1. How many unique pages did you find? Uniqueness for the purposes of this assignment is ONLY established by the URL, but discarding the fragment part. So, for example, http://www.ics.uci.edu#aaa and http://www.ics.uci.edu#bbb are the same URL. Even if you implement additional methods for textual similarity detection, please keep considering the above definition of unique pages for the purposes of counting the unique pages in this assignment.
-    #4. How many subdomains did you find in the uci.edu domain? Submit the list of subdomains ordered alphabetically and the number of unique pages detected in each subdomain. The content of this list should be lines containing subdomain, number, for example:
-        #vision.ics.uci.edu, 10 (not the actual number here)
     try:
-        #got stop word code snippet from https://pypi.org/project/stop-words/
+        #---got stop word code snippet from https://pypi.org/project/stop-words/---
         # Get English stop words using language code
         # Or use the full language name
         
@@ -206,7 +191,7 @@ def tokenize_content(url: str, content: str):
 
         
 
-#For figuring out how often words show up
+#~~~for figuring out how often words show up~~~
 def computeWordFrequencies(token_lst):
     try:
         for word in token_lst:
@@ -236,12 +221,12 @@ def topWordFreq():
         if limiter >= 50:
             break
 '''
-#returns a sorted list of the top 50 most common words
+#~~~returns a sorted list of the top 50 most common words~~~
 def get_top_50_words():
     return sorted(token_dict.items(), key=lambda item: item[1], reverse=True)[:50]
 
 
-#saves the top 50 words to a file in outputs as well as in the log and puts a timestamp
+#~~~saves the top 50 words to a file in outputs as well as in the log and puts a timestamp~~~
 def save_top_50_to_file(filename=None):
     if filename is None:
         filename = f"Outputs/top50_words{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.txt"
@@ -255,13 +240,13 @@ def save_top_50_to_file(filename=None):
     log_subdomains(filename=filename)
     log2(filename, "Most Words: " + str(mostWords) + " (" + str(mostWordsUrl) + ")")
 
-#logs that Ctrl+C was pressed and saves the top 50 words to a file
+#~~~logs that Ctrl+C was pressed and saves the top 50 words to a file~~~
 def handle_interrupt():
     log("\nPressed Ctrl+C. Returning the top 50 words detected so far\n")
     save_top_50_to_file()
     log(f"total unique pages: {get_page_count()}")
 
-#logs the top 10 most common words to the log file
+#~~~logs the top 10 most common words to the log file~~~
 def topWordFreq(current_url=None):
     log("Most Words: " + str(mostWords) + " (" + str(mostWordsUrl) + ")")
     top_50 = get_top_50_words()
@@ -277,11 +262,8 @@ def topWordFreq(current_url=None):
             break
     log("")
 
+#~~~decide whether to crawl this url or not~~~
 def is_valid(url):
-    # Decide whether to crawl this url or not. 
-    # If you decide to crawl it, return True; otherwise return False.
-    # There are already some conditions that return False.
-
     try:
         if any(nono in url for nono in blacklist):
             return False
@@ -307,6 +289,7 @@ def is_valid(url):
         print ("TypeError for ", parsed)
         raise
 
+#~~~test code for blacklist~~~
 def test_blacklist():
     #assert is_valid("http://www.ics.uci.edu/calendar") == False
     #assert is_valid("http://www.ics.uci.edu/portal") == False   
