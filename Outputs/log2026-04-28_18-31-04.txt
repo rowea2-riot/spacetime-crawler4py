@@ -188,3 +188,6 @@ Found and skipped the following links:
 
 
 Failed to retrieve https://ics.uci.edu/people/andre-van-der-hoek. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/people/bill-tomlinson. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/people/veronica-berrocal. Status code: 608. Error: Denied by domain robot rules.
+Failed to retrieve https://ics.uci.edu/people/arkajyoti-arka-saha. Status code: 608. Error: Denied by domain robot rules.
