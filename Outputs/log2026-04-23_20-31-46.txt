@@ -1,0 +1,101 @@
+
+SEARCHING THE FOLLOWING URL:
+ http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01, Status: 200, Error: None
+
+Most Words: 147 (http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01)
+These are the top 10 words after scraping: http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01
+events => 11
+11 => 4
+01 => 4
+1980 => 4
+ghc => 4
+search => 4
+day => 4
+social => 3
+wics => 3
+calendar => 3
+
+Found and enqueued the following links:
+ ['http://wics.ics.uci.edu/', 'http://wics.ics.uci.edu', 'https://wics.ics.uci.edu/about-us/', 'http://wics.ics.uci.edu/about-us/', 'http://wics.ics.uci.edu/officers/', 'http://wics.ics.uci.edu/previous-officers/', 'http://wics.ics.uci.edu/awards-and-accomplishments/', 'http://wics.ics.uci.edu/history-of-wics/', 'https://wics.ics.uci.edu/events', 'http://wics.ics.uci.edu/events', 'http://wics.ics.uci.edu/category/news/', 'http://wics.ics.uci.edu/ghc-2025/', 'http://wics.ics.uci.edu/ghc-2024/', 'http://wics.ics.uci.edu/ghc-2023/', 'http://wics.ics.uci.edu/ghc-2022/', 'https://wics.ics.uci.edu/about-community-outreach/', 'http://wics.ics.uci.edu/about-community-outreach/', 'http://wics.ics.uci.edu/scratch-a-thon-2026/', 'http://wics.ics.uci.edu/netwics-2023/', 'http://wics.ics.uci.edu/irishacks-2023/', 'https://wics.ics.uci.edu/join-us/', 'http://wics.ics.uci.edu/join-us/', 'http://wics.ics.uci.edu/our-mentorship-program/', 'http://wics.ics.uci.edu/committee-applications-faq/', 'https://wics.ics.uci.edu/merch/', 'http://wics.ics.uci.edu/merch/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/2026-02-02/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/2026-02-02/', 'http://wics.ics.uci.edu/events/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/1980-11/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-10-31/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-02/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/today/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-10-31/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-02/']
+
+Found and skipped the following links:
+ ['#content', '#', 'http://wics.ics.uci.edu/apply-to-wics-committee/', 'https://wics.ics.uci.edu/contact/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/list/?tribe-bar-date=1980-11-01', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwics.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe_events_cat%3Dsocial%26tribe-bar-date%3D1980-11-01%26ical%3D1%26eventDisplay%3Dlist', 'webcal://wics.ics.uci.edu/?post_type=tribe_events&tribe_events_cat=social&tribe-bar-date=1980-11-01&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fwics.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe_events_cat%253Dsocial%2526tribe-bar-date%253D1980-11-01%2526eventDisplay%253Dlist%26ical%3D1&name=Women+in+Information+and+Computer+Sciences+Events+%E2%80%93+Women+in+Information+and+Computer+Sciences', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fwics.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe_events_cat%253Dsocial%2526tribe-bar-date%253D1980-11-01%2526eventDisplay%253Dlist%26ical%3D1&name=Women+in+Information+and+Computer+Sciences+Events+%E2%80%93+Women+in+Information+and+Computer+Sciences', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01/?ical=1', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01/?outlook-ical=1', 'http://wics.ics.uci.edu/contact/', 'https://www.instagram.com/wicsuci/', 'https://tr.ee/HcqwlpBtam', 'https://www.linkedin.com/company/wics-uci', 'https://linktr.ee/wicsuci?utm_source=linktree_profile_share&ltsid=f479699c-4825-4664-b346-f9c4d35146de', 'https://medium.com/@wics.uci.vp', 'http://www.acmethemes.com/', 'https://www.facebook.com/groups/women.in.ics/', 'https://www.instagram.com/wicsuci', 'https://twitter.com/wicsuci', '#page']
+
+
+
+SEARCHING THE FOLLOWING URL:
+ http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-02, Status: 200, Error: None
+
+Most Words: 147 (http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01)
+These are the top 10 words after scraping: http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-02
+events => 22
+11 => 8
+1980 => 8
+ghc => 8
+search => 8
+day => 8
+social => 6
+wics => 6
+calendar => 6
+2023 => 6
+
+Found and enqueued the following links:
+ ['http://wics.ics.uci.edu/', 'http://wics.ics.uci.edu', 'https://wics.ics.uci.edu/about-us/', 'http://wics.ics.uci.edu/about-us/', 'http://wics.ics.uci.edu/officers/', 'http://wics.ics.uci.edu/previous-officers/', 'http://wics.ics.uci.edu/awards-and-accomplishments/', 'http://wics.ics.uci.edu/history-of-wics/', 'https://wics.ics.uci.edu/events', 'http://wics.ics.uci.edu/events', 'http://wics.ics.uci.edu/category/news/', 'http://wics.ics.uci.edu/ghc-2025/', 'http://wics.ics.uci.edu/ghc-2024/', 'http://wics.ics.uci.edu/ghc-2023/', 'http://wics.ics.uci.edu/ghc-2022/', 'https://wics.ics.uci.edu/about-community-outreach/', 'http://wics.ics.uci.edu/about-community-outreach/', 'http://wics.ics.uci.edu/scratch-a-thon-2026/', 'http://wics.ics.uci.edu/netwics-2023/', 'http://wics.ics.uci.edu/irishacks-2023/', 'https://wics.ics.uci.edu/join-us/', 'http://wics.ics.uci.edu/join-us/', 'http://wics.ics.uci.edu/our-mentorship-program/', 'http://wics.ics.uci.edu/committee-applications-faq/', 'https://wics.ics.uci.edu/merch/', 'http://wics.ics.uci.edu/merch/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/2026-02-02/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/2026-02-02/', 'http://wics.ics.uci.edu/events/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/1980-11/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-02/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-03/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/today/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-03/']
+
+Found and skipped the following links:
+ ['#content', '#', 'http://wics.ics.uci.edu/apply-to-wics-committee/', 'https://wics.ics.uci.edu/contact/', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/list/?tribe-bar-date=1980-11-02', 'https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwics.ics.uci.edu%2F%3Fpost_type%3Dtribe_events%26tribe_events_cat%3Dsocial%26tribe-bar-date%3D1980-11-02%26ical%3D1%26eventDisplay%3Dlist', 'webcal://wics.ics.uci.edu/?post_type=tribe_events&tribe_events_cat=social&tribe-bar-date=1980-11-02&ical=1&eventDisplay=list', 'https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fwics.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe_events_cat%253Dsocial%2526tribe-bar-date%253D1980-11-02%2526eventDisplay%253Dlist%26ical%3D1&name=Women+in+Information+and+Computer+Sciences+Events+%E2%80%93+Women+in+Information+and+Computer+Sciences', 'https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%253A%252F%252Fwics.ics.uci.edu%252F%253Fpost_type%253Dtribe_events%2526tribe_events_cat%253Dsocial%2526tribe-bar-date%253D1980-11-02%2526eventDisplay%253Dlist%26ical%3D1&name=Women+in+Information+and+Computer+Sciences+Events+%E2%80%93+Women+in+Information+and+Computer+Sciences', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-02/?ical=1', 'http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-02/?outlook-ical=1', 'http://wics.ics.uci.edu/contact/', 'https://www.instagram.com/wicsuci/', 'https://tr.ee/HcqwlpBtam', 'https://www.linkedin.com/company/wics-uci', 'https://linktr.ee/wicsuci?utm_source=linktree_profile_share&ltsid=f479699c-4825-4664-b346-f9c4d35146de', 'https://medium.com/@wics.uci.vp', 'http://www.acmethemes.com/', 'https://www.facebook.com/groups/women.in.ics/', 'https://www.instagram.com/wicsuci', 'https://twitter.com/wicsuci', '#page']
+
+
+
+Pressed Ctrl+C. Returning the top 50 words detected so far
+
+events => 22
+11 => 8
+1980 => 8
+ghc => 8
+search => 8
+day => 8
+social => 6
+wics => 6
+calendar => 6
+2023 => 6
+us => 6
+next => 6
+outlook => 6
+01 => 4
+officers => 4
+previous => 4
+community => 4
+outreach => 4
+committee => 4
+merch => 4
+scheduled => 4
+jump => 4
+upcoming => 4
+views => 4
+navigation => 4
+keyword => 4
+export => 4
+ics => 4
+file => 4
+02 => 4
+internal => 2
+affairs => 2
+women => 2
+information => 2
+computer => 2
+sciences => 2
+skip => 2
+content => 2
+home => 2
+current => 2
+awards => 2
+accomplishments => 2
+history => 2
+blogs => 2
+conferences => 2
+2025 => 2
+2024 => 2
+2022 => 2
+scratch-a-thon => 2
+2026 => 2

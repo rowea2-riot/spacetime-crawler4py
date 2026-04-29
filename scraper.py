@@ -91,8 +91,8 @@ def extract_next_links(url, resp):
     content_len = raw_response.headers.get("Content-Length")
     if content_len is not None:
         try:
-            content_length = int(content_length)  # Convert to integer
-            if content_len > 2048000:
+            content_length = int(content_len)  # Convert to integer
+            if content_length > 2048000:
                 log(f"Content length for {actual_url} surpasses the validity check: {content_length} bytes")
                 return []
         except ValueError:

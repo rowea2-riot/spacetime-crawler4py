@@ -1,0 +1,56 @@
+Top 50 words found so far:
+events => 22
+11 => 8
+1980 => 8
+ghc => 8
+search => 8
+day => 8
+social => 6
+wics => 6
+calendar => 6
+2023 => 6
+us => 6
+next => 6
+outlook => 6
+01 => 4
+officers => 4
+previous => 4
+community => 4
+outreach => 4
+committee => 4
+merch => 4
+scheduled => 4
+jump => 4
+upcoming => 4
+views => 4
+navigation => 4
+keyword => 4
+export => 4
+ics => 4
+file => 4
+02 => 4
+internal => 2
+affairs => 2
+women => 2
+information => 2
+computer => 2
+sciences => 2
+skip => 2
+content => 2
+home => 2
+current => 2
+awards => 2
+accomplishments => 2
+history => 2
+blogs => 2
+conferences => 2
+2025 => 2
+2024 => 2
+2022 => 2
+scratch-a-thon => 2
+2026 => 2
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 1
+wics.ics.uci.edu, 34
+Most Words: 147 (http://wics.ics.uci.edu/events/category/internal-affairs/social/day/1980-11-01)

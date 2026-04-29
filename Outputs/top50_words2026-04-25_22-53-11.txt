@@ -1,0 +1,100 @@
+Top 50 words found so far:
+years => 88534
+ago => 86537
+added => 83825
+project => 82972
+will => 82623
+kb => 69574
+pdf => 56278
+10 => 55528
+use => 45473
+data => 40211
+can => 39004
+file => 38802
+http => 35151
+students => 34575
+database => 32188
+chenli => 32163
+uci => 30572
+page => 30359
+using => 30062
+course => 27788
+tomcat => 26433
+projects => 25876
+https => 25511
+make => 24529
+aws => 23684
+ppt => 23682
+search => 22576
+wiki => 22398
+version => 22324
+ics => 21970
+time => 21806
+instance => 21687
+edu => 21530
+notes => 21419
+com => 21373
+mysql => 21229
+pm => 20601
+name => 20384
+following => 20307
+information => 19955
+class => 19906
+movie => 19651
+required => 19319
+br => 19304
+java => 19005
+group => 18834
+see => 18780
+user => 18637
+11 => 18362
+movies => 17647
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 45
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 114
+cecs.uci.edu, 12
+chenli.ics.uci.edu, 10
+cml.ics.uci.edu, 191
+code.ics.uci.edu, 15
+coronavirustwittermap.ics.uci.edu, 1
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 15
+cs.uci.edu, 1
+cyberclub.ics.uci.edu, 1
+dgillen.ics.uci.edu, 33
+ds4all.ics.uci.edu, 8
+fellowships.ics.uci.edu, 2
+futurehealth.ics.uci.edu, 1
+grape.ics.uci.edu, 5665
+hpi.ics.uci.edu, 6
+icde2023.ics.uci.edu, 1
+ics.uci.edu, 787
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 30
+informatics.uci.edu, 7
+jgarcia.ics.uci.edu, 40
+mailman.ics.uci.edu, 3
+mcs.ics.uci.edu, 11
+mdogucu.ics.uci.edu, 2
+mds.ics.uci.edu, 12
+mhcid.ics.uci.edu, 17
+mswe.ics.uci.edu, 9
+mt-live.ics.uci.edu, 1
+ngs.ics.uci.edu, 1996
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+tad.ics.uci.edu, 2
+tutoring.ics.uci.edu, 1
+twitter.com, 36
+vision.ics.uci.edu, 194
+www.cecs.uci.edu, 113
+www.cs.uci.edu, 8
+www.ics.uci.edu, 118
+www.informatics.uci.edu, 14
+www.stat.uci.edu, 8
+Most Words: 107562 (https://grape.ics.uci.edu/wiki/public/zip-attachment/wiki/cs122b-2018-winter-project5)

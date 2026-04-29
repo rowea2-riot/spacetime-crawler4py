@@ -1,0 +1,87 @@
+Top 50 words found so far:
+university => 3104
+research => 1125
+2023 => 921
+us => 889
+track => 871
+ics => 836
+science => 814
+data => 755
+technology => 698
+members => 669
+wics => 667
+program => 655
+uci => 636
+information => 634
+computer => 593
+health => 577
+news => 576
+session => 534
+learning => 509
+access => 508
+events => 494
+student => 476
+institute => 460
+community => 440
+students => 432
+committee => 423
+contact => 411
+home => 389
+industry => 383
+systems => 380
+irvine => 366
+ifh => 364
+projects => 346
+china => 342
+content => 335
+computing => 326
+future => 325
+graduate => 323
+group => 322
+school => 321
+applications => 316
+undergraduate => 314
+30 => 312
+event => 298
+bren => 291
+awards => 291
+sciences => 285
+zhang => 284
+corporate => 280
+2026 => 275
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 32
+accessibility.ics.uci.edu, 1
+chenli.ics.uci.edu, 8
+cml.ics.uci.edu, 2
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 7
+cs.ics.uci.edu, 1
+cs.uci.edu, 1
+ds4all.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 104
+hack.ics.uci.edu, 1
+hpi.ics.uci.edu, 6
+icde2023.ics.uci.edu, 48
+ics.uci.edu, 265
+industryshowcase.ics.uci.edu, 25
+informatics.ics.uci.edu, 9
+informatics.uci.edu, 10
+mcs.ics.uci.edu, 1
+mds.ics.uci.edu, 1
+mhcid.ics.uci.edu, 1
+nalini.ics.uci.edu, 8
+ngs.ics.uci.edu, 1
+oai.ics.uci.edu, 7
+stat.ics.uci.edu, 13
+stat.uci.edu, 2
+summeracademy.ics.uci.edu, 1
+tutoring.ics.uci.edu, 5
+twitter.com, 10
+wics.ics.uci.edu, 72
+www.cs.uci.edu, 1
+www.ics.uci.edu, 30
+www.informatics.uci.edu, 14
+www.stat.uci.edu, 6
+Most Words: 12558 (https://icde2023.ics.uci.edu/detailed-program)

@@ -1,0 +1,110 @@
+Top 50 words found so far:
+pm => 193200
+00 => 193134
+data => 152883
+dbh => 107194
+fri => 93075
+abstract => 81364
+2023 => 76797
+events => 74543
+4011 => 70377
+2024 => 66264
+12 => 62993
+systems => 61373
+2022 => 47623
+isg => 47588
+uc => 38702
+search => 38060
+research => 36961
+science => 36644
+database => 35658
+11 => 35525
+blockchain => 31256
+irvine => 31060
+university => 30862
+2025 => 30302
+may => 29128
+6011 => 28915
+applications => 27926
+award => 27915
+30 => 27901
+performance => 27634
+13 => 27176
+january => 26686
+information => 26167
+us => 25519
+group => 25119
+march => 24929
+october => 23962
+talk => 23806
+received => 23452
+using => 23410
+talks => 23245
+uci => 23124
+zoom => 22888
+query => 22689
+computer => 22541
+april => 22027
+november => 21960
+reunion => 21092
+outlook => 20980
+19 => 20606
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 9035
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 42
+asterix.ics.uci.edu, 8
+asterixdb.ics.uci.edu, 2
+chenli.ics.uci.edu, 10
+cherry.ics.uci.edu, 1
+chime.ics.uci.edu, 1
+cloudberry.ics.uci.edu, 11
+cml.ics.uci.edu, 104
+code.ics.uci.edu, 16
+coronavirustwittermap.ics.uci.edu, 1
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 2
+cs.ics.uci.edu, 11
+cs.uci.edu, 3
+cyberclub.ics.uci.edu, 1
+dblp.ics.uci.edu, 2
+ds4all.ics.uci.edu, 10
+duke.ics.uci.edu, 1
+flamingo.ics.uci.edu, 21
+fr.ics.uci.edu, 14
+futurehealth.ics.uci.edu, 1
+graphmod.ics.uci.edu, 2
+hobbes.ics.uci.edu, 2
+hpi.ics.uci.edu, 2
+icde2023.ics.uci.edu, 48
+ics.uci.edu, 488
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 23
+informatics.uci.edu, 8
+ipubmed.ics.uci.edu, 2
+isg.ics.uci.edu, 7764
+jujube.ics.uci.edu, 2
+luci.ics.uci.edu, 1
+mcs.ics.uci.edu, 14
+mds.ics.uci.edu, 10
+mhcid.ics.uci.edu, 17
+mswe.ics.uci.edu, 3
+mt-live.ics.uci.edu, 1
+oai.ics.uci.edu, 1
+psearch.ics.uci.edu, 5
+sli.ics.uci.edu, 6
+sprout.ics.uci.edu, 2
+stairs.ics.uci.edu, 3
+stat.ics.uci.edu, 12
+stat.uci.edu, 2
+summeracademy.ics.uci.edu, 1
+tad.ics.uci.edu, 1
+tastier.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+vision.ics.uci.edu, 15
+www.cs.uci.edu, 13
+www.ics.uci.edu, 284
+www.informatics.uci.edu, 29
+www.stat.uci.edu, 5
+Most Words: 15930 (https://cml.ics.uci.edu/category/aiml)
