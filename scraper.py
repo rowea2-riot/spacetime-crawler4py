@@ -88,6 +88,7 @@ def extract_next_links(url, resp):
         log(f"Failed to retrieve {url}. Status code: {status}. Error: {error}")
         return []
     
+    actual_url = resp.url # resp.url: the actual url of the page, resp.raw_response.url: the url, again
     content_len = raw_response.headers.get("Content-Length")
     if content_len is not None:
         try:
@@ -99,7 +100,6 @@ def extract_next_links(url, resp):
             print("Invalid Content-Length header value.")
 
     content = raw_response.content # resp.raw_response.content: the content of the page!
-    actual_url = resp.url # resp.url: the actual url of the page, resp.raw_response.url: the url, again
     
     #3. You can use whatever libraries make your life easier to parse things. Optional dependencies you might want to look at: BeautifulSoup, lxml (nudge, nudge, wink, wink!)
     soup = BeautifulSoup(content, 'html.parser')
