@@ -12,14 +12,17 @@ import string
 url_dict = {}
 #~~~strings that are not permitted in valid domains~~~
 blacklist = {
-    "grape.ics", "intranet.ics", "wiki.ics",
+    "grape.ics", "intranet.ics", "wiki.ics", "https://acoi.ics.uci.edu/news",
+    "https://duttgroup.ics.uci.edu/2", "https://duttgroup.ics.uci.edu/blog",
+    "futurehealth.uci.edu/videos",
     "events/month", "events/week", "events/201", "events/203", "events/1", "events/tags",
     "tribe-bar-date=200","tribe-bar-date=2016", "tribe-bar-date=203",
     "ics.uci.edu/events/month", "ics.uci.edu/events/2", "ics.uci.edu/events/week",
     "isg.ics.uci.edu/events/tag/talk",
     "outlook", "ical=",
     "isg.ics.uci.edu/events/month",
-    "wics.ics.uci.edu/events",
+    "wics.ics.uci.edu/events", "wics.ics.uci.edu/fall", "wics.ics.uci.edu/winter",
+    "wics.ics.uci.edu/spring", "wics.ics.uci.edu/summer",
     "web.archive", "archive.ics",
     "login", "share="
 }
