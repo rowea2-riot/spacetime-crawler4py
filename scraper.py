@@ -119,7 +119,7 @@ def extract_next_links(url, resp):
     text = soup.get_text()
 
     #similarity checker
-    mySimHash = Simhash(text)
+    mySimHash = Simhash(text).value
     if mySimHash in simDict:
         log(f"Skipping {actual_url}; content too similar to {simDict.get(mySimHash)}")
         return []
@@ -127,7 +127,7 @@ def extract_next_links(url, resp):
 
     tokenize_content(actual_url, text)
     topWordFreq(actual_url)
-    
+
     links = list()
     skippedLinks = list()
     for link in soup.find_all('a', href=True):
