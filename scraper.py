@@ -7,6 +7,7 @@ import builtins
 from stop_words import get_stop_words
 from urllib.parse import urljoin
 import string
+from simhash import Simhash
 
 #~~~keeps track of subdomains and how many times each has been visited~~~
 url_dict = {}
@@ -34,6 +35,7 @@ validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.ed
 token_dict = {}
 mostWords = -1
 mostWordsUrl = ""
+simDict = dict() # hash:url (key:value)
 stop_words = get_stop_words('en')
 
 #~~~creates new log file to store which URLs are being scraped, queued, or skipped~~~
@@ -106,6 +108,7 @@ def extract_next_links(url, resp):
             print("Invalid Content-Length header value.")
 
     content = raw_response.content # resp.raw_response.content: the content of the page!
+
     
     #3. You can use whatever libraries make your life easier to parse things. Optional dependencies you might want to look at: BeautifulSoup, lxml (nudge, nudge, wink, wink!)
     soup = BeautifulSoup(content, 'html.parser')
@@ -113,8 +116,15 @@ def extract_next_links(url, resp):
     log('')
     log(f"SEARCHING THE FOLLOWING URL:\n {actual_url}, Status: {status}, Error: {error}\n")
 
-    tokenize_content(actual_url, soup.get_text())
-    #Anish/Orange - Change I added to log the top 50 words for every url
+    text = soup.get_text()
+
+    #similarity checker
+    mySimHash = Simhash(text).value
+    if mySimHash in simDict:
+        log2("Outputs/SimilarityLog.txt", f"Content in {actual_url} is similar to {simDict.get(mySimHash)}") #not skipping as looking through some of them reveals enough differences imo
+    simDict[mySimHash] = actual_url
+
+    tokenize_content(actual_url, text)
     topWordFreq(actual_url)
 
     links = list()
