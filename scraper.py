@@ -121,7 +121,7 @@ def extract_next_links(url, resp):
     #similarity checker
     mySimHash = Simhash(text).value
     if mySimHash in simDict:
-        log2("Output/SimilarityLog.txt", f"Content in {actual_url} is similar to {simDict.get(mySimHash)}") #not skipping as looking through some of them reveals enough differences imo
+        log2("Outputs/SimilarityLog.txt", f"Content in {actual_url} is similar to {simDict.get(mySimHash)}") #not skipping as looking through some of them reveals enough differences imo
     simDict[mySimHash] = actual_url
 
     tokenize_content(actual_url, text)
