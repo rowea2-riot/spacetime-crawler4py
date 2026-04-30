@@ -12,7 +12,7 @@ import string
 url_dict = {}
 #~~~strings that are not permitted in valid domains~~~
 blacklist = {
-    "grape.ics", "intranet.ics", "wiki.ics", "https://acoi.ics.uci.edu/news",
+    "grape.ics", "intranet.ics", "wiki.ics", "https://acoi.ics.uci.edu/news", "acoi.ics.uci.edu/2",
     "https://duttgroup.ics.uci.edu/2", "https://duttgroup.ics.uci.edu/blog",
     "futurehealth.uci.edu/videos",
     "isg.ics.uci.edu/ournews", "isg.ics.uci.edu/news",

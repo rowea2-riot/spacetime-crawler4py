@@ -1,57 +1,57 @@
 Top 50 words found so far:
-ramesh => 14102
-computer => 9010
-jain => 8814
-data => 8324
-current => 8244
-students => 7933
-computing => 6763
-systems => 6383
-search => 6237
-university => 6083
-science => 6055
-news => 6013
-learning => 5944
-ics => 5843
-events => 5807
-read => 5270
-us => 5150
-will => 5054
-courses => 5022
-irvine => 4932
-companies => 4534
-books => 4479
-projects => 4304
-people => 4256
-by => 4145
+ramesh => 14103
+research => 13859
+computer => 9542
+jain => 8820
+data => 8800
+current => 8299
+information => 8205
+students => 8006
+learning => 6932
+computing => 6828
+systems => 6733
+university => 6524
+past => 6523
+science => 6471
+search => 6352
+news => 6192
+ics => 5984
+events => 5886
+will => 5571
+us => 5364
+read => 5282
+irvine => 5217
+courses => 5077
+companies => 4539
+books => 4533
+people => 4350
+projects => 4333
+by => 4146
 favorite => 4136
-experiential => 4126
-theme => 4123
-2026 => 4044
-vision => 3982
-software => 3889
-uci => 3863
-access => 3798
-student => 3643
-multimedia => 3521
-management => 3423
-conference => 3251
-papers => 3191
-machine => 3155
-graduate => 3102
-personal => 2985
-navigation => 2890
- => 2882
-uc => 2866
-time => 2826
-health => 2816
-using => 2781
-education => 2775
-school => 2760
-undergraduate => 2758
+experiential => 4134
+theme => 4127
+vision => 4111
+2026 => 4055
+uci => 3977
+software => 3919
+can => 3890
+access => 3832
+student => 3787
+machine => 3741
+multimedia => 3526
+management => 3440
+conference => 3305
+graduate => 3235
+models => 3223
+papers => 3221
+new => 3171
+one => 3058
+personal => 2995
+uc => 2984
+navigation => 2963
 Subdomains and unique page counts:
 -----------------------------
-Total Unique Pages: 5628
+Total Unique Pages: 5642
 DataGuard.ics.uci.edu, 1
 DataProtector.ics.uci.edu, 1
 accessibility.ics.uci.edu, 1
@@ -68,7 +68,7 @@ chenli.ics.uci.edu, 11
 cherry.ics.uci.edu, 1
 chime.ics.uci.edu, 1
 cloudberry.ics.uci.edu, 11
-cml.ics.uci.edu, 225
+cml.ics.uci.edu, 228
 code.ics.uci.edu, 16
 computableplant.ics.uci.edu, 44
 coronavirustwittermap.ics.uci.edu, 1
@@ -99,7 +99,7 @@ hobbes.ics.uci.edu, 2
 hpi.ics.uci.edu, 6
 iasl.ics.uci.edu, 2
 icde2023.ics.uci.edu, 48
-ics.uci.edu, 1000
+ics.uci.edu, 1007
 industryshowcase.ics.uci.edu, 25
 informatics.ics.uci.edu, 36
 informatics.uci.edu, 17
@@ -108,7 +108,7 @@ isg.ics.uci.edu, 192
 jgarcia.ics.uci.edu, 41
 jujube.ics.uci.edu, 2
 kdd.ics.uci.edu, 1
-luci.ics.uci.edu, 6
+luci.ics.uci.edu, 7
 mailman.ics.uci.edu, 4
 mapgrid.ics.uci.edu, 1
 mcs.ics.uci.edu, 14
@@ -140,7 +140,7 @@ tippersweb.ics.uci.edu, 4
 tutoring.ics.uci.edu, 5
 tutors.ics.uci.edu, 1
 unite.ics.uci.edu, 10
-vision.ics.uci.edu, 199
+vision.ics.uci.edu, 202
 wics.ics.uci.edu, 78
 www-db.ics.uci.edu, 20
 www.cs.uci.edu, 16
@@ -151,4 +151,4 @@ www.informatics.uci.edu, 44
 www.isg.ics.uci.edu, 2
 www.stat.uci.edu, 15
 xtune.ics.uci.edu, 7
-Most Words: 12788 (https://icde2023.ics.uci.edu/detailed-program)
+Most Words: 16031 (https://cml.ics.uci.edu/category/aiml)
