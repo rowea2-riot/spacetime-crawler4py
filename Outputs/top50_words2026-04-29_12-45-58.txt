@@ -1,0 +1,78 @@
+Top 50 words found so far:
+the => 3368
+to => 1749
+learning => 988
+that => 640
+with => 611
+machine => 586
+we => 544
+computer => 532
+will => 517
+models => 516
+data => 476
+this => 474
+university => 441
+science => 416
+systems => 350
+irvine => 285
+center => 283
+pm => 271
+california => 266
+model => 266
+talk => 244
+hall => 226
+us => 214
+which => 211
+these => 211
+phd => 208
+seminar => 205
+language => 205
+intelligent => 204
+40111 => 194
+deep => 192
+ai => 190
+professor => 186
+methods => 182
+news => 179
+work => 176
+bio => 175
+cml => 170
+applications => 166
+their => 150
+student => 144
+ics => 141
+algorithms => 139
+using => 138
+bren => 135
+graduate => 133
+institute => 132
+vision => 129
+inference => 127
+faculty => 126
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 294
+cml.ics.uci.edu, 103
+courselisting.ics.uci.edu, 1
+create.ics.uci.edu, 1
+cs.ics.uci.edu, 1
+cs.uci.edu, 1
+fr.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+hpi.ics.uci.edu, 1
+ics.uci.edu, 97
+industryshowcase.ics.uci.edu, 1
+informatics.uci.edu, 1
+luci.ics.uci.edu, 1
+oai.ics.uci.edu, 1
+stat.ics.uci.edu, 12
+stat.uci.edu, 2
+summeracademy.ics.uci.edu, 1
+tad.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+vision.ics.uci.edu, 14
+www.cs.uci.edu, 2
+www.ics.uci.edu, 47
+www.informatics.uci.edu, 2
+www.stat.uci.edu, 1
+Most Words: 17318 (https://cml.ics.uci.edu/category/aiml)
