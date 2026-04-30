@@ -7,6 +7,7 @@ import builtins
 from stop_words import get_stop_words
 from urllib.parse import urljoin
 import string
+from simhash import Simhash
 
 #~~~keeps track of subdomains and how many times each has been visited~~~
 url_dict = {}
@@ -34,6 +35,7 @@ validDomains = {"ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.ed
 token_dict = {}
 mostWords = -1
 mostWordsUrl = ""
+simDict = dict() # hash:url (key:value)
 stop_words = get_stop_words('en')
 
 #~~~creates new log file to store which URLs are being scraped, queued, or skipped~~~
@@ -106,6 +108,13 @@ def extract_next_links(url, resp):
             print("Invalid Content-Length header value.")
 
     content = raw_response.content # resp.raw_response.content: the content of the page!
+
+    #similarity checker
+    mySimHash = Simhash(content)
+    if mySimHash in simDict:
+        log(f"Skipping {actual_url}; content too similar to {simDict.get(mySimHash)}")
+        return []
+    simDict[mySimHash] = actual_url
     
     #3. You can use whatever libraries make your life easier to parse things. Optional dependencies you might want to look at: BeautifulSoup, lxml (nudge, nudge, wink, wink!)
     soup = BeautifulSoup(content, 'html.parser')
