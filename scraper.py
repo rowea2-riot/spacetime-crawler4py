@@ -109,12 +109,6 @@ def extract_next_links(url, resp):
 
     content = raw_response.content # resp.raw_response.content: the content of the page!
 
-    #similarity checker
-    mySimHash = Simhash(content)
-    if mySimHash in simDict:
-        log(f"Skipping {actual_url}; content too similar to {simDict.get(mySimHash)}")
-        return []
-    simDict[mySimHash] = actual_url
     
     #3. You can use whatever libraries make your life easier to parse things. Optional dependencies you might want to look at: BeautifulSoup, lxml (nudge, nudge, wink, wink!)
     soup = BeautifulSoup(content, 'html.parser')
@@ -122,10 +116,18 @@ def extract_next_links(url, resp):
     log('')
     log(f"SEARCHING THE FOLLOWING URL:\n {actual_url}, Status: {status}, Error: {error}\n")
 
-    tokenize_content(actual_url, soup.get_text())
-    #Anish/Orange - Change I added to log the top 50 words for every url
-    topWordFreq(actual_url)
+    text = soup.get_text()
 
+    #similarity checker
+    mySimHash = Simhash(text)
+    if mySimHash in simDict:
+        log(f"Skipping {actual_url}; content too similar to {simDict.get(mySimHash)}")
+        return []
+    simDict[mySimHash] = actual_url
+
+    tokenize_content(actual_url, text)
+    topWordFreq(actual_url)
+    
     links = list()
     skippedLinks = list()
     for link in soup.find_all('a', href=True):
