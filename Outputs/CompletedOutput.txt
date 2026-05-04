@@ -1,57 +1,57 @@
 Top 50 words found so far:
 ramesh => 14103
-research => 13811
-computer => 9520
+research => 13859
+computer => 9542
 jain => 8820
-data => 8788
-current => 8295
-information => 8194
-students => 7991
-learning => 6905
-computing => 6816
-systems => 6722
-university => 6519
-past => 6519
-science => 6444
-search => 6347
-news => 6171
-ics => 5917
-events => 5875
-will => 5570
-us => 5325
-read => 5280
-irvine => 5190
+data => 8800
+current => 8299
+information => 8205
+students => 8006
+learning => 6932
+computing => 6828
+systems => 6733
+university => 6524
+past => 6523
+science => 6471
+search => 6352
+news => 6192
+ics => 5984
+events => 5886
+will => 5571
+us => 5364
+read => 5282
+irvine => 5217
 courses => 5077
 companies => 4539
 books => 4533
-people => 4343
-projects => 4324
+people => 4350
+projects => 4333
 by => 4146
 favorite => 4136
-experiential => 4130
+experiential => 4134
 theme => 4127
 vision => 4111
-2026 => 4049
-uci => 3964
-software => 3913
-can => 3889
-access => 3822
-student => 3748
-machine => 3729
+2026 => 4055
+uci => 3977
+software => 3919
+can => 3890
+access => 3832
+student => 3787
+machine => 3741
 multimedia => 3526
-management => 3438
+management => 3440
 conference => 3305
+graduate => 3235
 models => 3223
 papers => 3221
-graduate => 3199
-new => 3166
-one => 3052
+new => 3171
+one => 3058
 personal => 2995
-uc => 2972
-navigation => 2958
+uc => 2984
+navigation => 2963
 Subdomains and unique page counts:
 -----------------------------
-Total Unique Pages: 5630
+Total Unique Pages: 5642
 DataGuard.ics.uci.edu, 1
 DataProtector.ics.uci.edu, 1
 accessibility.ics.uci.edu, 1
@@ -99,7 +99,7 @@ hobbes.ics.uci.edu, 2
 hpi.ics.uci.edu, 6
 iasl.ics.uci.edu, 2
 icde2023.ics.uci.edu, 48
-ics.uci.edu, 1001
+ics.uci.edu, 1007
 industryshowcase.ics.uci.edu, 25
 informatics.ics.uci.edu, 36
 informatics.uci.edu, 11
