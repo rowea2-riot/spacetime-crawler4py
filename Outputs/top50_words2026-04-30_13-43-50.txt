@@ -1,0 +1,93 @@
+Top 50 words found so far:
+irvine => 1538
+ics => 1499
+computer => 1291
+research => 1167
+uc => 1129
+learning => 999
+science => 964
+pdf => 959
+vision => 956
+information => 829
+students => 823
+student => 811
+school => 784
+data => 751
+graduate => 731
+uci => 729
+dechter => 701
+computational => 695
+us => 651
+algorithms => 609
+models => 604
+fowlkes => 601
+undergraduate => 596
+program => 591
+people => 583
+search => 575
+news => 569
+charless => 561
+statistics => 541
+will => 539
+home => 531
+contact => 523
+rina => 475
+sciences => 474
+conference => 459
+career => 451
+informatics => 442
+projects => 438
+systems => 431
+publications => 425
+abstract => 422
+events => 415
+faculty => 409
+software => 406
+project => 401
+deva => 401
+programs => 400
+can => 399
+international => 396
+using => 386
+Subdomains and unique page counts:
+-----------------------------
+Total Unique Pages: 1314
+accessibility.ics.uci.edu, 1
+acoi.ics.uci.edu, 41
+cml.ics.uci.edu, 5
+code.ics.uci.edu, 16
+courselisting.ics.uci.edu, 3
+create.ics.uci.edu, 1
+cs.ics.uci.edu, 13
+cs.uci.edu, 3
+dgillen.ics.uci.edu, 31
+duke.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 1
+graphmod.ics.uci.edu, 2
+hpi.ics.uci.edu, 2
+ics.uci.edu, 418
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 23
+informatics.uci.edu, 2
+isg.ics.uci.edu, 1
+jgarcia.ics.uci.edu, 8
+mcs.ics.uci.edu, 14
+mdogucu.ics.uci.edu, 2
+mds.ics.uci.edu, 12
+mhcid.ics.uci.edu, 17
+mswe.ics.uci.edu, 3
+oai.ics.uci.edu, 1
+seal.ics.uci.edu, 5
+sli.ics.uci.edu, 6
+stat.ics.uci.edu, 1
+stat.uci.edu, 1
+summeracademy.ics.uci.edu, 1
+tutoring.ics.uci.edu, 1
+vision.ics.uci.edu, 389
+www.cs.uci.edu, 8
+www.graphics.ics.uci.edu, 1
+www.ics.uci.edu, 231
+www.informatics.ics.uci.edu, 9
+www.informatics.uci.edu, 29
+www.stat.uci.edu, 10
+Most Words: 6783 (https://www.ics.uci.edu/~dechter/publications.html)
