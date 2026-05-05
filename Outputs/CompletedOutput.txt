@@ -1,61 +1,61 @@
 Top 50 words found so far:
 ramesh => 14103
-research => 13859
-computer => 9542
+research => 13850
+computer => 9532
 jain => 8820
-data => 8800
+data => 8798
 current => 8299
-information => 8205
-students => 8006
-learning => 6932
-computing => 6828
-systems => 6733
-university => 6524
-past => 6523
-science => 6471
-search => 6352
-news => 6192
-ics => 5984
-events => 5886
-will => 5571
-us => 5364
-read => 5282
-irvine => 5217
+information => 8200
+students => 8005
+learning => 6928
+computing => 6827
+systems => 6731
+past => 6520
+university => 6516
+science => 6461
+search => 6316
+news => 6005
+events => 5881
+ics => 5842
+will => 5563
+us => 5358
+read => 5280
+irvine => 5209
 courses => 5077
 companies => 4539
 books => 4533
-people => 4350
-projects => 4333
+projects => 4332
+people => 4209
 by => 4146
 favorite => 4136
 experiential => 4134
 theme => 4127
 vision => 4111
-2026 => 4055
-uci => 3977
+2026 => 4016
 software => 3919
-can => 3890
-access => 3832
-student => 3787
-machine => 3741
+can => 3888
+access => 3831
+student => 3783
+machine => 3739
+uci => 3731
 multimedia => 3526
 management => 3440
 conference => 3305
-graduate => 3235
-models => 3223
+graduate => 3229
 papers => 3221
-new => 3171
+models => 3214
+new => 3170
 one => 3058
 personal => 2995
-uc => 2984
-navigation => 2963
+navigation => 2962
+uc => 2939
 Subdomains and unique page counts:
 -----------------------------
-Total Unique Pages: 5642
+Total Unique Pages: 5605
 DataGuard.ics.uci.edu, 1
 DataProtector.ics.uci.edu, 1
 accessibility.ics.uci.edu, 1
-acoi.ics.uci.edu, 113
+acoi.ics.uci.edu, 77
 asterix.ics.uci.edu, 10
 asterixdb.ics.uci.edu, 2
 auge.ics.uci.edu, 2
@@ -75,7 +75,7 @@ coronavirustwittermap.ics.uci.edu, 1
 courselisting.ics.uci.edu, 4
 create.ics.uci.edu, 8
 cs.ics.uci.edu, 19
-cs.uci.edu, 3
+cs.uci.edu, 2
 cyberclub.ics.uci.edu, 1
 dblp.ics.uci.edu, 2
 dgillen.ics.uci.edu, 33
@@ -102,7 +102,7 @@ icde2023.ics.uci.edu, 48
 ics.uci.edu, 1007
 industryshowcase.ics.uci.edu, 25
 informatics.ics.uci.edu, 36
-informatics.uci.edu, 11
+informatics.uci.edu, 17
 ipubmed.ics.uci.edu, 2
 isg.ics.uci.edu, 192
 jgarcia.ics.uci.edu, 41
