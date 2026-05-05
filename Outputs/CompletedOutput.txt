@@ -102,7 +102,7 @@ icde2023.ics.uci.edu, 48
 ics.uci.edu, 1007
 industryshowcase.ics.uci.edu, 25
 informatics.ics.uci.edu, 36
-informatics.uci.edu, 17
+informatics.uci.edu, 11
 ipubmed.ics.uci.edu, 2
 isg.ics.uci.edu, 192
 jgarcia.ics.uci.edu, 41
